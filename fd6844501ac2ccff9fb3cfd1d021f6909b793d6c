@@ -1,0 +1,28 @@
+packages/shared/src/mPaas.ts
+  s_c273961c22eeb9::t_d3d8ac9473a054 175-180
+  s_c273961c22eeb9::t_d8e823eb9d58d6 183-184
+packages/cli/src/normalize-yaml-meta.ts
+  s_c273961c22eeb9::t_ee7fe02d996f31 3,43-46
+  h_6c98e8fb003ba6 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.17-trip",
+  "base_commit_sha": "fd6844501ac2ccff9fb3cfd1d021f6909b793d6c",
+  "prompts": {},
+  "humans": {
+    "h_6c98e8fb003ba6": {
+      "author": "zhuc <zhuc@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_c273961c22eeb9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4b0c383f-db54-4127-a61c-60b6d0f79458",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

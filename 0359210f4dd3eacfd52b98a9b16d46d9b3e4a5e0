@@ -1,0 +1,78 @@
+packages/core/src/ai-model/llm-planning.ts
+  s_db51e2910e7c6c::t_20e0417abc22c2 135
+  s_db51e2910e7c6c::t_0303f3bcc31f9d 263-267
+packages/core/src/agent/action-space.ts
+  h_b23c991cbeb333 52,62,68
+  s_c0d3a2ce48b2ef::t_126cc9aeb5de10 53-61
+  s_db51e2910e7c6c::t_a1e4316510266e 5-19,24-28,40-51
+  s_db51e2910e7c6c::t_37572112b170ed 1-4,20-23,29-39,63-67,69
+packages/core/src/agent/agent.ts
+  s_db51e2910e7c6c::t_885e13ffa8d428 70,130,377
+packages/shared/src/mPaas.ts
+  h_b23c991cbeb333 282
+  s_c0d3a2ce48b2ef::t_877501bda96b88 219-221
+packages/core/src/device/index.ts
+  s_555771ae471d85::t_9dd4bf614455ad 639,641,650,652
+  s_c0d3a2ce48b2ef::t_c675892dd7ad29 628-634,640,649,651,657
+  s_c0d3a2ce48b2ef::t_d20952c15aa20b 769-773,775-789
+  s_c0d3a2ce48b2ef::t_3c1393f3cfb3ad 624,660-661,694
+packages/core/tests/unit-test/action-space.test.ts
+  s_db51e2910e7c6c::t_f7d87eec684401 1-4,14-15,18-19,22,24-25,34-35,37,43-44,48-51,62-63,72-86
+  s_db51e2910e7c6c::t_38f6c591e0a7c5 5-13,16-17,20-21,23,26-33,36,38-42,45-47,52-55,60-61,64-71,87-89
+  s_c0d3a2ce48b2ef::t_2c6dfd7abbc36b 56-57,59
+packages/core/src/ai-model/workflows/planning/types.ts
+  s_db51e2910e7c6c::t_5ede58a80394c9 2-7,15
+packages/core/src/agent/tasks.ts
+  s_db51e2910e7c6c::t_39a3ff882b50f4 520
+  s_db51e2910e7c6c::t_0303f3bcc31f9d 41-48,50,161-163,184,419,424-427,608,624-626,661-663,691
+  s_db51e2910e7c6c::t_40a25e465bd2be 51-54,489-493,496-500,502,519
+packages/core/src/ai-model/prompt/llm-planning.ts
+  s_c0d3a2ce48b2ef::t_fc88e11c42bcff 31-35
+  s_c0d3a2ce48b2ef::t_1316f572a699a7 522-523
+  s_c0d3a2ce48b2ef::t_2c6dfd7abbc36b 464-466,473-475,477-478,484-485,550-551,808-809,860-861
+  s_c0d3a2ce48b2ef::t_f9e575f60cec2d 822-857
+  s_c0d3a2ce48b2ef::t_1334c6d6fb1f15 469,483
+  s_c0d3a2ce48b2ef::t_281003086fdd0e 858-859
+  s_c0d3a2ce48b2ef::t_32679d926be9c9 640
+  s_c0d3a2ce48b2ef::t_030c666921b913 605
+  s_c0d3a2ce48b2ef::t_2fbc9b6b1ceba9 476,479-482
+packages/core/tests/unit-test/prompt/prompt.test.ts
+  s_db51e2910e7c6c::t_74985e4df2be5e 241,244
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.18-trip",
+  "base_commit_sha": "0359210f4dd3eacfd52b98a9b16d46d9b3e4a5e0",
+  "prompts": {},
+  "humans": {
+    "h_b23c991cbeb333": {
+      "author": "resonLei <sheng.lei@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_555771ae471d85": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6234cca9-ad25-4e2c-ab2b-a584cc9fec63",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    },
+    "s_c0d3a2ce48b2ef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab26c924-203c-45cf-9dae-22d4919e390b",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    },
+    "s_db51e2910e7c6c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ed963-4a9c-7590-9749-b31351fe8485",
+        "model": "gpt-5.5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

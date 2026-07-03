@@ -1,0 +1,21 @@
+packages/shared/src/mPaas.ts
+  s_ad5753334d7de8::t_3e25a68dec26da 1493-1494,1505-1506
+  s_ad5753334d7de8::t_b92af82760d3ee 1520-1521
+  s_ad5753334d7de8::t_9c432433614609 1495-1497,1502-1504,1507,1509-1519
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.25-trip",
+  "base_commit_sha": "284b31e3a9fc196a77d738c40263c20bdfd56268",
+  "prompts": {},
+  "sessions": {
+    "s_ad5753334d7de8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "81a117b0-e055-4fb9-9708-8c0c2747190a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

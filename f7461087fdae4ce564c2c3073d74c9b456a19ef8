@@ -1,0 +1,27 @@
+apps/report/src/components/sidebar/index.tsx
+  s_9751b25c0d00cd::t_883e6dbb12c74a 35-45,49-61,93-134,142-182,263-275,293-294,298,300-302,304,308,311-322
+  s_9751b25c0d00cd::t_19bbe1394ef51d 354-370
+  s_9751b25c0d00cd::t_675fd935cbd604 183-262
+  s_9751b25c0d00cd::t_02b2b61049374c 46-48,62-92
+  s_9751b25c0d00cd::t_f033a820bbf230 135-141
+  s_9751b25c0d00cd::t_5abe4a9117f811 299,303,305-307
+  s_9751b25c0d00cd::t_7783cf028a9bf9 276-292,295-297,309-310
+  s_9751b25c0d00cd::t_8fb98822ce0d28 10-11
+  s_9751b25c0d00cd::t_4dd3afb407d8b3 1066-1074
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.18-trip",
+  "base_commit_sha": "f7461087fdae4ce564c2c3073d74c9b456a19ef8",
+  "prompts": {},
+  "sessions": {
+    "s_9751b25c0d00cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b09651c1-7167-4598-93b3-64a8564bb6a5",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

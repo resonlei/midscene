@@ -1,0 +1,45 @@
+packages/android/src/scrcpy-manager.ts
+  s_d0a798a3f04c99::t_6569361fbc8e84 514
+  s_d0a798a3f04c99::t_3a9dca7a636d3f 464-466,476,483-484,492,496,498,501-513,520
+  s_d0a798a3f04c99::t_fb0d789650dba8 45-48
+  h_b23c991cbeb333 29-30,39,44,480,516,519
+packages/android/src/input-backend.ts
+  s_79f2c3367869e7::t_8d4372d39f9047 76-78
+  s_79f2c3367869e7::t_60e9cfe4bd12d8 1,55-58,64,79,96,100-104,140-147
+  s_d0a798a3f04c99::t_6ca2a35e47fd9d 10-11,15-17,27-29,52-53,59,61-63,65,68-70,80,97-99,107-109,136-139
+packages/android/tests/unit-test/input-backend.test.ts
+  s_79f2c3367869e7::t_b35669570a1522 166,170-239
+  s_d0a798a3f04c99::t_eb846b6ea9ad6c 167-169
+packages/android/tests/unit-test/scrcpy-manager.test.ts
+  s_d0a798a3f04c99::t_5c39b85ffcfca9 220-278,282-283
+  s_d0a798a3f04c99::t_f045e5431e8502 279-281
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "ab7bc11e805c06a167c6161a02db0c01f5820921",
+  "prompts": {},
+  "humans": {
+    "h_b23c991cbeb333": {
+      "author": "resonLei <sheng.lei@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_79f2c3367869e7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09caf3a-0e9c-4b9d-9509-1244ee1c2dd3",
+        "model": "glm-5.2"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    },
+    "s_d0a798a3f04c99": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f50fe6c1-c756-4f2f-8fa7-3e4e4f715412",
+        "model": "glm-5.2"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

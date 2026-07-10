@@ -1,0 +1,14 @@
+packages/android/src/scrcpy-manager.ts
+  h_b23c991cbeb333 468
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "c2ea9ccdc0cec0e7ee2cbd6fd05e2664692d3924",
+  "prompts": {},
+  "humans": {
+    "h_b23c991cbeb333": {
+      "author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

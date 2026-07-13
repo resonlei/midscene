@@ -1,0 +1,47 @@
+packages/agent-server/src/http.ts
+  s_70242ffe1b4309::t_2bfae59e9577ff 50-51,53
+  s_70242ffe1b4309::t_54d1c19fdf0cf9 3
+  s_70242ffe1b4309::t_3b6273ffd0d95a 52
+packages/agent-server/src/report-analysis/types.ts
+  s_70242ffe1b4309::t_521dd861fc97c0 2-4,6-9,11-22,28-29,31-36,38-41,63,75-77,79-80,82-84,86-87,102-103
+  s_70242ffe1b4309::t_e9780d7a08d440 23-27
+  s_70242ffe1b4309::t_d10d2122582724 42-61,64-69,71-74
+  s_70242ffe1b4309::t_5a78174ee53e1a 88
+  s_70242ffe1b4309::t_f2e9ac0691d637 85
+  s_70242ffe1b4309::t_271ef85521dc5f 30
+  s_70242ffe1b4309::t_32937f98dc57bd 5
+  s_70242ffe1b4309::t_099a82a603e314 10
+  s_70242ffe1b4309::t_537dd37ce22c76 1
+  s_70242ffe1b4309::t_fe5d132f2e2e0f 78
+  s_70242ffe1b4309::t_9e339860d8aae3 81
+  s_f2c51ffece43cd::t_c78e3313e447e6 70
+  s_70242ffe1b4309::t_a590db81585494 37
+  s_70242ffe1b4309::t_37b62f541a206a 89-101
+  s_70242ffe1b4309::t_89ef3defe55d74 62
+packages/agent-server/src/report-analysis/index.ts
+  s_70242ffe1b4309::t_e6f9a33cb8b316 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "f2af0266d8dc3af00bcca7fef3b83b29a75d7978",
+  "prompts": {},
+  "sessions": {
+    "s_70242ffe1b4309": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0548852a-f09e-4323-9f07-322e1ff75d69",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    },
+    "s_f2c51ffece43cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "05b44830-01ce-46c2-8d51-995d91a36152",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

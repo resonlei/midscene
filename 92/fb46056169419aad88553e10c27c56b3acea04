@@ -1,0 +1,19 @@
+packages/shared/src/mPaas.ts
+  s_d26d83590d4a76::t_0793d9a1c341b1 195,285-286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "92fb46056169419aad88553e10c27c56b3acea04",
+  "prompts": {},
+  "sessions": {
+    "s_d26d83590d4a76": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5fcc-d97b-7663-bef1-cc701b185813",
+        "model": "gpt-5.5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

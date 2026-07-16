@@ -1,0 +1,21 @@
+packages/core/src/ai-model/shared/error-feedback.ts
+  s_2a1e104d3c7fbd::t_c5ade8ab5fbef7 1,9-13
+packages/core/src/ai-model/llm-planning.ts
+  s_2a1e104d3c7fbd::t_07370a241dd310 298-302,305-348
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "1ae99f48d9358e7d068de696758d3441489d7659",
+  "prompts": {},
+  "sessions": {
+    "s_2a1e104d3c7fbd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6c90d58-ba14-43e3-81d1-5d0c689a8045",
+        "model": "arn:aws:bedrock:us-east-1:133197901387:application-inference-profile/r3vgzaso9r25"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

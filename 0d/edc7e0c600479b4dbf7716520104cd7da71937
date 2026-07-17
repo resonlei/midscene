@@ -1,0 +1,30 @@
+packages/visualizer/src/component/player/scenes/StepScene.tsx
+  s_1303c28744e475::t_9c48a0f1be5bac 173-193
+packages/visualizer/src/component/player/scenes/derive-frame-state.ts
+  s_1303c28744e475::t_20f83395907f15 20
+  s_1303c28744e475::t_70ca41b14a0fe4 168-169,175
+packages/visualizer/src/component/player/scenes/frame-calculator.ts
+  s_1303c28744e475::t_c8839431fa8eda 40
+  s_1303c28744e475::t_69b06ce3fe9809 159
+packages/visualizer/src/component/player/scenes/export-branded-video.ts
+  s_1303c28744e475::t_e46eb748d7b27c 188-213
+packages/visualizer/src/utils/replay-scripts.ts
+  s_1303c28744e475::t_168e26d1328822 60
+  s_1303c28744e475::t_e45fbbb669876d 520
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "0dedc7e0c600479b4dbf7716520104cd7da71937",
+  "prompts": {},
+  "sessions": {
+    "s_1303c28744e475": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "329e9826-49b4-4045-a4f1-07dc5bf6dc25",
+        "model": "arn:aws:bedrock:us-east-1:133197901387:application-inference-profile/r3vgzaso9r25"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+packages/core/src/ai-model/llm-planning.ts
+  s_907dfc89588c39::t_718a4d6c8a3fae 469-511
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "c3ee5291edc13e78bd333324f06ca88cb72bf06f",
+  "prompts": {},
+  "sessions": {
+    "s_907dfc89588c39": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "31b74f6d-8a36-4dd4-bd97-1b1a1a46b213",
+        "model": "arn:aws:bedrock:us-east-1:133197901387:application-inference-profile/r3vgzaso9r25"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+packages/agent-server/src/report-analysis/analyzer.ts
+  s_6c397aaa57e342::t_36976f49797b24 54-58
+  s_6c397aaa57e342::t_a902ef31a6de80 17
+  s_6c397aaa57e342::t_c75ae8948ac6fa 106-108,119-121,179-181
+  s_6c397aaa57e342::t_4bae745d2132bd 74
+  s_6c397aaa57e342::t_64bc4cb7c461c7 122-124
+  s_6c397aaa57e342::t_6cbe6e2a28d840 170-178,182-185
+packages/agent-server/src/report-analysis/report-utils.ts
+  s_6c397aaa57e342::t_36e2b7f1e4de68 96,99
+packages/agent-server/src/report-analysis/mpaas-client.ts
+  s_6c397aaa57e342::t_deccfa4f051d3d 31-32,34-35,44-45,57-74,81-102
+  s_6c397aaa57e342::t_0db20537c8741d 75-80
+packages/agent-server/src/report-analysis/prompts.ts
+  s_6c397aaa57e342::t_71095a4f7b4f42 52-57
+  s_6c397aaa57e342::t_4ec6d209ae6e66 274-276
+  s_6c397aaa57e342::t_14c4a8fc7a6f53 347-352
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "dfe9343b7cdeceb49196ff404926ee5b250c9375",
+  "prompts": {},
+  "humans": {
+    "h_160515c2cd9321": {
+      "author": "wang_jian <wang_jian@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_6c397aaa57e342": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01cd6390-c89f-4664-acc8-4fb5b763638f",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

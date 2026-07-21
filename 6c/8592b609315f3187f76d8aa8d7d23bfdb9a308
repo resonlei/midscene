@@ -1,0 +1,93 @@
+packages/agent-server/src/report-analysis/report-utils.ts
+  s_6c397aaa57e342::t_81bce4f30700b4 89-94,99-101,105-110
+  s_6c397aaa57e342::t_e4e0ab946954ef 6-7,9-11,28-30,34-36,46-58,95-98,102-104
+packages/agent-server/src/report-analysis/error-code-cache.ts
+  s_6c397aaa57e342::t_3d8d6ba971d0bc 1-27
+packages/agent-server/src/report-analysis/ai-client.ts
+  s_6c397aaa57e342::t_6e65848ca5d18c 400-404
+  s_6c397aaa57e342::t_3a240d56c0dec7 130
+  s_6c397aaa57e342::t_e09908b0d49b23 254-255
+  s_6c397aaa57e342::t_8705924e56402e 439,450-454,456
+  s_6c397aaa57e342::t_461c513df70e1f 407-412,414-438,442-449,455
+  s_6c397aaa57e342::t_601ac5262f409e 234-235
+  s_6c397aaa57e342::t_f3485a94f8ef54 27-29
+  s_6c397aaa57e342::t_e4e0ab946954ef 1-2,5,10,14-16,33,53-54,101-104,125-127,139-142,162-172,188-191,196-197,203-205,244-246,267-273,283-285,307-309,312-314,317-320,328-333,342-347,362-373,382-384,390-394,460-461,477-479
+  s_6c397aaa57e342::t_a83ff52403c989 11
+  s_6c397aaa57e342::t_7a01688c24a768 66-74
+  s_6c397aaa57e342::t_3d74bf43bd5168 385-389
+  s_6c397aaa57e342::t_a9498b3415aa37 12,440-441
+  s_6c397aaa57e342::t_5d86c9fd259f57 376-377
+  s_6c397aaa57e342::t_1e69d70a8be9d2 396-399,405-406,413,465-466
+packages/agent-server/src/report-analysis/case-yaml-utils.ts
+  s_6c397aaa57e342::t_e4e0ab946954ef 3,100-102,145-151,170-171,187-189,202-203,207-208,213-216,220-227,250-252,270-272,286-289,365-370,388-392,411-417
+  s_6c397aaa57e342::t_3a240d56c0dec7 364
+packages/agent-server/src/report-analysis/index.ts
+  s_6c397aaa57e342::t_2874e74663d386 1
+.gitignore
+  h_160515c2cd9321 35-37
+packages/agent-server/src/report-analysis/error-categories.ts
+  h_160515c2cd9321 12
+  s_6c397aaa57e342::t_a3a1aaac61b04a 1-11,13-17
+packages/agent-server/src/report-analysis/cache.ts
+  s_6c397aaa57e342::t_e4e0ab946954ef 10-12,23-25
+packages/agent-server/src/report-analysis/analyzer.ts
+  s_6c397aaa57e342::t_64df51c286dfa4 19
+  s_6c397aaa57e342::t_29b3f04ae51d18 80,82-85,89
+  s_6c397aaa57e342::t_cf37990665c34f 153
+  s_6c397aaa57e342::t_4a5af872674b01 139,155-156,163-164
+  s_6c397aaa57e342::t_c2213cd22ba3e2 157-162
+  s_6c397aaa57e342::t_e4e0ab946954ef 2-5,7,14-18,20,22-27,46-48,57-62,90-94,110-117,120-123,132-136,144-150,203-206,209-212,242-250,252-258
+  s_6c397aaa57e342::t_87a3b738a26535 13
+  s_6c397aaa57e342::t_1daad30764e99f 126-127
+packages/agent-server/src/report-analysis/types.ts
+  s_6c397aaa57e342::t_f49e29a08e29cf 137-140
+  s_6c397aaa57e342::t_953927c88621b9 72-73
+  s_6c397aaa57e342::t_341cf20283e5f9 79
+  s_6c397aaa57e342::t_1bce72c81d2cd9 192-193
+  s_6c397aaa57e342::t_6750fdc90bf17a 62-71,74-78,80-82
+  s_6c397aaa57e342::t_e4e0ab946954ef 47,49-52
+packages/agent-server/src/report-analysis/handler.ts
+  s_6c397aaa57e342::t_e4e0ab946954ef 1,6,28-32,41-43,56,62-64,91-93,117,123-128,133-138
+  h_160515c2cd9321 102-110
+  s_6c397aaa57e342::t_11b319e71f3a21 153-226
+  s_6c397aaa57e342::t_3a240d56c0dec7 66
+packages/agent-server/src/http.ts
+  s_6c397aaa57e342::t_4e4f802f60c7a6 1-5,46,48,50-53,57-59
+  s_6c397aaa57e342::t_cd5b2112adcdbd 56
+packages/agent-server/src/report-analysis/mpaas-client.ts
+  s_6c397aaa57e342::t_4a3f9bf1033952 96-100,102-111,118-122
+  s_6c397aaa57e342::t_c2213cd22ba3e2 112-117
+  s_6c397aaa57e342::t_e4e0ab946954ef 24-26,36-49,62-64,66-69,71-74,78-80,85-88
+  s_6c397aaa57e342::t_ea352119e61104 101
+packages/agent-server/src/report-analysis/prompts.ts
+  s_6c397aaa57e342::t_bc5bd37065c374 32
+  s_6c397aaa57e342::t_a835355af6ffbd 154-157,159-163
+  s_6c397aaa57e342::t_a9498b3415aa37 158
+  s_6c397aaa57e342::t_e505352830d149 235-236,252,264-270
+  s_6c397aaa57e342::t_74544355a8c4e8 147-149
+  s_6c397aaa57e342::t_e4e0ab946954ef 7-12,72-73,122-123,169-171,183-185,203-207,241-244,248-251,306-314,317-320,373-379
+  s_6c397aaa57e342::t_21690ab63f0653 271,278
+  s_6c397aaa57e342::t_2592ef59873fd2 272-277,279
+  s_6c397aaa57e342::t_5eb060ee451a59 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "6c8592b609315f3187f76d8aa8d7d23bfdb9a308",
+  "prompts": {},
+  "humans": {
+    "h_160515c2cd9321": {
+      "author": "wang_jian <wang_jian@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_6c397aaa57e342": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01cd6390-c89f-4664-acc8-4fb5b763638f",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

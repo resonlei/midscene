@@ -1,0 +1,19 @@
+packages/agent-server/src/report-analysis/analysis-queue.ts
+  s_17dbf56aa787d4::t_e1c6a1121ef54f 98-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "cce49475c9bb52ce509bb5162459191019fc7793",
+  "prompts": {},
+  "sessions": {
+    "s_17dbf56aa787d4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "23014094-e4af-4b63-bef4-bf7d789e61c4",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

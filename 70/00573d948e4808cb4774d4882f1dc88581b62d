@@ -1,0 +1,26 @@
+packages/agent-server/src/report-analysis/mpaas-client.ts
+  s_17dbf56aa787d4::t_cd6cd15f877272 70-82
+packages/agent-server/src/report-analysis/analyzer.ts
+  s_17dbf56aa787d4::t_14f06518c2c7be 90,96-114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "7000573d948e4808cb4774d4882f1dc88581b62d",
+  "prompts": {},
+  "humans": {
+    "h_160515c2cd9321": {
+      "author": "wang_jian <wang_jian@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_17dbf56aa787d4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "23014094-e4af-4b63-bef4-bf7d789e61c4",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

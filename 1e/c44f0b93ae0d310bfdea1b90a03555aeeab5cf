@@ -1,0 +1,20 @@
+packages/core/src/agent/action-space.ts
+  s_02fafba869a5d5::t_5ba2f7b8a8885f 20-46
+  s_02fafba869a5d5::t_0b6bb6e055ccd5 73-74,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.38-trip",
+  "base_commit_sha": "1ec44f0b93ae0d310bfdea1b90a03555aeeab5cf",
+  "prompts": {},
+  "sessions": {
+    "s_02fafba869a5d5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1be8d344-2be3-4993-954a-dff2a2bd993c",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+packages/core/src/yaml/utils.ts
+  ai_agent 191,204-208,223,233-235,238,273-274
+packages/core/src/agent/agent.ts
+  ai_agent 22,1648-1654,1683
+packages/shared/src/appium/client.ts
+  ai_agent 22-37,136-141,143-155,159-160,164-176,178-180,182,184-197,199-206,216-220,231-240,287-319,325-373
+packages/core/src/yaml.ts
+  ai_agent 16,27-28,66-72,305-306,309-312,315-336,338-339,341-342
+packages/android/src/device.ts
+  ai_agent 1351-1353,1384-1386,1423-1425,1462-1464
+packages/core/tests/unit-test/utils.test.ts
+  ai_agent 374-385
+packages/core/src/agent/task-builder.ts
+  ai_agent 493-494,520-521,720-726,893
+packages/core/src/yaml/player.ts
+  ai_agent 66,68,105,108,122,145-202,767,770-771,774,776-877,897-966,1118,1124-1125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.38-trip",
+  "base_commit_sha": "e1770de85fc1362a29e9bd163fa2249b691a9708",
+  "prompts": {},
+  "humans": {
+    "h_6c98e8fb003ba6": {
+      "author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

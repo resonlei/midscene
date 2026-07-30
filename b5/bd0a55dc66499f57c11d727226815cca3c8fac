@@ -1,0 +1,25 @@
+packages/agent-server/src/report-analysis/ai-client.ts
+  s_bf643ef2dbf198::t_82a95b0dbc5db2 8
+  s_bf643ef2dbf198::t_af2d2e8dfecbe9 43-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.38-trip",
+  "base_commit_sha": "b5bd0a55dc66499f57c11d727226815cca3c8fac",
+  "prompts": {},
+  "humans": {
+    "h_160515c2cd9321": {
+      "author": "wang_jian <wang_jian@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_bf643ef2dbf198": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5a064fa0-d3a6-4ea0-9b6f-512fd4925c9a",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

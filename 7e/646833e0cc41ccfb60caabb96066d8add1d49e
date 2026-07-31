@@ -1,0 +1,29 @@
+packages/android/src/device.ts
+  s_f43a7eade9f728::t_e5a538ad847135 1856-1869,1871-1872,1880,1882,1887,1891-1893
+  s_f43a7eade9f728::t_36d9200bae420f 1870,1873-1879,1881,1883-1886,1888-1890
+packages/cli/src/daemon/index.ts
+  s_f43a7eade9f728::t_5fcad92e0b5803 376-382,404
+  s_f43a7eade9f728::t_427f1581b41435 383-403
+  s_f43a7eade9f728::t_ed25ad1fe2dd02 34
+packages/cli/src/create-yaml-player.ts
+  s_f43a7eade9f728::t_3949b20a598698 97-115
+packages/android/src/scrcpy-manager.ts
+  s_f43a7eade9f728::t_33782ad0db8545 186-194,203-207,213,217-225
+  s_f43a7eade9f728::t_5e19f0f1364582 145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.38-trip",
+  "base_commit_sha": "7e646833e0cc41ccfb60caabb96066d8add1d49e",
+  "prompts": {},
+  "sessions": {
+    "s_f43a7eade9f728": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b20a3aa5-a657-49ef-bbcf-1b89cebc70a5",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

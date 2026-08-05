@@ -1,0 +1,19 @@
+packages/core/src/ai-model/llm-planning.ts
+  s_1a0471e63ee7ad::t_3450673ecb999d 12-14,141-152,155-156,159-160,163-165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "0111836c1cc3f0c192435500cddaed6ae7b9d54e",
+  "prompts": {},
+  "sessions": {
+    "s_1a0471e63ee7ad": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d3209a09-b3a9-4f32-8351-6aeebd2ecda0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  }
+}

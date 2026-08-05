@@ -1,0 +1,19 @@
+packages/core/src/ai-model/service-caller/index.ts
+  s_ff04ba3c90317e::t_ceb85f2963fc75 727-740
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "a42292f1f1af710c5e183d753cdb5a185037700c",
+  "prompts": {},
+  "sessions": {
+    "s_ff04ba3c90317e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab173c18-2596-4046-af7a-94b961bc8dd9",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

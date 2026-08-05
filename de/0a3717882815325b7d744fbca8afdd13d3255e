@@ -1,0 +1,19 @@
+packages/shared/src/devTools.ts
+  s_8cc3a688abd753::t_6c6fab9afa5a26 482-485,487-496
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "de0a3717882815325b7d744fbca8afdd13d3255e",
+  "prompts": {},
+  "sessions": {
+    "s_8cc3a688abd753": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "16603998-10af-4167-8049-0fd3d7ad9c86",
+        "model": "claude-opus-5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

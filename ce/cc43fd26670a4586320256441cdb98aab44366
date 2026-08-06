@@ -1,0 +1,13 @@
+packages/core/src/yaml/player.ts
+  ai_agent 155-156,168,171,173
+packages/core/tests/unit-test/player-action-dispatch.test.ts
+  ai_agent 805-838
+packages/core/src/yaml.ts
+  ai_agent 343
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "cecc43fd26670a4586320256441cdb98aab44366",
+  "prompts": {}
+}

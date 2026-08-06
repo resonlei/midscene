@@ -1,0 +1,13 @@
+packages/cli/src/normalize-yaml-meta.ts
+  ai_agent 3-6,35-38,43-45,51,53,60-62,69-71
+packages/cli/tests/unit-test/normalize-yaml-meta.test.ts
+  ai_agent 1-48
+packages/shared/src/env/types.ts
+  ai_agent 63-64,190
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "9f42dfc688b5bf475234dc9ca4e58dd4ada6c96e",
+  "prompts": {}
+}

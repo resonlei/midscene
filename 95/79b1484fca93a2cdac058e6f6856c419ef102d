@@ -1,0 +1,14 @@
+packages/android/src/device.ts
+  h_6c98e8fb003ba6 330-331
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "9579b1484fca93a2cdac058e6f6856c419ef102d",
+  "prompts": {},
+  "humans": {
+    "h_6c98e8fb003ba6": {
+      "author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

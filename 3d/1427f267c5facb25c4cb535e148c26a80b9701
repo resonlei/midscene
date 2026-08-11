@@ -1,0 +1,21 @@
+packages/shared/src/img/transform.ts
+  s_aaee7b776cafc5::t_bfdd5a6c6e8443 624-692,697,704,706-707,743-750,761,764-765,795-806,808,812-822
+packages/shared/src/img/index.ts
+  s_aaee7b776cafc5::t_f1d22ab7d0bddc 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "3d1427f267c5facb25c4cb535e148c26a80b9701",
+  "prompts": {},
+  "sessions": {
+    "s_aaee7b776cafc5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b95a0ff2-f0f7-45ff-ac35-60c786b260fd",
+        "model": "grok-4.5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

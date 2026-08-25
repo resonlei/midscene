@@ -1,0 +1,20 @@
+packages/core/src/agent/tasks.ts
+  s_2134be7c4580ac::t_e48b748e326459 1141-1147
+  s_2134be7c4580ac::t_93cd7223a657b4 1124,1127,1140,1148-1149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "4cf1a269c21bf8b7f50d28ff52cc09a948599844",
+  "prompts": {},
+  "sessions": {
+    "s_2134be7c4580ac": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_auparzf9nydn",
+        "model": "DeepSeek-V4-Pro-discount"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

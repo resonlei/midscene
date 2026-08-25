@@ -1,0 +1,21 @@
+packages/core/src/ai-model/prompt/planning-v4/cache-verify.ts
+  s_1538838d0f2a28::t_7a26ff8919d654 2,4,9-10,13-14,17,20-21
+packages/core/src/ai-model/prompt/planning-v4/grammar.ts
+  s_1538838d0f2a28::t_ddfbb2770fffa9 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "80743ddfd3da890b363344bf0bcb170c74572659",
+  "prompts": {},
+  "sessions": {
+    "s_1538838d0f2a28": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_crvclq7h75ak",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  }
+}

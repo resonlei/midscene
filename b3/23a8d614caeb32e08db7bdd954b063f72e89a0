@@ -1,0 +1,32 @@
+packages/core/src/ai-model/prompt/planning-v4/grammar.ts
+  s_640cb48fb92060::t_523bba8da3c782 57
+packages/core/src/ai-model/planning-ledger.ts
+  s_640cb48fb92060::t_fcd9ded88cabe3 24-26
+  s_640cb48fb92060::t_615b342ee3c079 172-173,193-199,201
+  s_1538838d0f2a28::t_c42e80487147a3 238-240,248,255,260,282,315
+  s_640cb48fb92060::t_ed98c0dde877e1 286-314,316
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "b323a8d614caeb32e08db7bdd954b063f72e89a0",
+  "prompts": {},
+  "sessions": {
+    "s_1538838d0f2a28": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_crvclq7h75ak",
+        "model": "auto(free)"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    },
+    "s_640cb48fb92060": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "20459ac2-fcca-465e-94a1-267a06017a74",
+        "model": "kimi-k3"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  }
+}

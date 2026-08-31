@@ -1,0 +1,24 @@
+packages/core/src/ai-model/prompt/llm-locator.ts
+  s_f03aeb7487cdae::t_77416aa9faac89 21-22,39,41-42,47-68,86-88,90,107,122,129,133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "85c3c9c1e49e1f9e124aa32df5b59c5937c360b8",
+  "prompts": {},
+  "humans": {
+    "h_c1b6cfc1a5f8d9": {
+      "author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_f03aeb7487cdae": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "11c9bf17-ae16-4302-8a6f-63878093b96a",
+        "model": "default"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  }
+}

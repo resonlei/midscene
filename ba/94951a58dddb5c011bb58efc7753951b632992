@@ -1,0 +1,25 @@
+packages/shared/src/img/index.ts
+  s_8437f6b4b02e25::t_30ca45324796b1 23,25
+packages/core/src/task-runner.ts
+  s_8437f6b4b02e25::t_69189a94582481 43,447-448,455-470,473-475
+packages/shared/src/img/transform.ts
+  s_8437f6b4b02e25::t_a6fe16229d2c89 640-646,701,707,712,723,733,747,757,761-762,764,770-788,812-813,838-839,850,852
+apps/report/src/components/detail-side/index.tsx
+  s_8437f6b4b02e25::t_69189a94582481 319-325
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "ba94951a58dddb5c011bb58efc7753951b632992",
+  "prompts": {},
+  "sessions": {
+    "s_8437f6b4b02e25": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_d5zvu5at6q1d",
+        "model": "DeepSeek-V4-Pro-discount"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

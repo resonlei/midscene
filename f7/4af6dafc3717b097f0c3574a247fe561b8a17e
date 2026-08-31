@@ -1,0 +1,39 @@
+packages/core/src/service/index.ts
+  s_f9ee7d9e78869d::t_f323cd25c427ff 77-95,102-124
+  s_f9ee7d9e78869d::t_1a601791191977 96-101
+  s_f9ee7d9e78869d::t_934330e9bd2063 552-555,558
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 105-109,114
+packages/shared/src/recorder.ts
+  s_f9ee7d9e78869d::t_4b634d9857900a 54-58
+packages/core/src/ai-model/prompt/describe.ts
+  s_f9ee7d9e78869d::t_d846218cbf6484 96-98
+  s_f9ee7d9e78869d::t_cf6898ebb935e4 269
+  s_f9ee7d9e78869d::t_7f8210e19e6b1e 285-290
+packages/core/tests/unit-test/service-describe.test.ts
+  s_f9ee7d9e78869d::t_31e7a74d5371bb 121-170
+  s_f9ee7d9e78869d::t_3fa58c52ad2002 81-84
+packages/agent-server/src/ai-description.test.ts
+  s_f9ee7d9e78869d::t_a23a3f0ecbd5f9 31,39-40,56,74-116
+packages/agent-server/src/ai-description.ts
+  s_f9ee7d9e78869d::t_cc467bb02e50e3 1,16-18,27-38,40,42
+  s_f9ee7d9e78869d::t_17192100681f9f 9-12
+packages/core/tests/unit-test/prompt/describe.test.ts
+  s_f9ee7d9e78869d::t_8d518e1bc25c17 27-29,31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "f74af6dafc3717b097f0c3574a247fe561b8a17e",
+  "prompts": {},
+  "sessions": {
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

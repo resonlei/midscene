@@ -1,0 +1,26 @@
+packages/shared/src/magnet.ts
+  s_fd744bae40746f::t_1c198f704aec94 160
+  s_fd744bae40746f::t_6a06e70f5fc1b1 125,127
+  s_fd744bae40746f::t_a5cbfa284fbaf0 135-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.28-trip",
+  "base_commit_sha": "37ed160c00510ca73f8cdf8e3848a74b3dc2cc61",
+  "prompts": {},
+  "humans": {
+    "h_652e49f7e9e999": {
+      "author": "xu_ming <xu_ming@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_fd744bae40746f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9305a534-99a0-41c5-9a32-ac3d0341fadf",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    }
+  }
+}

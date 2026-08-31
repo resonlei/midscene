@@ -1,0 +1,24 @@
+packages/core/src/yaml.ts
+  s_0aca230dc5826f::t_33b9d7c9de59cc 42-52
+  s_0aca230dc5826f::t_7e52a14ed66051 65-67
+packages/core/src/yaml/utils.ts
+  s_0aca230dc5826f::t_2c5054b375cc10 205-232,234-239
+packages/core/tests/unit-test/utils.test.ts
+  s_0aca230dc5826f::t_b2b652ec42f6f9 419-464
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "c1f23bd054ccca46d0004fae69a407dcb1c6e159",
+  "prompts": {},
+  "sessions": {
+    "s_0aca230dc5826f": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_ugujorg0kdm0",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

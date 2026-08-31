@@ -1,0 +1,14 @@
+packages/shared/src/mPaas.ts
+  h_b23c991cbeb333 195,197-199,201-202
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "ad4a9b00cc9ad7eebced9fb0cc9632c999da1767",
+  "prompts": {},
+  "humans": {
+    "h_b23c991cbeb333": {
+      "author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

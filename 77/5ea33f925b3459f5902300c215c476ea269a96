@@ -1,0 +1,14 @@
+packages/core/src/yaml/player.ts
+  h_b23c991cbeb333 1283-1284,1305
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.26-trip",
+  "base_commit_sha": "775ea33f925b3459f5902300c215c476ea269a96",
+  "prompts": {},
+  "humans": {
+    "h_b23c991cbeb333": {
+      "author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+packages/core/src/yaml/player.ts
+  s_2a191d19ef53c9::t_8d0812a47e831a 1134-1136,1140-1143
+  s_2a191d19ef53c9::t_4521f09c499ba1 155
+  s_2a191d19ef53c9::t_cd2127db112f4c 1137
+  s_2a191d19ef53c9::t_209e9b47c47fc6 1138-1139
+  s_2a191d19ef53c9::t_2573452656ec20 792-795
+  s_2a191d19ef53c9::t_10cf8b744eda16 32
+  s_2a191d19ef53c9::t_7ebfb44118b8d1 45
+packages/core/src/agent/agent.ts
+  s_2a191d19ef53c9::t_acdcdbf2c29399 1779
+  s_2a191d19ef53c9::t_5fd662a868f3d9 2256,2260-2281,2283-2320
+  s_2a191d19ef53c9::t_7aba594c787b33 1778,1780-1781,1783-1784
+  s_2a191d19ef53c9::t_0bb84207073452 120,2226-2231
+  s_2a191d19ef53c9::t_2198325d42215f 2282
+  s_2a191d19ef53c9::t_9a1e5696445805 2232-2252,2254-2255,2258-2259
+  s_2a191d19ef53c9::t_1eb72129b5509c 2253
+  s_2a191d19ef53c9::t_e26c12ae79b78f 1911-1912
+  s_2a191d19ef53c9::t_078aa042c3c535 99
+  s_2a191d19ef53c9::t_51ac4efb1453e2 2257
+  s_2a191d19ef53c9::t_64bafe21fa5ba1 1904-1910,1915-1919
+  s_2a191d19ef53c9::t_2115a38eb34f9f 213
+  s_2a191d19ef53c9::t_d276a099d211e7 212
+  s_2a191d19ef53c9::t_c632209f503e93 1782
+  s_2a191d19ef53c9::t_f2bb4aa2150532 100
+  s_2a191d19ef53c9::t_955c193cf7d256 115-119
+packages/shared/src/magnet.ts
+  s_2a191d19ef53c9::t_7b17918db9dd92 1-255
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10-trip",
+  "base_commit_sha": "85959f56a6ba7c35a9c25002b17abb1c7b4b527b",
+  "prompts": {},
+  "humans": {
+    "h_652e49f7e9e999": {
+      "author": "xu_ming <xu_ming@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_2a191d19ef53c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b9b8258f-22ee-4745-a753-85b99a687c6a",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    }
+  }
+}

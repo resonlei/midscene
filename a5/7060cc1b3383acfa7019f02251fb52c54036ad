@@ -1,0 +1,19 @@
+packages/core/src/ai-model/service-caller/index.ts
+  s_fc26d3beac8994::t_6b0b0f8d8e80c2 4-6,10,57,59-61,63-88,300-301,305,307-310,707-709,713-714,728,743-744,755-782,788,790-803,805-845
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "a57060cc1b3383acfa7019f02251fb52c54036ad",
+  "prompts": {},
+  "sessions": {
+    "s_fc26d3beac8994": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "632b67e5-b19f-43b0-ae0b-fb5cccc74815",
+        "model": "grok-4.5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

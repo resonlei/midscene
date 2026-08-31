@@ -1,0 +1,27 @@
+packages/core/src/yaml/player.ts
+  s_5f7f25eafb96d7::t_e9efeb1233be29 1131-1132,1134-1146
+  h_6c98e8fb003ba6 1133
+packages/core/src/yaml.ts
+  h_6c98e8fb003ba6 88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.17-trip",
+  "base_commit_sha": "7c451ec6285edcbca5b4aafcec8f7d6ae509ea4e",
+  "prompts": {},
+  "humans": {
+    "h_6c98e8fb003ba6": {
+      "author": "zhuc <zhuc@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_5f7f25eafb96d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e40f00cc-9384-4026-ba8d-f371932a7054",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

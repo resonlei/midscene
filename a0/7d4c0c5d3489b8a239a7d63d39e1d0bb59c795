@@ -1,0 +1,19 @@
+packages/core/src/ai-model/service-caller/index.ts
+  s_a9fa2ab4bbed7b::t_974e5bae6a8a67 782
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10-trip",
+  "base_commit_sha": "a07d4c0c5d3489b8a239a7d63d39e1d0bb59c795",
+  "prompts": {},
+  "sessions": {
+    "s_a9fa2ab4bbed7b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c1992a18-f8f6-4ec2-868d-7b34ad9d49e5",
+        "model": "us.anthropic.claude-sonnet-4-6"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

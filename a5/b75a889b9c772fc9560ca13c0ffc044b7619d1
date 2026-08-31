@@ -1,0 +1,20 @@
+packages/core/src/yaml/player.ts
+  s_b7b7eaff8f637e::t_41772e737bc579 929-930
+  s_b7b7eaff8f637e::t_0beabb640b9016 1174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "a5b75a889b9c772fc9560ca13c0ffc044b7619d1",
+  "prompts": {},
+  "sessions": {
+    "s_b7b7eaff8f637e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b36ed0db-ad61-49e6-a6af-056000fb9948",
+        "model": "arn:aws:bedrock:us-west-2:296122126678:application-inference-profile/uxc50ltr1528"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

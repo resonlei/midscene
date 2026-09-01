@@ -1,0 +1,28 @@
+packages/cli/src/normalize-yaml-meta.ts
+  s_5f7f25eafb96d7::t_d97ebd4bc03571 1-42
+packages/cli/src/create-yaml-player.ts
+  s_5f7f25eafb96d7::t_43cc79ef643cc6 95,97-98
+  s_5f7f25eafb96d7::t_02837e7baa5d9d 22
+  h_6c98e8fb003ba6 96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.17-trip",
+  "base_commit_sha": "538b26554e5366a441d22c4def5955d6111baf51",
+  "prompts": {},
+  "humans": {
+    "h_6c98e8fb003ba6": {
+      "author": "zhuc <zhuc@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_5f7f25eafb96d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e40f00cc-9384-4026-ba8d-f371932a7054",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

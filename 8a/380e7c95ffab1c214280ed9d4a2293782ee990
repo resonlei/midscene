@@ -1,0 +1,55 @@
+packages/agent-server/src/report-analysis/mpaas-client.ts
+  s_6c397aaa57e342::t_8b1f805cdeb85d 105-109,112
+packages/agent-server/src/report-analysis/handler.ts
+  s_6c397aaa57e342::t_35c9860828c79c 117
+  h_160515c2cd9321 104-111
+  s_6c397aaa57e342::t_1eaed285b07538 21,27
+packages/agent-server/src/report-analysis/types.ts
+  s_6c397aaa57e342::t_0584f0c6e559ce 143-149,155,160
+  s_6c397aaa57e342::t_0b7b01dc9cb98e 188-189
+packages/agent-server/src/report-analysis/screenshot-cache.ts
+  s_a5db1185166b05::t_d94f06d4f74dc2 1-78
+packages/agent-server/src/report-analysis/analyzer.ts
+  s_6c397aaa57e342::t_8e3cea0c24648b 41-42,59-68
+  s_6c397aaa57e342::t_cc1d55a4a64dd5 11
+  s_6c397aaa57e342::t_654b59257a04f6 26
+  s_a5db1185166b05::t_a9bc011bef251a 90,96-101,128
+  s_6c397aaa57e342::t_1e354a97b42095 157
+  s_a5db1185166b05::t_40a4a367bbb2bc 19
+packages/agent-server/src/report-analysis/ai-client.ts
+  s_a5db1185166b05::t_a66d244b1f8cf4 293-296
+  s_a5db1185166b05::t_7f2aabdc3f7b22 246
+  s_a5db1185166b05::t_d13b1a5cfcde81 227
+  s_a5db1185166b05::t_7278fed576bebe 24
+  s_a5db1185166b05::t_8144cb2cc50d9c 347-348,350-354,356-362
+  s_a5db1185166b05::t_e75a66d66aa6e1 363-381
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "8a380e7c95ffab1c214280ed9d4a2293782ee990",
+  "prompts": {},
+  "humans": {
+    "h_160515c2cd9321": {
+      "author": "wang_jian <wang_jian@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_6c397aaa57e342": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01cd6390-c89f-4664-acc8-4fb5b763638f",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    },
+    "s_a5db1185166b05": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ea6251dc-2f80-4aaf-9bb0-d331e34e3172",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

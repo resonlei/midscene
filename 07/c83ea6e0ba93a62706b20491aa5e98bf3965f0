@@ -1,0 +1,20 @@
+packages/shared/src/magnet.ts
+  s_79dc70e1640009::t_d9d62051efa2a4 263-264,267,271-273
+  s_79dc70e1640009::t_4bb75067aa89aa 54-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.18-trip",
+  "base_commit_sha": "07c83ea6e0ba93a62706b20491aa5e98bf3965f0",
+  "prompts": {},
+  "sessions": {
+    "s_79dc70e1640009": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "edcdb240-ee44-4921-911e-df8878936d45",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    }
+  }
+}

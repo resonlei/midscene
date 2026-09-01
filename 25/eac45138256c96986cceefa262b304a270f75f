@@ -1,0 +1,14 @@
+packages/agent-server/src/report-analysis/handler.ts
+  h_160515c2cd9321 102-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "25eac45138256c96986cceefa262b304a270f75f",
+  "prompts": {},
+  "humans": {
+    "h_160515c2cd9321": {
+      "author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

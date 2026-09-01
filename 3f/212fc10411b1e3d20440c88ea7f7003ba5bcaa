@@ -1,0 +1,57 @@
+packages/core/src/service/index.ts
+  s_f9ee7d9e78869d::t_1a601791191977 603,278
+  s_f9ee7d9e78869d::t_f323cd25c427ff 606
+packages/core/src/agent/agent.ts
+  ai_agent 25,1420-1426,1455,1491,1502,1509,639,682,216,517
+  s_2a191d19ef53c9::t_d276a099d211e7 162
+  s_2a191d19ef53c9::t_5fd662a868f3d9 1208,1240,1244,1595,1184,1330,1501,1508,1515,650,678,681,688,224,577,589,1344,1534,1541,1545,234,236,1278,1286,1297,1299,221,308,440,707,1146,1152,1161,1171
+  s_2a191d19ef53c9::t_0bb84207073452 1574,1577,1582,1585,1589,648,654,667,670,679,586,1542,1290,1298,1302,1305,706
+  s_2a191d19ef53c9::t_78792f9ce86eb0 1614,283,545,552,572,905,976,1093,306
+  s_2a191d19ef53c9::t_452ef06039c1c8 1329,1500,1507,1514,649,680,687,588,1343,307
+packages/shared/src/img/transform.ts
+  s_8437f6b4b02e25::t_a6fe16229d2c89 272,310,208,214,39,62,167,173,187,338,346,359,361,369,392,394,404,445,450,452,456
+  s_aaee7b776cafc5::t_bfdd5a6c6e8443 273,282-283,293,295-296,301-302,307-308,311,209,213,215,585-586,591-592,606-607,654-655,821,825,835,40,52,72,137,152,188,327,329,332,339,345,347,358,360,380,385-386,393,412,425-426,434-435,451
+packages/core/tests/unit-test/service-describe.test.ts
+  s_f9ee7d9e78869d::t_3fa58c52ad2002 112
+  s_f9ee7d9e78869d::t_31e7a74d5371bb 388,391,394-396,403,408
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "3f212fc10411b1e3d20440c88ea7f7003ba5bcaa",
+  "prompts": {},
+  "sessions": {
+    "s_2a191d19ef53c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b9b8258f-22ee-4745-a753-85b99a687c6a",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    },
+    "s_8437f6b4b02e25": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_d5zvu5at6q1d",
+        "model": "DeepSeek-V4-Pro-discount"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_aaee7b776cafc5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b95a0ff2-f0f7-45ff-ac35-60c786b260fd",
+        "model": "grok-4.5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

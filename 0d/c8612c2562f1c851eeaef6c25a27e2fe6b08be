@@ -1,0 +1,30 @@
+packages/core/src/agent/agent.ts
+  ai_agent 20,1321-1327,1356
+  s_2a191d19ef53c9::t_d276a099d211e7 160
+packages/cli/src/create-yaml-player.ts
+  s_5f7f25eafb96d7::t_43cc79ef643cc6 98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "0dc8612c2562f1c851eeaef6c25a27e2fe6b08be",
+  "prompts": {},
+  "sessions": {
+    "s_2a191d19ef53c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b9b8258f-22ee-4745-a753-85b99a687c6a",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    },
+    "s_5f7f25eafb96d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e40f00cc-9384-4026-ba8d-f371932a7054",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

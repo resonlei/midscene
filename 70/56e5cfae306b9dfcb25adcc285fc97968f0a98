@@ -1,0 +1,25 @@
+packages/core/src/service/index.ts
+  s_f9ee7d9e78869d::t_1a601791191977 573
+  s_f9ee7d9e78869d::t_f323cd25c427ff 576
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,487-488,499-500,737
+packages/core/tests/unit-test/service-describe.test.ts
+  s_f9ee7d9e78869d::t_3fa58c52ad2002 110
+  s_f9ee7d9e78869d::t_31e7a74d5371bb 384,387,390-392,399,404
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "7056e5cfae306b9dfcb25adcc285fc97968f0a98",
+  "prompts": {},
+  "sessions": {
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

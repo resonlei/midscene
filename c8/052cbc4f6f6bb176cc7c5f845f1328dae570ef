@@ -1,0 +1,101 @@
+packages/core/src/yaml/player.ts
+  ai_agent 27-29,31-33,35,238-298,300-304,307-308,310,396-397,400-403,409,417,434
+  s_77d291dfc5747b::t_b4974434d86314 119-122
+  s_d9250a86f3ba56::t_59b55f360ca041 131-133
+  s_2a191d19ef53c9::t_2573452656ec20 351-354
+  s_2afdd73dda949c::t_98c53c24deb2b6 452
+  s_77d291dfc5747b::t_dc3a92ac63b478 455,457
+  h_b23c991cbeb333 456,459-460,483,405,430
+  h_652e49f7e9e999 470,408,433
+  s_2ecc181c409ca1::t_aee785163b620e 478
+  s_f03aeb7487cdae::t_1e906d11826874 671-687
+packages/cli/src/create-yaml-player.ts
+  s_5f7f25eafb96d7::t_43cc79ef643cc6 122,223,248,283,295,298,316,354,387,391,421,441,474
+packages/core/src/yaml.ts
+  h_6c98e8fb003ba6 62
+  ai_agent 261,265-268,271-292,294-295,354,393,402-403,194,196,305-306,374,360
+  s_0aca230dc5826f::t_33b9d7c9de59cc 349,183,369,357
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "c8052cbc4f6f6bb176cc7c5f845f1328dae570ef",
+  "prompts": {},
+  "humans": {
+    "h_652e49f7e9e999": {
+      "author": "xu_ming <xu_ming@trip.com>"
+    },
+    "h_6c98e8fb003ba6": {
+      "author": "zhuc <zhuc@trip.com>"
+    },
+    "h_b23c991cbeb333": {
+      "author": "resonLei <sheng.lei@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_0aca230dc5826f": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_ugujorg0kdm0",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    },
+    "s_2a191d19ef53c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b9b8258f-22ee-4745-a753-85b99a687c6a",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    },
+    "s_2afdd73dda949c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f20d2-3ad4-7460-98a5-e45175f9823d",
+        "model": "gpt-5.5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    },
+    "s_2ecc181c409ca1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "08da7f51-aaac-4a1f-92d5-9d9f8f38fe9e",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    },
+    "s_5f7f25eafb96d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e40f00cc-9384-4026-ba8d-f371932a7054",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    },
+    "s_77d291dfc5747b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "226cd462-914c-4118-bb05-0e7fcc9eef60",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    },
+    "s_d9250a86f3ba56": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1e09-254c-7591-bf34-bbe16267c6d3",
+        "model": "gpt-5.5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    },
+    "s_f03aeb7487cdae": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "11c9bf17-ae16-4302-8a6f-63878093b96a",
+        "model": "default"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  }
+}

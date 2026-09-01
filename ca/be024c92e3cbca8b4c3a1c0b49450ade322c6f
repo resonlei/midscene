@@ -1,0 +1,25 @@
+packages/agent-server/src/message.ts
+  s_04fd9a21fe5664::t_11761e0f1697dd 5-9
+  s_04fd9a21fe5664::t_844139f06e8bd9 42-46
+  s_04fd9a21fe5664::t_16e824b2d4ebe5 328-330
+packages/agent-server/src/ai-description.test.ts
+  s_04fd9a21fe5664::t_5c3c53db42a4a9 2
+packages/agent-server/src/ai-wait-for.test.ts
+  s_04fd9a21fe5664::t_296257fc209fe0 157-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "cabe024c92e3cbca8b4c3a1c0b49450ade322c6f",
+  "prompts": {},
+  "sessions": {
+    "s_04fd9a21fe5664": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lsp2a73zz79c",
+        "model": "kimi-k3"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

@@ -1,17 +1,8 @@
-packages/core/src/agent/agent.ts
-  ai_agent 19,1241-1247,1276
-  s_2a191d19ef53c9::t_d276a099d211e7 135
-  s_2a191d19ef53c9::t_5fd662a868f3d9 940,975,979,1379,896,907,1027
-  s_2a191d19ef53c9::t_0bb84207073452 1358,1361,1366,1369,1373
-  s_2a191d19ef53c9::t_78792f9ce86eb0 1398,1161
-  s_2a191d19ef53c9::t_452ef06039c1c8 1026
-packages/core/src/yaml.ts
-  h_6c98e8fb003ba6 51
-  ai_agent 243-244,247-250,253-274,276-277,336,360,369-370,178,180,287-288
-  s_0aca230dc5826f::t_33b9d7c9de59cc 331,167
 packages/core/src/service/index.ts
   s_f9ee7d9e78869d::t_1a601791191977 478
   s_f9ee7d9e78869d::t_f323cd25c427ff 481
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,401-402,413-414
 packages/core/src/yaml/player.ts
   ai_agent 27-29,31-33,35,237-297,299-303,306-307,309,395-396,399-402
   s_77d291dfc5747b::t_b4974434d86314 118-121
@@ -23,8 +14,17 @@ packages/core/src/yaml/player.ts
   h_652e49f7e9e999 461
   s_2ecc181c409ca1::t_aee785163b620e 469
   s_f03aeb7487cdae::t_1e906d11826874 662-678
-packages/core/src/types.ts
-  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,401-402,413-414
+packages/core/src/yaml.ts
+  h_6c98e8fb003ba6 51
+  ai_agent 243-244,247-250,253-274,276-277,336,360,369-370,178,180,287-288
+  s_0aca230dc5826f::t_33b9d7c9de59cc 331,167
+packages/core/src/agent/agent.ts
+  ai_agent 19,1241-1247,1276
+  s_2a191d19ef53c9::t_d276a099d211e7 135
+  s_2a191d19ef53c9::t_5fd662a868f3d9 940,975,979,1379,896,907,1027
+  s_2a191d19ef53c9::t_0bb84207073452 1358,1361,1366,1369,1373
+  s_2a191d19ef53c9::t_78792f9ce86eb0 1398,1161
+  s_2a191d19ef53c9::t_452ef06039c1c8 1026
 ---
 {
   "schema_version": "authorship/3.0.0",

@@ -5,11 +5,11 @@ packages/core/src/ai-model/llm-planning.ts
   s_f8cf5575bcbcd4::t_4ea4b593c11966 16
   s_f8cf5575bcbcd4::t_fe92be04376745 116-117,206-208,204
   s_2a1e104d3c7fbd::t_07370a241dd310 228-229,233-248,205,347,366,385,399-400,406,426,425
-packages/core/src/ai-model/prompt/llm-locator.ts
-  s_f03aeb7487cdae::t_77416aa9faac89 34,44
 packages/core/src/ai-model/service-caller/index.ts
   s_fc26d3beac8994::t_6b0b0f8d8e80c2 771,779,824,872,104,108,113,116,127,129,133,139,143,727,732,342,440,447-448,450-451,601,82,375,389,758-759,100,856,810,816,818
   s_ff04ba3c90317e::t_ceb85f2963fc75 778,780-783,819-820,103,107,112,115,132,142,341,81,99,809,817
+packages/core/src/ai-model/prompt/llm-locator.ts
+  s_f03aeb7487cdae::t_77416aa9faac89 34,44
 ---
 {
   "schema_version": "authorship/3.0.0",

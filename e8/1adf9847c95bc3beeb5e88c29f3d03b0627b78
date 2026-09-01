@@ -1,3 +1,12 @@
+packages/android/src/device.ts
+  ai_agent 1335-1340,1368-1373,1405-1410,1442-1447,1993-1994,1996
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,496-497,508-509,746,1009
+apps/report/src/components/sidebar/index.tsx
+  s_9751b25c0d00cd::t_4dd3afb407d8b3 930
+  s_9751b25c0d00cd::t_883e6dbb12c74a 947,958,962,1000
+  s_9751b25c0d00cd::t_675fd935cbd604 963
+  s_9751b25c0d00cd::t_19bbe1394ef51d 964,1001
 packages/core/src/agent/agent.ts
   ai_agent 22,1425-1431,1460,1496,1507,1514,553,596,195,436
   s_2a191d19ef53c9::t_d276a099d211e7 141
@@ -5,13 +14,6 @@ packages/core/src/agent/agent.ts
   s_2a191d19ef53c9::t_0bb84207073452 1580,1583,1588,1591,1595,562,568,581,584,593,500,1550
   s_2a191d19ef53c9::t_78792f9ce86eb0 1620,1342,255,465,472,491
   s_2a191d19ef53c9::t_452ef06039c1c8 1189,1505,1512,1519,563,594,601,502,1217,1322
-apps/report/src/components/sidebar/index.tsx
-  s_9751b25c0d00cd::t_4dd3afb407d8b3 930
-  s_9751b25c0d00cd::t_883e6dbb12c74a 947,958,962,1000
-  s_9751b25c0d00cd::t_675fd935cbd604 963
-  s_9751b25c0d00cd::t_19bbe1394ef51d 964,1001
-packages/android/src/device.ts
-  ai_agent 1335-1340,1368-1373,1405-1410,1442-1447,1993-1994,1996
 packages/core/src/yaml/player.ts
   ai_agent 27-29,31-33,35,237-297,299-303,306-307,309,395-396,399-402,408,416,433
   s_77d291dfc5747b::t_b4974434d86314 118-121
@@ -23,8 +25,6 @@ packages/core/src/yaml/player.ts
   h_652e49f7e9e999 469,407,432
   s_2ecc181c409ca1::t_aee785163b620e 477
   s_f03aeb7487cdae::t_1e906d11826874 670-686
-packages/core/src/types.ts
-  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,496-497,508-509,746,1009
 ---
 {
   "schema_version": "authorship/3.0.0",

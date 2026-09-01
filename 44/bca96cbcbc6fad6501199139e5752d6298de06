@@ -1,7 +1,7 @@
-packages/core/src/types.ts
-  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101
 packages/core/src/agent/task-builder.ts
   ai_agent 76,83,86,89
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101
 ---
 {
   "schema_version": "authorship/3.0.0",

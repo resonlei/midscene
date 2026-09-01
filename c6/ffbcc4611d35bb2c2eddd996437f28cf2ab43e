@@ -1,8 +1,8 @@
-packages/core/src/types.ts
-  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,509-510,521-522,760,1023,1053
 packages/android/src/device.ts
   ai_agent 1424-1429,1457-1462,1494-1499,1531-1536,2143-2144,2146,132,1693,1715-1717,2084,2086,2104,2126,2128,104,740,2164,2172
   s_a7e3cee92fba45::t_c449d6e433363e 131,103
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,509-510,521-522,760,1023,1053
 ---
 {
   "schema_version": "authorship/3.0.0",

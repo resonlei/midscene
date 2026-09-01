@@ -1,5 +1,3 @@
-packages/core/src/types.ts
-  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,486-487,498-499
 packages/core/src/agent/agent.ts
   ai_agent 20,1248-1254,1283,1319,1330,1337
   s_2a191d19ef53c9::t_d276a099d211e7 137
@@ -7,6 +5,8 @@ packages/core/src/agent/agent.ts
   s_2a191d19ef53c9::t_0bb84207073452 1390,1393,1398,1401,1405
   s_2a191d19ef53c9::t_78792f9ce86eb0 1430,1168
   s_2a191d19ef53c9::t_452ef06039c1c8 1033,1328,1335,1342
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,486-487,498-499
 ---
 {
   "schema_version": "authorship/3.0.0",

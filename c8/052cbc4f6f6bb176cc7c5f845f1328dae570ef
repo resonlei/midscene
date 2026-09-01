@@ -1,3 +1,9 @@
+packages/cli/src/create-yaml-player.ts
+  s_5f7f25eafb96d7::t_43cc79ef643cc6 122,223,248,283,295,298,316,354,387,391,421,441,474
+packages/core/src/yaml.ts
+  h_6c98e8fb003ba6 62
+  ai_agent 261,265-268,271-292,294-295,354,393,402-403,194,196,305-306,374,360
+  s_0aca230dc5826f::t_33b9d7c9de59cc 349,183,369,357
 packages/core/src/yaml/player.ts
   ai_agent 27-29,31-33,35,238-298,300-304,307-308,310,396-397,400-403,409,417,434
   s_77d291dfc5747b::t_b4974434d86314 119-122
@@ -9,12 +15,6 @@ packages/core/src/yaml/player.ts
   h_652e49f7e9e999 470,408,433
   s_2ecc181c409ca1::t_aee785163b620e 478
   s_f03aeb7487cdae::t_1e906d11826874 671-687
-packages/cli/src/create-yaml-player.ts
-  s_5f7f25eafb96d7::t_43cc79ef643cc6 122,223,248,283,295,298,316,354,387,391,421,441,474
-packages/core/src/yaml.ts
-  h_6c98e8fb003ba6 62
-  ai_agent 261,265-268,271-292,294-295,354,393,402-403,194,196,305-306,374,360
-  s_0aca230dc5826f::t_33b9d7c9de59cc 349,183,369,357
 ---
 {
   "schema_version": "authorship/3.0.0",

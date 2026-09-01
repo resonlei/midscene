@@ -1,16 +1,16 @@
+packages/core/src/service/index.ts
+  s_f9ee7d9e78869d::t_1a601791191977 474
+  s_f9ee7d9e78869d::t_f323cd25c427ff 477
 packages/core/src/agent/agent.ts
   ai_agent 20,1406-1412,1441
   s_2a191d19ef53c9::t_d276a099d211e7 218
   s_2a191d19ef53c9::t_5fd662a868f3d9 1008,1043,1047,147,157,1205
   s_2a191d19ef53c9::t_452ef06039c1c8 146
-packages/core/src/service/index.ts
-  s_f9ee7d9e78869d::t_1a601791191977 474
-  s_f9ee7d9e78869d::t_f323cd25c427ff 477
-packages/core/src/types.ts
-  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101
 packages/core/tests/unit-test/service-describe.test.ts
   s_f9ee7d9e78869d::t_3fa58c52ad2002 63
   s_f9ee7d9e78869d::t_31e7a74d5371bb 72,75,78-80,87,92
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101
 ---
 {
   "schema_version": "authorship/3.0.0",

@@ -1,8 +1,6 @@
 packages/shared/src/img/transform.ts
   s_8437f6b4b02e25::t_a6fe16229d2c89 215,253
   s_aaee7b776cafc5::t_bfdd5a6c6e8443 216,225-226,236,238-239,244-245,250-251,254
-packages/core/src/types.ts
-  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,396-397,408-409
 packages/core/src/agent/agent.ts
   ai_agent 20,1383-1389,1418
   s_2a191d19ef53c9::t_d276a099d211e7 198
@@ -10,6 +8,8 @@ packages/core/src/agent/agent.ts
   s_2a191d19ef53c9::t_452ef06039c1c8 150
   s_2a191d19ef53c9::t_0bb84207073452 1500,1503,1508,1511,1515
   s_2a191d19ef53c9::t_78792f9ce86eb0 1540
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,396-397,408-409
 ---
 {
   "schema_version": "authorship/3.0.0",

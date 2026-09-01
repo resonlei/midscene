@@ -1,8 +1,8 @@
-packages/core/src/types.ts
-  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101
 packages/core/src/ai-model/service-caller/index.ts
   s_fc26d3beac8994::t_6b0b0f8d8e80c2 584,592,603,611-613,617,626
   s_ff04ba3c90317e::t_ceb85f2963fc75 591,593-600
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101
 ---
 {
   "schema_version": "authorship/3.0.0",

@@ -1,3 +1,11 @@
+packages/core/tests/unit-test/utils.test.ts
+  s_0aca230dc5826f::t_b2b652ec42f6f9 274-275,282-283,320,322,327-328
+packages/core/src/agent/task-builder.ts
+  ai_agent 77,84,87,90,704,706,715
+packages/core/src/yaml.ts
+  h_6c98e8fb003ba6 62
+  ai_agent 259-260,263-266,269-290,292-293,352,388,397-398,194,196,303-304,369
+  s_0aca230dc5826f::t_33b9d7c9de59cc 347,183,363
 packages/core/src/agent/agent.ts
   ai_agent 22,1428-1434,1463,1499,1510,1517,564,607,206,447
   s_2a191d19ef53c9::t_d276a099d211e7 152
@@ -7,14 +15,6 @@ packages/core/src/agent/agent.ts
   s_2a191d19ef53c9::t_452ef06039c1c8 1195,1508,1515,1522,574,605,612,513,1223,1328
 packages/core/src/types.ts
   s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,496-497,508-509,747,1010
-packages/core/src/yaml.ts
-  h_6c98e8fb003ba6 62
-  ai_agent 259-260,263-266,269-290,292-293,352,388,397-398,194,196,303-304,369
-  s_0aca230dc5826f::t_33b9d7c9de59cc 347,183,363
-packages/core/src/agent/task-builder.ts
-  ai_agent 77,84,87,90,704,706,715
-packages/core/tests/unit-test/utils.test.ts
-  s_0aca230dc5826f::t_b2b652ec42f6f9 274-275,282-283,320,322,327-328
 ---
 {
   "schema_version": "authorship/3.0.0",

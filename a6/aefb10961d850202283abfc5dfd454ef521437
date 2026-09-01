@@ -1,6 +1,3 @@
-packages/core/src/ai-model/service-caller/index.ts
-  s_fc26d3beac8994::t_6b0b0f8d8e80c2 738,746,757,766-768,772,792,821,86,90,95,98,109,111,115,121,125,694,699,318,410,417-418,420-421,572,74,336,349,725-726
-  s_ff04ba3c90317e::t_ceb85f2963fc75 745,747-754,785,89,94,97,114,124,317,73
 packages/core/src/agent/task-builder.ts
   ai_agent 77,84,87,90
 packages/core/src/agent/agent.ts
@@ -12,6 +9,9 @@ packages/core/src/agent/agent.ts
   s_2a191d19ef53c9::t_452ef06039c1c8 1114,1409,1416,1423,488,519,526
 packages/core/src/types.ts
   s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,487-488,499-500,737,1000
+packages/core/src/ai-model/service-caller/index.ts
+  s_fc26d3beac8994::t_6b0b0f8d8e80c2 738,746,757,766-768,772,792,821,86,90,95,98,109,111,115,121,125,694,699,318,410,417-418,420-421,572,74,336,349,725-726
+  s_ff04ba3c90317e::t_ceb85f2963fc75 745,747-754,785,89,94,97,114,124,317,73
 ---
 {
   "schema_version": "authorship/3.0.0",

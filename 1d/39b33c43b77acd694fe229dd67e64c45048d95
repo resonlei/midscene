@@ -1,9 +1,9 @@
+packages/cli/src/create-yaml-player.ts
+  s_5f7f25eafb96d7::t_43cc79ef643cc6 101
 packages/core/src/yaml.ts
   h_6c98e8fb003ba6 51
   ai_agent 243-244,247-250,253-274,276-277,331,355,364-365,178,180
   s_0aca230dc5826f::t_33b9d7c9de59cc 326,167
-packages/cli/src/create-yaml-player.ts
-  s_5f7f25eafb96d7::t_43cc79ef643cc6 101
 ---
 {
   "schema_version": "authorship/3.0.0",

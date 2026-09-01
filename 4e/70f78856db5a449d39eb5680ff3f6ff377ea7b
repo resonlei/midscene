@@ -1,0 +1,31 @@
+packages/core/tests/unit-test/service-describe.test.ts
+  s_04fd9a21fe5664::t_837e962d2bbc6c 98,109
+packages/agent-server/src/ai-description.ts
+  s_04fd9a21fe5664::t_837e962d2bbc6c 6-18
+packages/core/src/service/index.ts
+  s_04fd9a21fe5664::t_837e962d2bbc6c 501,511,524
+packages/agent-server/src/message.ts
+  s_04fd9a21fe5664::t_837e962d2bbc6c 38,237-239
+packages/core/tests/unit-test/prompt/describe.test.ts
+  s_04fd9a21fe5664::t_837e962d2bbc6c 22,24
+packages/core/src/ai-model/prompt/describe.ts
+  s_04fd9a21fe5664::t_837e962d2bbc6c 86,88-90,92-96,253
+packages/agent-server/src/ai-description.test.ts
+  s_04fd9a21fe5664::t_837e962d2bbc6c 3-7,122-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "4e70f78856db5a449d39eb5680ff3f6ff377ea7b",
+  "prompts": {},
+  "sessions": {
+    "s_04fd9a21fe5664": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lsp2a73zz79c",
+        "model": "auto(free)"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

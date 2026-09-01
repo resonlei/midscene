@@ -1,0 +1,21 @@
+packages/core/src/yaml/player.ts
+  s_8af2f77d62d000::t_0de0885fe27410 1497-1500,1508-1509,1511-1512
+  s_8af2f77d62d000::t_703e84fb0fd6e5 1134-1135
+  s_8af2f77d62d000::t_6fd49f1cfd8af5 1359-1361
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "d5db65079d90d6526f2eee248ecc4a97e7259194",
+  "prompts": {},
+  "sessions": {
+    "s_8af2f77d62d000": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_3vybyoq70x5e",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

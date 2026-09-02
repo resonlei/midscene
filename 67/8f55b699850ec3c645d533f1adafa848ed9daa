@@ -1,0 +1,22 @@
+packages/core/src/service/index.ts
+  s_2c4f19bd63962f::t_7c3876c7c90563 121-147,151-178,184-191,193,200-204,207,209,212-213,216,222,224,704-706
+  s_2c4f19bd63962f::t_97e0d0f1365f9f 148-150
+packages/core/src/ai-model/prompt/describe.ts
+  s_2c4f19bd63962f::t_3d8038350cd75a 69,81,85-88,118,125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "678f55b699850ec3c645d533f1adafa848ed9daa",
+  "prompts": {},
+  "sessions": {
+    "s_2c4f19bd63962f": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_obj7evzgjve1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  }
+}

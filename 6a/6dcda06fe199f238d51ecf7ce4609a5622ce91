@@ -1,0 +1,29 @@
+packages/agent-server/src/report-analysis/report-paths.ts
+  s_7867afc57592be::t_cd70ca3ca8e2fb 1-5
+packages/agent-server/src/report-analysis/report-paths.test.ts
+  s_7867afc57592be::t_10c64c6d2745a3 1-26
+packages/agent-server/src/report-analysis/screenshot-cache.ts
+  s_7867afc57592be::t_07a8d9df816d71 13,21,36,39,44,49
+packages/agent-server/src/report-analysis/mpaas-client.ts
+  s_7867afc57592be::t_0113628f3258b0 238,241,243,245
+  s_7867afc57592be::t_d87a096c59d120 2
+packages/agent-server/src/report-analysis/analyzer.ts
+  s_7867afc57592be::t_b133e34f1d464f 174
+  s_7867afc57592be::t_e1bfa22d6cef62 148,151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "6a6dcda06fe199f238d51ecf7ce4609a5622ce91",
+  "prompts": {},
+  "sessions": {
+    "s_7867afc57592be": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c543709f-a364-4444-b5a7-ab0fa1afa555",
+        "model": "grok-4.6"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

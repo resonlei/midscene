@@ -1,0 +1,610 @@
+packages/core/src/ai-model/models/step/parser.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-8,13-57,60-228,232-345
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/SKILL.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-72
+packages/agent-server/src/report-analysis/analyzer.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-362
+packages/shared/tests/unit-test/dev-tools-mock-data.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-934
+docs/DEVELOPMENT.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-59
+apps/report/template/index.html
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 4-5
+apps/report/src/App.tsx
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 633,636,642-643,683-716,723-726,729-732,737-742,744
+docs/IMPLICIT_CONTRACTS.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-34
+packages/core/src/agent/action-space.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-87
+packages/webdriver/src/clients/WebDriverClient.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 212-268
+.gitignore
+  h_160515c2cd9321 35-36
+packages/shared/tests/unit-test/appium-client.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-311
+apps/report/src/components/detail-side/index.tsx
+  s_8437f6b4b02e25::t_69189a94582481 340-347
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 770-772,774-777
+packages/agent-server/src/report-analysis/analysis-queue.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-152
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/references/popup.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-8
+packages/core/tests/unit-test/model-adapter/step-mobile-agent.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-293
+packages/core/tests/unit-test/report-generator.test.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 161,183-186,191,342-344,346-353,567-568,570,572
+harness/.analysis/review-round-2.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-51
+packages/core/tests/unit-test/locate-multimodal-regression.test.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 45-50,87-112,114-192
+packages/core/src/ai-model/prompt/describe.ts
+  s_f9ee7d9e78869d::t_7f8210e19e6b1e 161-164
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 7-11,14-18,27-29,32-45,47-54,63-74,88-91,134
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/references/aiact-template.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-20
+packages/core/src/ai-model/prompt/planning-v3/actions.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-23,30-46
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/modes/compose.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-24,26-51
+harness/scripts/teardown-env.sh
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-16
+Makefile
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-20
+packages/shared/src/magnet.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-194,203-272,399-854,864-867
+packages/visualizer/src/component/logo/index.tsx
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 19-20,24-25
+packages/agent-server/src/report-analysis/mpaas-client.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-293
+packages/core/tests/unit-test/step-mobile-agent.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-380
+packages/core/src/ai-model/prompt/planning-v3/policies.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-15,20,24-28,32-35,44-47,59-63,70-76,79-84,87-90,97
+harness/.analysis/review-round-1.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-56
+packages/core/src/ai-model/prompt/planning-v4/cache-verify.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1,9-14,16-19,21-24
+packages/cli/src/execution-summary.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 1
+packages/shared/src/context.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-240
+packages/core/src/ai-model/models/step/prompt.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-35,39-43,50-67,74-76,83-88,95-98,100-104,111-114,116-123,125-131,133-136,138-143,150-153,155-163,165-167,172-184,186-189,191-193,207-214,216-220,224-230,236-239,241-244,252-255
+packages/agent-server/src/message.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-249,252-515
+packages/core/src/ai-model/planning-ledger.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-10,95-286
+packages/agent-server/src/report-analysis/cache.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-34
+packages/android/src/text-input-diagnostics.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-19
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/modes/refine.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-26,28-51
+packages/visualizer/src/component/player/report-download-stream.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-69
+AGENTS.md
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 3-95
+packages/cli/tests/unit-test/normalize-yaml-meta.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-48
+packages/shared/src/env/types.ts
+  s_b73d6ae07b4a2c::t_594cb575e00262 70-75,202-203,328-329,346
+packages/agent-server/src/report-analysis/handler.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-251
+packages/core/src/yaml/step-failure-compensation.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-37,113-191,206-248
+packages/core/tests/unit-test/agent-ai-quality-check.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-100
+packages/shared/src/cli/cli-runner.ts
+  s_b73d6ae07b4a2c::t_594cb575e00262 9,227
+packages/core/src/ai-model/models/step/actions.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-22,27-35,39-43,45-53,55-60,62-73,76-87,89-92,97-103,109-120,122-131,135-225
+packages/shared/src/logger.ts
+  s_b73d6ae07b4a2c::t_594cb575e00262 128,133
+packages/core/tests/unit-test/prompt/step-mobile-agent.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-43
+docs/design-docs/agent-core.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-44
+packages/core/src/ai-model/prompt/planning-v3/reasoning.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1,8-12
+scripts/lint-deps.mjs
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-357
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/refine-policy.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-20,22-129
+packages/cli/src/yaml-batch-executor.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 81-84
+packages/core/src/ai-model/prompt/llm-planning-v3.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-53
+packages/agent-server/src/ai-wait-for.ts
+  s_04fd9a21fe5664::t_60d302d7cb2e1e 162
+  s_04fd9a21fe5664::t_2e4110049b5521 16
+  s_04fd9a21fe5664::t_5e07a9d1bdf01f 26,29-38
+  s_04fd9a21fe5664::t_324ab0979d2876 65
+  s_04fd9a21fe5664::t_78c8663f538333 153-154
+  s_04fd9a21fe5664::t_b2370738a52662 1-10,12-15,17-25,27-28,39-45,48-50,54,56,59-63,66,69-76,78-82,85-86,88-92,119-133,135,137,145,148-152,155-161,163
+  s_04fd9a21fe5664::t_98ec4b3a18997f 95-106,108-116,118
+  s_04fd9a21fe5664::t_7d7db32674602f 77,83-84
+  s_04fd9a21fe5664::t_99edebd9599a17 134,146-147
+  s_04fd9a21fe5664::t_9a8df4c0ed3440 136
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 11,51,53,55,58,67,94,107,117,138-143
+packages/core/src/yaml/utils.ts
+  s_0aca230dc5826f::t_2c5054b375cc10 310-344
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 375-381
+packages/shared/src/appium/types.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-66
+topics/global-vars-runtime/sessions/20260818-1340-中文连字符key替换.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-13
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/references/scroll.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-23
+packages/core/tests/unit-test/prompt/describe.test.ts
+  s_f9ee7d9e78869d::t_8d518e1bc25c17 28-32
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 2,5-6,13-15,18-20
+  s_04fd9a21fe5664::t_837e962d2bbc6c 22,24
+packages/core/src/ai-model/models/step/adapter.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-16,18-22,24-26,30-49,53-54
+packages/core/tests/unit-test/task-cache-shrink-merge.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-108,124-131,139-183,226-233,247-261,286-294,299-305,321-332
+packages/agent-server/src/types.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-121
+packages/core/src/agent/execution-session.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 31
+packages/visualizer/src/component/player/scenes/frame-calculator.ts
+  s_1303c28744e475::t_c8839431fa8eda 40
+  s_1303c28744e475::t_69b06ce3fe9809 159
+packages/core/src/ai-model/models/step/locate.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-136
+apps/report/src/components/sidebar/index.tsx
+  s_9751b25c0d00cd::t_675fd935cbd604 196-213,215-218,223-234,237-243,246-251,254-263,266-270
+  s_9751b25c0d00cd::t_5abe4a9117f811 315-319
+  s_9751b25c0d00cd::t_8fb98822ce0d28 21
+  s_9751b25c0d00cd::t_883e6dbb12c74a 48-57,62-72,108-139,142-146,155-158,161-182,186-193,275-286,306,312-314,323-333
+  s_9751b25c0d00cd::t_02b2b61049374c 58-61,73-74,77-99,102-105
+  s_9751b25c0d00cd::t_19bbe1394ef51d 388-402
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 459-475
+  s_9751b25c0d00cd::t_4dd3afb407d8b3 1179-1186
+  s_9751b25c0d00cd::t_f033a820bbf230 147-154
+  s_9751b25c0d00cd::t_7783cf028a9bf9 289-303,307-309,311,322
+packages/shared/tests/unit-test/ctestCommon.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-69
+packages/visualizer/src/types/streamsaver.d.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-23
+packages/agent-server/src/ai-description.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-83
+topics/index.jsonl
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1
+scripts/lint-quality.mjs
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-90,98-104,106-107,111-128,130-138,143-145,154-155,159-160,164-166,170-175,180-185,187-189,195-198,200-203,205-211,213-227,229-239,241-245
+packages/core/tests/unit-test/action-space.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-89
+packages/web-integration/tests/unit-test/agent.test.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 318
+.claude/hooks/topic-memory.sh
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-250
+packages/agent-server/src/report-analysis/report-utils.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-82
+topics/global-vars-runtime/sessions/20260814-globalVars注入与递归解析.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-13
+packages/core/src/device/index.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 903-905,913-914
+packages/agent-server/src/cli.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-39
+packages/visualizer/src/component/player/scenes/derive-frame-state.ts
+  s_1303c28744e475::t_70ca41b14a0fe4 168-169,175
+  s_1303c28744e475::t_20f83395907f15 20
+packages/ios/src/ios-webdriver-client.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 679-682
+packages/shared/src/img/transform.ts
+  s_b73d6ae07b4a2c::t_594cb575e00262 955-961,963-1017,1019-1027,1029,1108,1111-1112,1114-1115,1122-1124,1126-1127,1129-1134,1136-1137,1141-1151,1166,1171-1172,1199-1210,1212-1215,1220,1222-1224,1226,1241,1259-1266
+  s_aaee7b776cafc5::t_bfdd5a6c6e8443 1030-1043,1045,1055-1079,1081-1103,1105-1106,1109-1110,1116-1117,1119,1121,1156-1161,1173-1174,1195-1197,1227-1238,1240,1246-1255
+  s_8437f6b4b02e25::t_a6fe16229d2c89 1046-1050,1107,1113,1118,1128,1138-1139,1152-1153,1155,1162-1163,1165,1167-1170,1175-1182,1184-1194,1216-1219,1242-1245,1256-1258
+packages/core/tests/unit-test/player-global-vars.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-228
+harness/scripts/setup-env.sh
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-69
+packages/shared/src/appium/index.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-19
+packages/agent-server/src/ai-wait-for.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-200
+packages/core/src/ai-model/prompt/planning-v3/example.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-21,32-40,46-48,52-55,59,65-73,76-78,81-91,93-102,104-105
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/references/fix-vs-suggest.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-23
+packages/shared/src/recorder.ts
+  s_b73d6ae07b4a2c::t_594cb575e00262 66-69,75-79
+  s_f9ee7d9e78869d::t_4b634d9857900a 70-74
+packages/core/tests/unit-test/service-describe.test.ts
+  s_f9ee7d9e78869d::t_3fa58c52ad2002 81-83
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 1,3-4,6-9,12-14,17-19,22-28,30,32-34,38-44,47-60,63-69,72-78,85-89,91-94,96-97,99-108,110-117
+  s_f9ee7d9e78869d::t_31e7a74d5371bb 121-131,133-134,137-141,144-149,153-162,165-167,169
+  s_04fd9a21fe5664::t_837e962d2bbc6c 98,109
+topics/global-vars-runtime/TOPIC.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-5
+packages/visualizer/src/component/player/scenes/StepScene.tsx
+  s_1303c28744e475::t_9c48a0f1be5bac 173-193
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/examples/compose.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-20,22,24-46,48-59,61-87
+packages/agent-server/tsconfig.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-15
+packages/visualizer/package.json
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 71
+.claude/settings.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-16
+scripts/pack-cli.js
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-126,145-809,819,860-866
+packages/shared/src/polyfills/async-hooks.ts
+  s_b73d6ae07b4a2c::t_594cb575e00262 2-5,7-29
+packages/core/src/yaml/ai-ubt-request.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-111,118-152,158-171
+packages/core/src/ai-model/prompt/planning-v4/grammar.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-5,7,13-18,20-23,25-38,40-42,47-51,53-56,60-62,64-72
+  s_1538838d0f2a28::t_ddfbb2770fffa9 6
+  s_640cb48fb92060::t_523bba8da3c782 57,59
+packages/visualizer/src/component/player/use-dump-parser.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-118,165-430
+packages/core/tests/unit-test/task-cache-empty-flow.test.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 83,90
+docs/exec-plans/tech-debt-tracker.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-45
+topics/global-vars-runtime/MEMORY.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-16
+packages/agent-server/src/index.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-19
+packages/shared/src/mPaas-log-utils.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-68
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/reason/schema.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-9,11-61
+changelogs/README.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-21
+packages/shared/src/ctestCommon.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-443,453-491
+CLAUDE.md
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 1
+packages/android/tests/unit-test/input-backend.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-240
+harness/.analysis/audit.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-219
+packages/core/src/ai-model/prompt/planning-v3/grammar.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-10,16-18,20-25
+packages/core/src/ai-model/prompt/planning-v2/action-catalog.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-46,51
+packages/cli/src/normalize-yaml-meta.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-73
+.gitattributes
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-3
+packages/agent-server/src/http.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-61
+packages/core/tests/unit-test/utils.test.ts
+  s_0aca230dc5826f::t_b2b652ec42f6f9 353-396
+packages/visualizer/src/component/player/scenes/export-branded-video.ts
+  s_1303c28744e475::t_e46eb748d7b27c 188-212
+packages/agent-server/src/ai-beautify.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-349
+harness/.analysis/delta-summary.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-61
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/yaml-actions.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-69,71-91,93-104,106-128,130-132
+packages/core/src/agent/task-cache.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 5-6,439-440,462,708-709,715-719
+packages/core/src/ai-model/prompt/planning-v4/rules.ts
+  s_bdbded58e54481::t_dd9c97a0787ff6 38
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-37,39-55,65-74
+packages/shared/src/appium/client.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-618
+changelogs/inspection-mvp-backend-handoff.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-32,34-83,85-119,121-155,157-190,192-202
+packages/core/src/ai-model/service-caller/index.ts
+  s_fc26d3beac8994::t_6b0b0f8d8e80c2 4-6,10,91-94,110-131,430,432,437,439-442,1048-1051,1055-1056,1070
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 954-955
+packages/core/src/ai-model/shared/model-locate-result/prompt-spec.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 18-25,27-28,31-37
+packages/agent-server/src/report-analysis/error-categories.ts
+  s_6c397aaa57e342::t_a3a1aaac61b04a 1-11,13-17
+  h_160515c2cd9321 12
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 112-114,128
+packages/core/src/ai-model/models/step/planning.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-94,98-232
+packages/core/src/ai-model/prompt/llm-planning-v2.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-32,45
+packages/core/src/task-runner.ts
+  s_8437f6b4b02e25::t_69189a94582481 48,547-548,555-571,574-577
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 167,214-215,362-368,370-371,373-376,384-402,405-409,419,431,533
+packages/agent-server/src/report-analysis/screenshot-cache.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-78
+packages/agent-server/src/report-analysis/types.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-214
+packages/agent-server/src/report-analysis/case-yaml-utils.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-172,177-421
+harness/.analysis/creator-payload.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-731
+.claude/skills/learn/SKILL.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-52
+.npmrc
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 1-2,8
+harness/.analysis/architecture-summary.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-52,54-87,91-107,113-118,122-124,128-130
+harness/generation-metadata.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-165
+packages/agent-server/src/device.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-362
+packages/agent-server/src/ai-description.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-217
+harness/.analysis/architecture.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-1790
+packages/core/src/ai-model/prompt/planning-v2/policy.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1,4-13,15,18-21
+packages/core/src/ai-model/prompt/planning-v4/anti-patterns.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-18,24-27,33-35,41-44,47
+harness/config/environment.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-158
+packages/core/src/ai-model/prompt/llm-planning-v4.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-57
+packages/agent-server/package.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 2-8,10-13,15-24,26-36,38-44,46-47,49
+packages/core/src/agent/tasks.ts
+  s_2134be7c4580ac::t_e48b748e326459 1416-1421
+  s_2134be7c4580ac::t_93cd7223a657b4 1398-1402,1415,1422-1424
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 15,213-214,229,692,695-699,701,720-721,728,730-737,776,795,798-800,837,854-856,877-878,892-893,896-897,943-944
+packages/agent-server/src/server.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-243
+packages/agent-server/src/report-analysis/ai-client.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-202
+harness/.analysis/audit-summary.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-68
+packages/agent-server/src/report-analysis/prompts.ts
+  s_6c397aaa57e342::t_5eb060ee451a59 6
+  s_6c397aaa57e342::t_e505352830d149 240-241,257
+  s_36152039cbf988::t_7f269d75898cf3 394
+  s_6c397aaa57e342::t_a835355af6ffbd 159-162,164,167
+  s_6c397aaa57e342::t_e4e0ab946954ef 7-12,77-78,127-128,174-176,188-190,208-212,246-249,253-256,316-324,327-330,386-392
+  s_6c397aaa57e342::t_a9498b3415aa37 163
+  s_6c397aaa57e342::t_bc5bd37065c374 32
+  s_849d07c01fd8ca::t_087b80f91653c6 1-5,14,23,31,34,39-41,72-75,84,102-108,124-125,141-144,157,169-173,177-187,195-196,201,206,213-219,225-239,242-245,250-252,292-315,325-326,331-333,393,395-396,408-410
+packages/core/src/ai-model/prompt/planning-v4/actions.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-23,30-46
+packages/cli/src/create-yaml-player.ts
+  s_5f7f25eafb96d7::t_02837e7baa5d9d 32
+  h_6c98e8fb003ba6 209
+  s_5f7f25eafb96d7::t_43cc79ef643cc6 208
+docs/design-docs/platform-adapters.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-39
+packages/agent-server/src/ignite.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-26
+packages/agent-server/src/redis.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-79
+packages/agent-server/src/report-analysis/error-code-cache.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-27
+packages/webdriver/src/utils/request.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 63-67
+packages/core/src/agent/task-builder.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 143,151,170,184-186,208-211,225-229,232-241,243,276,279,306-308,404-412,463,504-536,623-703,710,734-740
+packages/android/src/input-backend.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-165
+.claude/skills/topic-save/SKILL.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-62
+docs/design-docs/index.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-15
+packages/agent-server/rslib.config.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-28
+packages/visualizer/src/utils/replay-scripts.ts
+  s_1303c28744e475::t_168e26d1328822 62
+  s_1303c28744e475::t_e45fbbb669876d 549
+packages/core/src/report-generator.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 396
+packages/shared/src/flight-mock.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-149
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/examples/refine.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-9,18,25-29,35,43,49,57,63,69-73,79,85,91,98,104,110,116,123-127,133,139,145,151-157,163,169-173,184,195,207,219-223,231,237-241,248,256-260,269-287
+packages/android/tests/unit-test/text-input-diagnostics.test.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-36
+packages/core/src/service/index.ts
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 657-663,669-671,710-714,720-722,730,734-737,739,741-747,753,776-779,788-790
+  s_04fd9a21fe5664::t_837e962d2bbc6c 725,738
+  s_f9ee7d9e78869d::t_1a601791191977 264-269
+  s_f9ee7d9e78869d::t_f323cd25c427ff 245-263,270-292
+  s_f9ee7d9e78869d::t_934330e9bd2063 781-784
+packages/agent-server/src/agent.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-70,72-73,75-86
+packages/cli/src/daemon/index.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-436
+packages/android/src/agent.ts
+  s_9751b25c0d00cd::t_b541b1b9ccbc48 139-141,143,146-194
+  s_9751b25c0d00cd::t_e00e120c65f2a6 77-78
+  s_9751b25c0d00cd::t_0d1c21d905ee92 142,144
+harness/scripts/start-server.sh
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-66
+docs/ARCHITECTURE.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-19,24-76
+packages/core/src/ai-model/shared/error-feedback.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-16
+packages/shared/src/img/index.ts
+  s_aaee7b776cafc5::t_f1d22ab7d0bddc 36
+  s_b73d6ae07b4a2c::t_594cb575e00262 34
+  s_8437f6b4b02e25::t_30ca45324796b1 35,37
+apps/report/src/components/detail-panel/index.tsx
+  s_9751b25c0d00cd::t_b3a94e257507f6 46
+  s_b73d6ae07b4a2c::t_2c4a1df76e90bd 234
+scripts/startup.sh
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-47
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/references/wait.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-61,63-65,67-71,73-90
+scripts/pack-local.js
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-123,146-460,500-502
+packages/shared/src/env/model-config-manager.ts
+  s_b73d6ae07b4a2c::t_594cb575e00262 10,46
+packages/shared/src/mPaas.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-27,31-36,38-66,68-72,74-80,85-94,96-99,101-118,120-123,125-128,130-134,136-146,148-152,154-157,159-162,164-167,170-173,175-196,198-225,227-240,242-337,339-465,467-470,472-484,486-495,497-499,501-546,548-557,559-562,564-575,577-580,584-620,622-640,642-669,671-728,730-741,743-781,783-785,789-809,811-873,875-877,879-892,894-912,914-933,935-947,949-965,967-988,990-1015,1017-1034,1036-1045,1047-1051,1053-1058,1060-1063,1065-1070,1072-1081,1083-1087,1089-1098,1100-1110,1112-1121,1123-1126,1128-1145,1147-1149,1151-1159,1163-1168,1170-1180,1184-1236,1238-1247,1249-1251,1256-1262,1264-1297,1299-1328,1330-1344,1352-1356,1358-1362,1364-1377,1379-1390,1392-1403,1405-1409,1411-1413,1415-1434,1436-1449,1453-1458,1460-1467,1472-1479,1481-1486,1488-1493,1495-1501,1503-1507,1509-1519,1521-1532,1534-1539,1541-1545,1547-1549,1551-1568,1570-1572,1574-1576,1578-1600,1602-1623,1625-1654,1656-1708,1710-1713,1715-1718,1720-1748,1750-1759,1761-1787
+packages/shared/package.json
+  s_b73d6ae07b4a2c::t_594cb575e00262 85-94,99-103,106-110,123,125-127,129,131,133,139,141-143,145-146,150-152
+packages/core/src/agent/shrink-prompt.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-2,11-21,24-27,29-32,37-49,51-54
+packages/shared/src/constants/example-code.ts
+  s_b73d6ae07b4a2c::t_594cb575e00262 107,120-132,136-147
+packages/core/src/agent/appium-failure-dump.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-59
+scripts/shutdown.sh
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-15
+packages/core/src/yaml.ts
+  s_0aca230dc5826f::t_7e52a14ed66051 67-69
+  s_0aca230dc5826f::t_33b9d7c9de59cc 44-54
+  h_6c98e8fb003ba6 171
+packages/cli/src/daemon/protocol.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-45
+packages/android/package.json
+  s_9751b25c0d00cd::t_2d7757f9a50e89 53-54
+docs/design-docs/report-dump.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-31
+packages/agent-server/src/step-beautify-loader.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-86
+.claude/skills/topic-open/SKILL.md
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-20
+packages/core/src/ai-model/prompt/planning-v2/contract.ts
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-2,5,14-17,23
+harness/.analysis/environment.json
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-157
+packages/agent-server/src/report-analysis/index.ts
+  s_6c397aaa57e342::t_2874e74663d386 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "379c850210cbe971da8c812e24b1debc1e843b50",
+  "prompts": {},
+  "sessions": {
+    "s_04fd9a21fe5664": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lsp2a73zz79c",
+        "model": "kimi-k3"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_0aca230dc5826f": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_ugujorg0kdm0",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    },
+    "s_1303c28744e475": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "329e9826-49b4-4045-a4f1-07dc5bf6dc25",
+        "model": "arn:aws:bedrock:us-east-1:133197901387:application-inference-profile/r3vgzaso9r25"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_1538838d0f2a28": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_crvclq7h75ak",
+        "model": "auto(free)"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    },
+    "s_2134be7c4580ac": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_auparzf9nydn",
+        "model": "DeepSeek-V4-Pro-discount"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_36152039cbf988": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "305f7e4e-c358-44c9-b6b0-bcb8f199125c",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    },
+    "s_5f7f25eafb96d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e40f00cc-9384-4026-ba8d-f371932a7054",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    },
+    "s_640cb48fb92060": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "20459ac2-fcca-465e-94a1-267a06017a74",
+        "model": "kimi-k3"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    },
+    "s_6c397aaa57e342": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01cd6390-c89f-4664-acc8-4fb5b763638f",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    },
+    "s_8437f6b4b02e25": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_d5zvu5at6q1d",
+        "model": "DeepSeek-V4-Pro-discount"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_849d07c01fd8ca": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "24768415-54ee-41d1-9281-80b944fa7cc6",
+        "model": "composer-2.5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    },
+    "s_9751b25c0d00cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b09651c1-7167-4598-93b3-64a8564bb6a5",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_aaee7b776cafc5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b95a0ff2-f0f7-45ff-ac35-60c786b260fd",
+        "model": "grok-4.5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_b73d6ae07b4a2c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7546be58-20dc-4810-8cfe-6d1625217e2b",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_bdbded58e54481": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_qqx87ml6xa71",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    },
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_fc26d3beac8994": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "632b67e5-b19f-43b0-ae0b-fb5cccc74815",
+        "model": "grok-4.5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

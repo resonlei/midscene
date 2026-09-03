@@ -1,0 +1,22 @@
+packages/shared/src/appium/client.ts
+  s_5169fb2a65fb73::t_595c032820a56b 578-585
+packages/shared/tests/unit-test/appium-client.test.ts
+  s_5169fb2a65fb73::t_dadd5ef1eaeadd 12,14,289-332,334
+  s_5169fb2a65fb73::t_4d195319162e9b 333
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "7b3f3a8bb7e925ebbb0c2ee7e55b54e41fdf368a",
+  "prompts": {},
+  "sessions": {
+    "s_5169fb2a65fb73": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_yqjaj26wmibg",
+        "model": "gpt-5.6-sol-2026-07-09"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

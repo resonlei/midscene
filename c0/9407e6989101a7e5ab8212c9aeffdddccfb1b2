@@ -1,0 +1,27 @@
+packages/android/tests/unit-test/page.test.ts
+  s_d96ab5da4086d7::t_87c0fe5fcbe122 201,205
+packages/android/src/device.ts
+  s_d96ab5da4086d7::t_2bc0b8c9d3ce23 49,74,2088-2089
+  s_d96ab5da4086d7::t_95a9962de2d136 2201-2215
+packages/android/src/scrcpy-device-adapter.ts
+  s_d96ab5da4086d7::t_630913eb1dd969 7-11,259
+packages/android/src/scrcpy-manager.ts
+  s_d96ab5da4086d7::t_bf99ba40d53bf8 474,481,485
+  s_d96ab5da4086d7::t_95a9962de2d136 88-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "c09407e6989101a7e5ab8212c9aeffdddccfb1b2",
+  "prompts": {},
+  "sessions": {
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

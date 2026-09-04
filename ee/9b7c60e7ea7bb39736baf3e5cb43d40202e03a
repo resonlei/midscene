@@ -1,0 +1,25 @@
+packages/agent-server/src/ai-description.ts
+  s_89265c120c17a1::t_4e6106082adead 2
+packages/agent-server/package.json
+  s_89265c120c17a1::t_4e6106082adead 29
+packages/agent-server/src/types.ts
+  s_89265c120c17a1::t_4e6106082adead 2
+packages/agent-server/src/ai-description.test.ts
+  s_89265c120c17a1::t_4e6106082adead 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "ee9b7c60e7ea7bb39736baf3e5cb43d40202e03a",
+  "prompts": {},
+  "sessions": {
+    "s_89265c120c17a1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dfa61f4d-52d6-4751-8a1e-e137af933d4a",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

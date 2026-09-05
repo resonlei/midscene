@@ -1,0 +1,24 @@
+packages/shared/tests/unit-test/appium-client.test.ts
+  s_d96ab5da4086d7::t_615c1a8a9bcaef 12,14
+  s_d96ab5da4086d7::t_5723c3cd29e872 289-336
+packages/shared/src/appium/client.ts
+  s_d96ab5da4086d7::t_7a8d00bfb1f6b0 578-585
+packages/shared/src/flight-mock.ts
+  s_d96ab5da4086d7::t_7a8d00bfb1f6b0 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "6e132da0ad6a997cd162be20d2fda38ed74fca7f",
+  "prompts": {},
+  "sessions": {
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

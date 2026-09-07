@@ -1,0 +1,33 @@
+packages/core/src/agent/agent.ts
+  ai_agent 19,1203-1209,1238
+  s_2a191d19ef53c9::t_d276a099d211e7 129
+  s_2a191d19ef53c9::t_5fd662a868f3d9 916,951,955,1341
+  s_2a191d19ef53c9::t_0bb84207073452 1320,1323,1328,1331,1335
+  s_2a191d19ef53c9::t_78792f9ce86eb0 1360
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,399-400,411-412
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "71e939840672d09b701e2c11a4a41b5fce3bb6eb",
+  "prompts": {},
+  "sessions": {
+    "s_2a191d19ef53c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b9b8258f-22ee-4745-a753-85b99a687c6a",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    },
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

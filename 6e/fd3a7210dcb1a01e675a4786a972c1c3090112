@@ -1,0 +1,23 @@
+packages/android/src/agent.ts
+  s_9751b25c0d00cd::t_e00e120c65f2a6 76-77
+  s_9751b25c0d00cd::t_b541b1b9ccbc48 143-145,147,150-164,178-184,186-190,193,195-196
+  s_9751b25c0d00cd::t_0d1c21d905ee92 146,148
+packages/android/package.json
+  s_9751b25c0d00cd::t_2d7757f9a50e89 58-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.18-trip",
+  "base_commit_sha": "6efd3a7210dcb1a01e675a4786a972c1c3090112",
+  "prompts": {},
+  "sessions": {
+    "s_9751b25c0d00cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b09651c1-7167-4598-93b3-64a8564bb6a5",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

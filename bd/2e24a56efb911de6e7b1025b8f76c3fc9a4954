@@ -1,0 +1,79 @@
+packages/core/src/yaml/player.ts
+  ai_agent 27-29,31-33,35,236-296,298-302,305-306,308,383-384,387-390
+  s_77d291dfc5747b::t_b4974434d86314 117-120
+  s_d9250a86f3ba56::t_59b55f360ca041 129-131
+  s_2a191d19ef53c9::t_2573452656ec20 349-352
+  s_2afdd73dda949c::t_98c53c24deb2b6 431
+  s_77d291dfc5747b::t_dc3a92ac63b478 434,436
+  h_b23c991cbeb333 435,438-439,462
+  h_652e49f7e9e999 449
+  s_2ecc181c409ca1::t_aee785163b620e 457
+  s_f03aeb7487cdae::t_1e906d11826874 650-666
+packages/core/src/agent/agent.ts
+  ai_agent 20,1321-1327,1356
+  s_2a191d19ef53c9::t_d276a099d211e7 160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "bd2e24a56efb911de6e7b1025b8f76c3fc9a4954",
+  "prompts": {},
+  "humans": {
+    "h_652e49f7e9e999": {
+      "author": "xu_ming <xu_ming@trip.com>"
+    },
+    "h_b23c991cbeb333": {
+      "author": "resonLei <sheng.lei@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_2a191d19ef53c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b9b8258f-22ee-4745-a753-85b99a687c6a",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    },
+    "s_2afdd73dda949c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f20d2-3ad4-7460-98a5-e45175f9823d",
+        "model": "gpt-5.5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    },
+    "s_2ecc181c409ca1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "08da7f51-aaac-4a1f-92d5-9d9f8f38fe9e",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    },
+    "s_77d291dfc5747b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "226cd462-914c-4118-bb05-0e7fcc9eef60",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    },
+    "s_d9250a86f3ba56": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1e09-254c-7591-bf34-bbe16267c6d3",
+        "model": "gpt-5.5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    },
+    "s_f03aeb7487cdae": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "11c9bf17-ae16-4302-8a6f-63878093b96a",
+        "model": "default"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  }
+}

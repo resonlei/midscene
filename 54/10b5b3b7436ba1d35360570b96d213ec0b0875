@@ -1,0 +1,23 @@
+packages/android/tests/unit-test/input-backend.test.ts
+  s_89265c120c17a1::t_80f40d4c8d6ef6 1,7-10,15-16,25,41-42,46,54,76,90,105,122,145,155,171,179,199,214,228
+packages/android/tests/unit-test/text-input-diagnostics.test.ts
+  s_89265c120c17a1::t_80f40d4c8d6ef6 1
+packages/android/tests/unit-test/scrcpy-manager.test.ts
+  s_89265c120c17a1::t_80f40d4c8d6ef6 1436-1437,1440
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "5410b5b3b7436ba1d35360570b96d213ec0b0875",
+  "prompts": {},
+  "sessions": {
+    "s_89265c120c17a1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dfa61f4d-52d6-4751-8a1e-e137af933d4a",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

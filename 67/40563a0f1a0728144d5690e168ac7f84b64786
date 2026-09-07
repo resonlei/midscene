@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10-trip",
+  "base_commit_sha": "6740563a0f1a0728144d5690e168ac7f84b64786",
+  "prompts": {},
+  "humans": {
+    "h_6c98e8fb003ba6": {
+      "author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+package.json
+  s_6534bdd83658de::t_d99f978b0970a2 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "a76b824fd2bad13a0dff6f4e419324560b1d7440",
+  "prompts": {},
+  "sessions": {
+    "s_6534bdd83658de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e520438e-bf0f-439b-8c28-30a1cc7edff9",
+        "model": "ep-hcn0oy2s"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

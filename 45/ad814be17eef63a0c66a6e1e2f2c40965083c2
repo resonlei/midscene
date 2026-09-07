@@ -1,0 +1,9 @@
+packages/android/src/device.ts
+  ai_agent 1269-1274,1302-1307,1339-1344,1376-1381,1927-1928,1930
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "45ad814be17eef63a0c66a6e1e2f2c40965083c2",
+  "prompts": {}
+}

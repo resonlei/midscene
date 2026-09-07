@@ -1,0 +1,24 @@
+apps/report/src/components/detail-side/index.tsx
+  s_d96ab5da4086d7::t_1cc4a94eff412b 31,38-39,42-50,78-79
+scripts/report-template-utils.mjs
+  s_d96ab5da4086d7::t_cd0c0aa001d198 51-55
+apps/report/src/components/sidebar/index.tsx
+  s_d96ab5da4086d7::t_1cc4a94eff412b 8,37-40
+  s_d96ab5da4086d7::t_65288affc84940 17,41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "398907a545a1ca9f1323f4bffe1ec12be02522d7",
+  "prompts": {},
+  "sessions": {
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

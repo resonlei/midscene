@@ -1,0 +1,20 @@
+scripts/report-template-utils.mjs
+  s_d96ab5da4086d7::t_606614d668dfdd 28
+  s_d96ab5da4086d7::t_620106865a4b1d 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "1b89b3fc07f971c9f99dd1ee40c87af5e0846848",
+  "prompts": {},
+  "sessions": {
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

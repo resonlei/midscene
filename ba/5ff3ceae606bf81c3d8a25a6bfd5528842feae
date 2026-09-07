@@ -1,0 +1,38 @@
+packages/core/src/ai-model/service-caller/index.ts
+  s_fc26d3beac8994::t_6b0b0f8d8e80c2 584,592,603,611-613,617,626
+  s_ff04ba3c90317e::t_ceb85f2963fc75 591,593-600
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "ba5ff3ceae606bf81c3d8a25a6bfd5528842feae",
+  "prompts": {},
+  "sessions": {
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_fc26d3beac8994": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "632b67e5-b19f-43b0-ae0b-fb5cccc74815",
+        "model": "grok-4.5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_ff04ba3c90317e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab173c18-2596-4046-af7a-94b961bc8dd9",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

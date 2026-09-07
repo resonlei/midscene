@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "db7f562fe610aa93476dc333fff785f13b590f43",
+  "prompts": {},
+  "humans": {
+    "h_b23c991cbeb333": {
+      "author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

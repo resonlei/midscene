@@ -1,0 +1,19 @@
+packages/cli/tests/unit-test/normalize-yaml-meta.test.ts
+  s_89265c120c17a1::t_f547b15227c740 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "44cf7a38296eafba65d0d897c5e6c030869b8980",
+  "prompts": {},
+  "sessions": {
+    "s_89265c120c17a1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dfa61f4d-52d6-4751-8a1e-e137af933d4a",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

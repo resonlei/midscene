@@ -1,0 +1,25 @@
+packages/agent-server/src/report-analysis/mpaas-client.ts
+  s_17dbf56aa787d4::t_146e0212ab428b 178,180,182-194,196-197
+  s_17dbf56aa787d4::t_a4223b4f05a3d2 163-169,175
+  s_17dbf56aa787d4::t_6537060261cf32 1
+packages/agent-server/src/report-analysis/analyzer.ts
+  s_17dbf56aa787d4::t_2242b99d18b992 219,221
+  s_17dbf56aa787d4::t_d5c99ff34ff578 45,47-54,56-86
+  s_17dbf56aa787d4::t_950110c3c4696b 216-218,220,222-223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "a2f806b490e85c84cd1c127a93b7de9b858111ee",
+  "prompts": {},
+  "sessions": {
+    "s_17dbf56aa787d4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "23014094-e4af-4b63-bef4-bf7d789e61c4",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+packages/core/src/ai-model/service-caller/index.ts
+  s_fc26d3beac8994::t_6b0b0f8d8e80c2 759,767,777,787-788,839,100,104,109,112,123,125,129,135,139,715,720,333,427,434-435,437-438,591,78,351,364,746-747,96,799,805,807,813,824
+  s_ff04ba3c90317e::t_ceb85f2963fc75 766,768-773,99,103,108,111,128,138,332,77,95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "8de0dc55b5d40729dd21b3c92de5143ac5811a02",
+  "prompts": {},
+  "sessions": {
+    "s_fc26d3beac8994": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "632b67e5-b19f-43b0-ae0b-fb5cccc74815",
+        "model": "grok-4.5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_ff04ba3c90317e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab173c18-2596-4046-af7a-94b961bc8dd9",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

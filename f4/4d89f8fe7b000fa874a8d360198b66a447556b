@@ -1,0 +1,19 @@
+changelogs/core-test-failure-diagnosis.md
+  s_438ca8a6005eca::t_8fc98e14a9b663 1-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "f44d89f8fe7b000fa874a8d360198b66a447556b",
+  "prompts": {},
+  "sessions": {
+    "s_438ca8a6005eca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5ddfb0-c6a0-49ac-bb5a-61332ae73a33",
+        "model": "kimi-k3"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

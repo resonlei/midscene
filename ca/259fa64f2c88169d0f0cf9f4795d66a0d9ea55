@@ -1,0 +1,20 @@
+changelogs/merger-vs-develop-audit.md
+  s_438ca8a6005eca::t_5586ec08fb7304 31-41,208-215,218,268-269,279-280,292,296
+  s_438ca8a6005eca::t_bc24580c7f3686 248-264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "ca259fa64f2c88169d0f0cf9f4795d66a0d9ea55",
+  "prompts": {},
+  "sessions": {
+    "s_438ca8a6005eca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5ddfb0-c6a0-49ac-bb5a-61332ae73a33",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

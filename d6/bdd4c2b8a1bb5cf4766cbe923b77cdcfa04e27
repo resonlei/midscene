@@ -1,0 +1,19 @@
+packages/core/rstest.config.ts
+  s_438ca8a6005eca::t_2fb3e565a391bd 24-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "d6bdd4c2b8a1bb5cf4766cbe923b77cdcfa04e27",
+  "prompts": {},
+  "sessions": {
+    "s_438ca8a6005eca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5ddfb0-c6a0-49ac-bb5a-61332ae73a33",
+        "model": "kimi-k3"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

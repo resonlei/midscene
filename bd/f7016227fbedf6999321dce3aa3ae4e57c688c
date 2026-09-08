@@ -1,0 +1,43 @@
+packages/core/tests/unit-test/task-builder.test.ts
+  s_438ca8a6005eca::t_92802350993b7a 408
+  s_438ca8a6005eca::t_625f39eaf1809c 426-488
+  s_438ca8a6005eca::t_cacd49bc1a5b8f 8
+packages/core/tests/unit-test/workflows/recorder-generation/yaml.test.ts
+  s_438ca8a6005eca::t_b09cc4e4937199 270
+packages/core/tests/unit-test/report-generator.test.ts
+  s_438ca8a6005eca::t_9e5f8cb4eda454 15
+  s_438ca8a6005eca::t_e6bf6f79bfd187 8
+packages/android/tests/unit-test/scrcpy-manager.test.ts
+  s_438ca8a6005eca::t_1877176f64823d 1484-1485
+  s_438ca8a6005eca::t_59ed8cb0de49d8 1458-1459
+packages/core/tests/unit-test/prompt/prompt.test.ts
+  s_438ca8a6005eca::t_4a6c13ded54d8f 12
+  s_438ca8a6005eca::t_7631dff38cc2df 26
+  s_438ca8a6005eca::t_ffb62b2608bfca 563-574
+  s_438ca8a6005eca::t_243ea334621357 14
+packages/core/tests/unit-test/utils.test.ts
+  s_438ca8a6005eca::t_419d84ab8d1702 308
+packages/core/tests/unit-test/device-options.test.ts
+  s_438ca8a6005eca::t_ea77ab785b52c1 78
+  s_438ca8a6005eca::t_e59dd4883b55a4 73
+packages/android/tests/unit-test/input-backend.test.ts
+  s_438ca8a6005eca::t_27dca0442ef362 67,85,100,164,237
+  s_438ca8a6005eca::t_8118cbd8b1e5db 222
+  s_438ca8a6005eca::t_00d9651c6d0ce1 187,192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "bdf7016227fbedf6999321dce3aa3ae4e57c688c",
+  "prompts": {},
+  "sessions": {
+    "s_438ca8a6005eca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5ddfb0-c6a0-49ac-bb5a-61332ae73a33",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

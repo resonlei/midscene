@@ -1,0 +1,63 @@
+packages/core/src/agent/tasks.ts
+  s_b73d6ae07b4a2c::t_022acc9e46441b 545
+  s_b73d6ae07b4a2c::t_163cecf7d2990c 1131
+  s_b73d6ae07b4a2c::t_422f0b89c339ef 1403
+packages/core/src/yaml/step-failure-compensation.ts
+  s_b73d6ae07b4a2c::t_475a9f740891c9 132
+  s_b73d6ae07b4a2c::t_ae021c9932267e 149
+  s_b73d6ae07b4a2c::t_30fde9ba181b8a 3
+packages/core/src/agent/agent.ts
+  s_b73d6ae07b4a2c::t_0d1ccdef372bef 1542
+  s_b73d6ae07b4a2c::t_5ed4d85b06c0c1 41,45-47,50
+  s_b73d6ae07b4a2c::t_f521a90427cb80 1652-1653
+  s_b73d6ae07b4a2c::t_84936aea5d2772 3247-3254
+packages/core/src/ai-model/prompt/planning/system-prompt.ts
+  s_b73d6ae07b4a2c::t_d3b8fc2c4e69a9 16
+packages/core/src/element-describer.ts
+  s_b73d6ae07b4a2c::t_e21adbbc39341d 69,75
+packages/core/src/task-runner.ts
+  s_b73d6ae07b4a2c::t_07fe9984916b5b 459
+  s_b73d6ae07b4a2c::t_622e27621316e1 651
+packages/core/src/service/index.ts
+  s_b73d6ae07b4a2c::t_3dbca820f56a1f 64-65
+packages/core/src/device/device-options.ts
+  s_b73d6ae07b4a2c::t_885e8fcf0d2eee 204-205
+packages/core/src/yaml.ts
+  s_b73d6ae07b4a2c::t_c356664cf612fe 381
+  s_b73d6ae07b4a2c::t_902437893ee117 108-109
+.npmrc
+  s_b73d6ae07b4a2c::t_a86370a24c5a3d 2
+  s_b73d6ae07b4a2c::t_248360736845c3 3,9
+  s_b73d6ae07b4a2c::t_4a699f278e0928 10
+  s_b73d6ae07b4a2c::t_ad1e68634edd46 11
+package.json
+  s_b73d6ae07b4a2c::t_1d3610fd0b61f7 32-40,79-83
+packages/core/src/ai-model/prompt/locate-param-example.ts
+  s_b73d6ae07b4a2c::t_2690e074ff25dc 1,3-5,7-14,16-18,21-29,31-37
+packages/core/src/yaml/player.ts
+  s_b73d6ae07b4a2c::t_03bd757c5124a2 938-952
+  s_b73d6ae07b4a2c::t_38f261574bcb01 900-902,905-906,913-914
+  s_b73d6ae07b4a2c::t_369caf15522cd1 126
+packages/core/src/agent/task-builder.ts
+  s_b73d6ae07b4a2c::t_f919f65b0cd359 491
+packages/shared/src/env/types.ts
+  s_b73d6ae07b4a2c::t_10968c414a158a 328
+packages/core/src/ai-model/service-caller/index.ts
+  s_b73d6ae07b4a2c::t_ed686d6bc5f41c 1111,1124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "b5ae282cbf69a24331a91aeb6dd32d0e29d69908",
+  "prompts": {},
+  "sessions": {
+    "s_b73d6ae07b4a2c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7546be58-20dc-4810-8cfe-6d1625217e2b",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

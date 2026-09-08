@@ -1,0 +1,57 @@
+packages/core/src/ai-model/llm-planning.ts
+  s_1a0471e63ee7ad::t_3450673ecb999d 11-12,35,38-40
+  s_f8cf5575bcbcd4::t_4ea4b593c11966 16
+  s_f8cf5575bcbcd4::t_fe92be04376745 113-114,197-199,195
+  s_2a1e104d3c7fbd::t_07370a241dd310 219-220,224-239,196,338,357,376,390-391,397,406-407
+packages/core/src/ai-model/service-caller/index.ts
+  s_fc26d3beac8994::t_6b0b0f8d8e80c2 756,764,774,784-785,835,100,104,109,112,123,125,129,135,139,712,717,332,424,431-432,434-435,588,78,350,363,743-744,96,795,801,803,809,820
+  s_ff04ba3c90317e::t_ceb85f2963fc75 763,765-770,99,103,108,111,128,138,331,77,95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "c5b374f5d4f8ed28ff147dd4efc181b55fdcd894",
+  "prompts": {},
+  "sessions": {
+    "s_1a0471e63ee7ad": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d3209a09-b3a9-4f32-8351-6aeebd2ecda0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    },
+    "s_2a1e104d3c7fbd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6c90d58-ba14-43e3-81d1-5d0c689a8045",
+        "model": "arn:aws:bedrock:us-east-1:133197901387:application-inference-profile/r3vgzaso9r25"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_f8cf5575bcbcd4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d51a0a9e-8d81-4196-a42f-01c268121a12",
+        "model": "arn:aws:bedrock:us-east-1:133197901387:application-inference-profile/r3vgzaso9r25"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_fc26d3beac8994": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "632b67e5-b19f-43b0-ae0b-fb5cccc74815",
+        "model": "grok-4.5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_ff04ba3c90317e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab173c18-2596-4046-af7a-94b961bc8dd9",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

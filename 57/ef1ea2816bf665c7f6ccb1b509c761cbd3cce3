@@ -1,0 +1,27 @@
+packages/cli/src/execution-summary.ts
+  s_d96ab5da4086d7::t_29a3e694587c0e 1
+packages/cli/src/create-yaml-player.ts
+  s_d96ab5da4086d7::t_29a3e694587c0e 378-379,386,394
+packages/cli/src/yaml-batch-executor.ts
+  s_d96ab5da4086d7::t_29a3e694587c0e 80
+packages/cli/src/cli-utils.ts
+  s_d96ab5da4086d7::t_29a3e694587c0e 124
+packages/cli/src/framework/command.ts
+  s_d96ab5da4086d7::t_29a3e694587c0e 145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "57ef1ea2816bf665c7f6ccb1b509c761cbd3cce3",
+  "prompts": {},
+  "sessions": {
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 102-103,554-555,566-567,809,1072,1102
+packages/core/src/agent/task-builder.ts
+  ai_agent 77,84,87,90,708,710,719
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "5a312ea43a8ddb983502503f195823ed05e67183",
+  "prompts": {},
+  "sessions": {
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

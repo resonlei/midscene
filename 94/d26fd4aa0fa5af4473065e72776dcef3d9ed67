@@ -1,0 +1,25 @@
+packages/cli/src/normalize-yaml-meta.ts
+  s_f17f6fce9b8049::t_c04753977ac66c 2
+  s_f17f6fce9b8049::t_9caa1815d4d0b1 40-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.17-trip",
+  "base_commit_sha": "94d26fd4aa0fa5af4473065e72776dcef3d9ed67",
+  "prompts": {},
+  "humans": {
+    "h_6c98e8fb003ba6": {
+      "author": "zhuc <zhuc@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_f17f6fce9b8049": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9b105574-a72e-4b50-8a30-8a1aa9e3fb60",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

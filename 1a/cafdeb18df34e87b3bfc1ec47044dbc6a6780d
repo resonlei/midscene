@@ -1,0 +1,27 @@
+packages/agent-server/src/report-analysis/analyzer.ts
+  s_d96ab5da4086d7::t_f490bc82be0edb 148,151,174
+packages/agent-server/src/report-analysis/mpaas-client.ts
+  s_d96ab5da4086d7::t_f490bc82be0edb 2,238,241,243,245
+packages/agent-server/src/report-analysis/screenshot-cache.ts
+  s_d96ab5da4086d7::t_f490bc82be0edb 13,21,36,39,44,49
+packages/agent-server/src/report-analysis/report-paths.ts
+  s_d96ab5da4086d7::t_f490bc82be0edb 1-5
+packages/agent-server/src/report-analysis/report-paths.test.ts
+  s_d96ab5da4086d7::t_f490bc82be0edb 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "1acafdeb18df34e87b3bfc1ec47044dbc6a6780d",
+  "prompts": {},
+  "sessions": {
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

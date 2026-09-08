@@ -1,0 +1,55 @@
+packages/core/tests/unit-test/utils.test.ts
+  s_0aca230dc5826f::t_b2b652ec42f6f9 274-275,282-283,320,322,327-328
+packages/core/src/agent/task-builder.ts
+  ai_agent 77,84,87,90,704,706,715
+packages/core/src/yaml.ts
+  h_6c98e8fb003ba6 62
+  ai_agent 259-260,263-266,269-290,292-293,352,388,397-398,194,196,303-304,369
+  s_0aca230dc5826f::t_33b9d7c9de59cc 347,183,363
+packages/core/src/agent/agent.ts
+  ai_agent 22,1428-1434,1463,1499,1510,1517,564,607,206,447
+  s_2a191d19ef53c9::t_d276a099d211e7 152
+  s_2a191d19ef53c9::t_5fd662a868f3d9 1109,1144,1148,1604,1065,1076,1196,1509,1516,1523,575,603,606,613,211,506,514,1224,1329,1354,1542,1550,1554
+  s_2a191d19ef53c9::t_0bb84207073452 1583,1586,1591,1594,1598,573,579,592,595,604,511,1553
+  s_2a191d19ef53c9::t_78792f9ce86eb0 1623,266,476,483,502,823,894,1011
+  s_2a191d19ef53c9::t_452ef06039c1c8 1195,1508,1515,1522,574,605,612,513,1223,1328
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101,496-497,508-509,747,1010
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "7cdfdcf350d178db8c73f19e17c8844946264627",
+  "prompts": {},
+  "humans": {
+    "h_6c98e8fb003ba6": {
+      "author": "zhuc <zhuc@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_0aca230dc5826f": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_ugujorg0kdm0",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    },
+    "s_2a191d19ef53c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b9b8258f-22ee-4745-a753-85b99a687c6a",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    },
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

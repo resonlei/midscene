@@ -1,0 +1,23 @@
+AGENTS.md
+  s_bb34f9699bd1fa::t_0335cad53d51b6 29
+  s_bb34f9699bd1fa::t_9e75cd822382e6 61-63
+  s_bb34f9699bd1fa::t_cf4383c68759e9 43
+  s_bb34f9699bd1fa::t_dd8cd147f6b900 50-51
+  s_bb34f9699bd1fa::t_f6871553dadcc3 54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "df42bc0eebbcfaabc04a0aa2afd173b0b029d82b",
+  "prompts": {},
+  "sessions": {
+    "s_bb34f9699bd1fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c8782c07-9944-47ec-83ef-39643d6bac72",
+        "model": "kimi-k3"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

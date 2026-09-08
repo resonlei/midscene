@@ -1,0 +1,28 @@
+packages/shared/src/img/transform.ts
+  s_8437f6b4b02e25::t_a6fe16229d2c89 273,311,209,215,39,62,162,168,182,339,354,367,369,377,400,402,412,453,458,514,518,460,471,506,512
+  s_aaee7b776cafc5::t_bfdd5a6c6e8443 274,283-284,294,296-297,302-303,308-309,312,210,214,216,645-646,651-652,666-667,714-715,881,885,895,40,52,72,132,147,183,328,330,333,340,353,355,366,368,388,393-394,401,420,433-434,442-443,459,347,480-481,484,490,507,513
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "e8e21d8e351d094ec9040f3fd48d1ea2d71994a4",
+  "prompts": {},
+  "sessions": {
+    "s_8437f6b4b02e25": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_d5zvu5at6q1d",
+        "model": "DeepSeek-V4-Pro-discount"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_aaee7b776cafc5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b95a0ff2-f0f7-45ff-ac35-60c786b260fd",
+        "model": "grok-4.5"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

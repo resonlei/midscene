@@ -1,0 +1,23 @@
+apps/report/src/components/sidebar/index.tsx
+  s_9751b25c0d00cd::t_4dd3afb407d8b3 845
+  s_9751b25c0d00cd::t_883e6dbb12c74a 863,874,878,916
+  s_9751b25c0d00cd::t_675fd935cbd604 879
+  s_9751b25c0d00cd::t_19bbe1394ef51d 880,917,948
+  s_9751b25c0d00cd::t_5abe4a9117f811 947
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "8201e4561829f4918b113846b22dda0341130c3d",
+  "prompts": {},
+  "sessions": {
+    "s_9751b25c0d00cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b09651c1-7167-4598-93b3-64a8564bb6a5",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

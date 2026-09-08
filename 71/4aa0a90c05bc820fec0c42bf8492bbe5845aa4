@@ -1,0 +1,19 @@
+packages/core/tests/unit-test/utils.test.ts
+  s_0aca230dc5826f::t_b2b652ec42f6f9 299-300,307-308,345,347,352-353
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "714aa0a90c05bc820fec0c42bf8492bbe5845aa4",
+  "prompts": {},
+  "sessions": {
+    "s_0aca230dc5826f": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_ugujorg0kdm0",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

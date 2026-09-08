@@ -1,0 +1,32 @@
+packages/agent-server/src/report-analysis/analysis-queue.ts
+  s_17dbf56aa787d4::t_7a066fe792e8e4 2,4,7-10,12-14,20-25,28-32,36,39,51-52,59,73,76,82,120,122,124-125
+  s_17dbf56aa787d4::t_444e49bc1c089d 87,92,100
+  s_17dbf56aa787d4::t_764b97ec567c85 1,3,6,15,26-27,33-35,38,136
+  s_17dbf56aa787d4::t_f46a9cf0a43959 5,16-19,37,40-50,53-58,60-72,74-75,77-81,83-86,88-91,93-99,101-119,121,123,126-135
+packages/agent-server/src/report-analysis/handler.ts
+  s_17dbf56aa787d4::t_a01669412299a5 214,218,221
+  s_17dbf56aa787d4::t_9c0b6a0debcf2a 103-109
+  s_17dbf56aa787d4::t_954d59b486a63a 223,226-228,232-237
+  s_17dbf56aa787d4::t_33072bc6c9e4f2 197-203
+packages/agent-server/src/server.ts
+  s_17dbf56aa787d4::t_6658ed28879f66 220
+  s_17dbf56aa787d4::t_d55dd14c83b06d 102
+  s_17dbf56aa787d4::t_9c28bf412813e0 8
+  s_17dbf56aa787d4::t_ff2124029afeec 209-211
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "697de49a21217428770242bd77bd286acd5e66eb",
+  "prompts": {},
+  "sessions": {
+    "s_17dbf56aa787d4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "23014094-e4af-4b63-bef4-bf7d789e61c4",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

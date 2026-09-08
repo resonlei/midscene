@@ -1,0 +1,41 @@
+packages/cli/src/framework/command.ts
+  s_d96ab5da4086d7::t_9fb400147a1f55 4,142,147
+packages/cli/src/index.ts
+  s_d96ab5da4086d7::t_9fb400147a1f55 4,13,15,21-22,48-52,117-122,131
+packages/cli/tests/unit-test/normalize-yaml-meta.test.ts
+  s_d96ab5da4086d7::t_3a0f5b971ea4ee 1-48
+packages/cli/src/daemon/index.ts
+  s_d96ab5da4086d7::t_9fb400147a1f55 1-193,195-453
+  s_d96ab5da4086d7::t_59be033546d0e0 194
+packages/cli/src/daemon/protocol.ts
+  s_d96ab5da4086d7::t_3a0f5b971ea4ee 1-45
+packages/cli/src/cli-utils.ts
+  s_d96ab5da4086d7::t_9fb400147a1f55 5,47,126
+packages/cli/src/execution-summary.ts
+  s_d96ab5da4086d7::t_9fb400147a1f55 1,22,26-35,156,457-459,474-476,487-489,502-504,521-538,541-846
+packages/cli/src/normalize-yaml-meta.ts
+  s_d96ab5da4086d7::t_3a0f5b971ea4ee 1-73
+packages/cli/src/framework/yaml-case.ts
+  s_d96ab5da4086d7::t_3a0f5b971ea4ee 142,146-152,154,156-158
+  s_d96ab5da4086d7::t_59be033546d0e0 153,155
+packages/cli/src/create-yaml-player.ts
+  s_d96ab5da4086d7::t_3a0f5b971ea4ee 11,24,32,65-153,215-218,474-475,482-525,531-547,550-552
+packages/cli/src/yaml-batch-executor.ts
+  s_d96ab5da4086d7::t_9fb400147a1f55 18,81-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "0fd4d11ff3548e8c2b80ed57ff87b297be5f0bea",
+  "prompts": {},
+  "sessions": {
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+packages/core/src/ai-model/prompt/locate/grounding-rules.ts
+  s_dde224c53921ed::t_06b845c094d35e 9-27
+packages/core/src/ai-model/model-adapter/default-locate-protocol.ts
+  s_dde224c53921ed::t_47d154b092b474 24-26
+packages/core/tests/unit-test/model-adapter/deepseek.test.ts
+  s_dde224c53921ed::t_058e71e6b53a87 73,78
+  s_dde224c53921ed::t_654e8503ae93a2 45
+  s_dde224c53921ed::t_f6e3550fea8357 74,79
+  s_dde224c53921ed::t_123b41ff446882 137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "43133f0628ddbaacab40e0da2950bf63b5663693",
+  "prompts": {},
+  "sessions": {
+    "s_dde224c53921ed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "730110de-b8b8-40c9-9fb7-e6547d884e4e",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

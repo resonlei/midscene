@@ -1,0 +1,24 @@
+packages/android/src/scrcpy-manager.ts
+  s_89265c120c17a1::t_06f0c4d2f4082f 9
+packages/android/tests/unit-test/scrcpy-manager.test.ts
+  s_89265c120c17a1::t_becfca61402fd4 220
+  s_89265c120c17a1::t_1503f8051a0055 1484-1486,1490
+  s_89265c120c17a1::t_7e77fc3a248804 201
+  s_89265c120c17a1::t_7281bbd9ce336c 1458-1459
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "d352b1d5d64f34204d8d938876f802f487644ea4",
+  "prompts": {},
+  "sessions": {
+    "s_89265c120c17a1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dfa61f4d-52d6-4751-8a1e-e137af933d4a",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

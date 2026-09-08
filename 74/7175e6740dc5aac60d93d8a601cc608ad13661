@@ -1,0 +1,26 @@
+packages/core/src/agent/agent.ts
+  s_2a191d19ef53c9::t_78792f9ce86eb0 2288,2292,2294
+  s_2a191d19ef53c9::t_1b9cb7690154e4 2307
+packages/shared/src/magnet.ts
+  s_2a191d19ef53c9::t_3d89ddf4a3cfc0 82
+  s_2a191d19ef53c9::t_bfccc11b5210b4 246-247,253
+  s_2a191d19ef53c9::t_2e41ae2f9fe2de 184
+  s_2a191d19ef53c9::t_7e08bbace54306 14-16,22-23,26,28-31
+  s_2a191d19ef53c9::t_d464cca3548e90 228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10-trip",
+  "base_commit_sha": "747175e6740dc5aac60d93d8a601cc608ad13661",
+  "prompts": {},
+  "sessions": {
+    "s_2a191d19ef53c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b9b8258f-22ee-4745-a753-85b99a687c6a",
+        "model": "default"
+      },
+      "human_author": "xu_ming <xu_ming@trip.com>"
+    }
+  }
+}

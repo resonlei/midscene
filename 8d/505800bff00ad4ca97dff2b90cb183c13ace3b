@@ -1,0 +1,67 @@
+packages/agent-server/src/report-analysis/ai-client.ts
+  s_36152039cbf988::t_26110936df72b9 108-109,112,115-116
+  s_36152039cbf988::t_7df86574f7df82 3
+  s_36152039cbf988::t_08663171e40f9d 19,30-31
+  s_36152039cbf988::t_117337f3e2cfcf 221,228,244,246,249,289,291,294,334
+  s_36152039cbf988::t_a8713d11d1e5e7 339,341-342,345,348-349
+  s_36152039cbf988::t_301d5b62c73176 25-29,32,55,63-70,75-76,83,88-89,93-107,110-111,113-114,117,120-131,136,140-141,153-155,162,164,167,170,192,198,209-211,222,227,229,232,235-240,245,248,250,262-264,267,273,278-279,283-284,287-288,290,293,295,304,311-315,318-320,322
+  s_36152039cbf988::t_8978790f1fef63 353
+packages/agent-server/src/report-analysis/types.ts
+  s_36152039cbf988::t_fe1a6218ad1321 156,158-159,163,165
+  s_36152039cbf988::t_ed2c0d8286a26c 157,161
+  s_36152039cbf988::t_428bb638f4321d 154
+  s_36152039cbf988::t_a2d76d8898489b 82-102
+  s_36152039cbf988::t_23c9e181e98e6b 118-128,130
+packages/agent-server/src/report-analysis/handler.ts
+  h_160515c2cd9321 93-99
+  s_36152039cbf988::t_01b82ef894dda6 8,43-47,52,77,80,89,92,100-101,110-112,132
+  s_36152039cbf988::t_bf339c9aa006c0 10,18-26,28-29,32-33,36-38,48-51,55,62,87,107,116-117,123-124,126-128,130
+  s_36152039cbf988::t_912c76cf0e2af9 12-17,64,70-71,82-83,88,106,114,118,120-122
+packages/agent-server/src/report-analysis/cache.ts
+  s_36152039cbf988::t_34d2e5e596bf1a 1-6,8-23,27-30
+  s_36152039cbf988::t_24283327f70413 7
+  s_36152039cbf988::t_260e7f6a488370 24-26
+packages/agent-server/src/report-analysis/prompts.ts
+  s_36152039cbf988::t_e16d6893d3b3b1 277-281
+  s_36152039cbf988::t_7f269d75898cf3 264-276,282-313,316,329
+packages/agent-server/src/report-analysis/analyzer.ts
+  s_36152039cbf988::t_9c7bdb554f8144 12
+  s_36152039cbf988::t_09c1a8a9cc8a59 15
+  s_36152039cbf988::t_a6eb0a908398f4 23
+  s_36152039cbf988::t_3d6cd1d406e49c 165,167-168,170-171,173,176
+  s_36152039cbf988::t_213b3ad6b1405e 160-164
+  s_36152039cbf988::t_098c8ad93f49e6 189
+  s_36152039cbf988::t_bfc1dc6d5508c3 120,123,125-127,129
+  s_36152039cbf988::t_b9cfe80b6ba10f 13
+  s_36152039cbf988::t_908b5e2afd92f2 188
+  s_36152039cbf988::t_06fa774289a81a 40,50-54,57,59,64,67,72,99-101
+  s_36152039cbf988::t_f3988c5852a07a 166
+  s_36152039cbf988::t_0e18cf81d2bc6a 177-187
+  s_36152039cbf988::t_904c4f206dc4e9 17-22,24,36-37,39,42,44,56,61,63,65,69,75,83,92-93,98,116,118,134,145-149,152,155,192
+packages/agent-server/src/report-analysis/case-yaml-utils.ts
+  s_36152039cbf988::t_d16a64b755c85b 5
+  s_36152039cbf988::t_00221966766eca 258-311,313-316,325-332
+  s_36152039cbf988::t_5482a791c81340 312,317-324
+  s_36152039cbf988::t_b20e7462c921ca 96-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "8d505800bff00ad4ca97dff2b90cb183c13ace3b",
+  "prompts": {},
+  "humans": {
+    "h_160515c2cd9321": {
+      "author": "wang_jian <wang_jian@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_36152039cbf988": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "305f7e4e-c358-44c9-b6b0-bcb8f199125c",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+packages/core/src/ai-model/workflows/planning/conversation-history.ts
+  s_b8d00e4acdc781::t_e70c55659960fa 267-278
+packages/core/src/ai-model/prompt/planning/multi-turn-example.ts
+  s_b8d00e4acdc781::t_078fdca7e26361 116,149,189,222
+packages/core/src/ai-model/workflows/planning/standard-planning.ts
+  s_b8d00e4acdc781::t_95aadfccdecad1 240
+packages/core/src/task-runner.ts
+  s_b8d00e4acdc781::t_af6c8ac780b8db 54-59
+  s_b8d00e4acdc781::t_a6ff9fa932cff8 172-174
+  s_b8d00e4acdc781::t_ee7916c309c4bd 289-301
+  s_b8d00e4acdc781::t_e84055df9599be 605-616,618-622
+  s_b8d00e4acdc781::t_e21ec213de8bc9 604,617,625-653
+packages/core/tests/unit-test/custom-planning.test.ts
+  s_b8d00e4acdc781::t_944bab1b65af11 64
+packages/core/src/ai-model/workflows/planning/custom-planning.ts
+  s_b8d00e4acdc781::t_9e54f34fdfe385 58
+packages/core/src/agent/tasks.ts
+  s_b8d00e4acdc781::t_a6ea389949345e 609-610
+  s_b8d00e4acdc781::t_1db7bb09e09d99 991-994
+  s_b8d00e4acdc781::t_ad258071f884c5 21
+  s_b8d00e4acdc781::t_a16aadd8505162 912-913,915-916,939
+  s_b8d00e4acdc781::t_3e716091e3659e 917-938
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "e29a594e9b4d58604ddc29146d0d32e65975e86f",
+  "prompts": {},
+  "sessions": {
+    "s_b8d00e4acdc781": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b53e562e-20a3-479f-91c5-be3f61158b68",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

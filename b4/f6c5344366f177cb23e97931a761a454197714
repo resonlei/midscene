@@ -1,0 +1,21 @@
+packages/shared/src/env/types.ts
+  s_dde224c53921ed::t_2698517a3ce62b 328
+packages/core/tests/unit-test/model-adapter.test.ts
+  s_dde224c53921ed::t_1d08006fef30d5 177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "b4f6c5344366f177cb23e97931a761a454197714",
+  "prompts": {},
+  "sessions": {
+    "s_dde224c53921ed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "730110de-b8b8-40c9-9fb7-e6547d884e4e",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

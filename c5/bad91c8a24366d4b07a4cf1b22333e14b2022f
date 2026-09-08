@@ -1,0 +1,28 @@
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/refine-policy.md
+  h_c1b6cfc1a5f8d9 87
+packages/agent-server/src/generate-prd-cases/tools/step-beautify/references/wait.md
+  s_103a9c23958b52::t_661a7aa4506539 58,60,64,66-71
+  s_103a9c23958b52::t_78c5a49b3a1e16 24,33,35,37,39,41-43,45,47-48,50,52-54,56,59,61,63,65,72-90
+  h_c1b6cfc1a5f8d9 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.35-trip",
+  "base_commit_sha": "c5bad91c8a24366d4b07a4cf1b22333e14b2022f",
+  "prompts": {},
+  "humans": {
+    "h_c1b6cfc1a5f8d9": {
+      "author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_103a9c23958b52": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ef9262e0-8975-4976-846a-be1e008600a8",
+        "model": "default"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  }
+}

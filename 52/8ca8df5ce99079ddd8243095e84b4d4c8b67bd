@@ -1,0 +1,20 @@
+packages/android/src/device.ts
+  ai_agent 1712-1717,1749-1752,1754,1797-1802,1847-1852,2536-2537,2539,240,2028,2050-2052,2477,2479,2497,2519,2521,212,931,2564,2572,171,182,195,2543,2609,2715
+  s_a7e3cee92fba45::t_c449d6e433363e 239,211,170,181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "528ca8df5ce99079ddd8243095e84b4d4c8b67bd",
+  "prompts": {},
+  "sessions": {
+    "s_a7e3cee92fba45": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_r9zcmzglrguz",
+        "model": "auto(free)"
+      },
+      "human_author": "xiangyangsun <xiangyangsun@trip.com>"
+    }
+  }
+}

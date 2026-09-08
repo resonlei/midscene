@@ -1,0 +1,19 @@
+packages/core/src/task-runner.ts
+  s_438ca8a6005eca::t_c4a6b8092e0eb8 453-455
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "fb4deae8be01337c48c90f98fc894f8f7fcb33e2",
+  "prompts": {},
+  "sessions": {
+    "s_438ca8a6005eca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5ddfb0-c6a0-49ac-bb5a-61332ae73a33",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

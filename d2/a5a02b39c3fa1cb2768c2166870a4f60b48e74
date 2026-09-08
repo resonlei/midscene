@@ -1,0 +1,19 @@
+packages/cli/src/framework/rstest-runner.ts
+  s_d96ab5da4086d7::t_419473ce1d9662 183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "d2a5a02b39c3fa1cb2768c2166870a4f60b48e74",
+  "prompts": {},
+  "sessions": {
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+packages/core/src/service/index.ts
+  s_f9ee7d9e78869d::t_1a601791191977 600,278
+  s_f9ee7d9e78869d::t_f323cd25c427ff 603
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "69e09928682af827440eb3d29033244ea9b5e74b",
+  "prompts": {},
+  "sessions": {
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

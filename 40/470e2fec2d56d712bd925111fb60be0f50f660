@@ -1,0 +1,31 @@
+packages/shared/tests/unit-test/dev-tools-mock-data.test.ts
+  s_dde224c53921ed::t_efc08a6b0b4f38 1,41,128,336-340,367-371,384-386,630-634,799,801-803,926-930
+packages/shared/tests/unit-test/ctestCommon.test.ts
+  s_dde224c53921ed::t_47da37e1c4646e 2
+packages/agent-server/package.json
+  s_dde224c53921ed::t_25f5cf13ec40d7 15,33
+packages/shared/tests/unit-test/appium-client.test.ts
+  s_dde224c53921ed::t_ad76f92f067313 5
+  s_dde224c53921ed::t_423a69f4c8b40b 24,54,98,123,157,183,213,242,271,289,298
+  s_dde224c53921ed::t_c2ab8da39118a8 28,81,111,145,178,203,233,258
+packages/shared/package.json
+  s_dde224c53921ed::t_25f5cf13ec40d7 106,129
+packages/web-integration/package.json
+  s_dde224c53921ed::t_25f5cf13ec40d7 121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "40470e2fec2d56d712bd925111fb60be0f50f660",
+  "prompts": {},
+  "sessions": {
+    "s_dde224c53921ed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "730110de-b8b8-40c9-9fb7-e6547d884e4e",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

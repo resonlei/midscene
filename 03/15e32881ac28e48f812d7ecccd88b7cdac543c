@@ -1,0 +1,29 @@
+apps/report/src/components/detail-panel/index.tsx
+  s_22b33847d38006::t_f3366877da8b7d 468
+  s_22b33847d38006::t_39d6706ea60112 28
+apps/report/src/App.tsx
+  s_22b33847d38006::t_e9e0f6d060af38 47
+  s_22b33847d38006::t_1244f36c323fa0 229
+apps/report/src/utils/copy-text.test.ts
+  s_22b33847d38006::t_1954fd284ffb18 2-12,17-65,69-80
+  s_22b33847d38006::t_e410809813eabc 1
+  s_22b33847d38006::t_e43d4975ce9dd5 13-16,66-68
+apps/report/src/utils/copy-text.ts
+  s_22b33847d38006::t_72bb5b11e298d5 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "0315e32881ac28e48f812d7ecccd88b7cdac543c",
+  "prompts": {},
+  "sessions": {
+    "s_22b33847d38006": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1c230312-2301-4dc9-929c-039808c7f51e",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

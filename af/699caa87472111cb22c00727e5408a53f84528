@@ -1,0 +1,31 @@
+packages/core/src/types.ts
+  s_f9ee7d9e78869d::t_96a15f0acdf650 100-101
+packages/android/src/device.ts
+  ai_agent 1251-1256,1284-1289,1321-1326,1358-1363
+packages/android/src/agent.ts
+  s_9751b25c0d00cd::t_b541b1b9ccbc48 130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "af699caa87472111cb22c00727e5408a53f84528",
+  "prompts": {},
+  "sessions": {
+    "s_9751b25c0d00cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b09651c1-7167-4598-93b3-64a8564bb6a5",
+        "model": "arn:aws:bedrock:us-west-2:133197901387:application-inference-profile/ypvzpmevzxdl"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_f9ee7d9e78869d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bbd6356a-3d36-4ebe-aba0-08d3019e8bf2",
+        "model": "grok-4.6"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

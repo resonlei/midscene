@@ -1,0 +1,37 @@
+changelogs/merger-vs-develop-audit.md
+  s_d7568cfc44f977::t_6b21c52e063278 26
+  s_d7568cfc44f977::t_e2fc7e92351526 202-223,238-278,280,282-285
+  s_d7568cfc44f977::t_0f34985a631431 1-21,27-161,163-165,286-312
+  s_d7568cfc44f977::t_0cd15b1567e4b6 22-25
+  s_d7568cfc44f977::t_a1dd2ee17a739b 162
+  s_438ca8a6005eca::t_ccbaa0d1d59d1a 224-237
+  s_d7568cfc44f977::t_6de5d550e3ae35 166-201
+  s_d7568cfc44f977::t_5058ff5b03e7ae 279,281
+packages/core/src/agent/tasks.ts
+  s_438ca8a6005eca::t_5f73aaa949eebc 896
+  s_438ca8a6005eca::t_5340309ad9af4e 846,850
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "b0ac001fbcd4b18b607ab127249dbd04dc5d61f4",
+  "prompts": {},
+  "sessions": {
+    "s_438ca8a6005eca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5ddfb0-c6a0-49ac-bb5a-61332ae73a33",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_d7568cfc44f977": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "86da1f19-639c-45bc-9a67-ebcd5294f20c",
+        "model": "ep-hcn0oy2s"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

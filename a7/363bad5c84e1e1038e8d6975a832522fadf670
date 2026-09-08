@@ -1,0 +1,51 @@
+packages/cli/tests/unit-test/normalize-yaml-meta.test.ts
+  s_438ca8a6005eca::t_a81b5239fc302e 55,57-70,72-84
+  s_438ca8a6005eca::t_9aee0d4c101fdd 56,71
+  s_438ca8a6005eca::t_10036b45f4d314 6,8,16-19
+packages/agent-server/src/report-analysis/report-paths.test.ts
+  s_438ca8a6005eca::t_88ec019edb2f4f 1
+packages/agent-server/src/ai-description.test.ts
+  s_438ca8a6005eca::t_23a77460369c1b 2
+  s_438ca8a6005eca::t_f0d3ee82d13036 183,208
+  s_438ca8a6005eca::t_ca944e989f6c09 196
+packages/agent-server/rstest.config.ts
+  s_438ca8a6005eca::t_271d49108f4a8c 1-15,20-32
+  s_438ca8a6005eca::t_48985b46d0f49d 16-19
+packages/agent-server/src/ai-wait-for.test.ts
+  s_438ca8a6005eca::t_88ec019edb2f4f 1,72,105,114,126,136,154,166,181
+packages/shared/tests/unit-test/flight-mock.test.ts
+  s_438ca8a6005eca::t_610bc7c61e067d 1-9,11-18,24-26,28-67,71-105,107-111,113-115
+  s_438ca8a6005eca::t_4cbbcaf487c53d 10,19-23,27,68-70,106,112
+packages/core/tests/unit-test/player-action-dispatch.test.ts
+  s_438ca8a6005eca::t_717c05145abf98 1458-1461,1463-1469,1471-1478
+packages/cli/src/normalize-yaml-meta.ts
+  s_438ca8a6005eca::t_83858ae90145ac 67
+packages/agent-server/src/report-analysis/screenshot-cache.test.ts
+  s_438ca8a6005eca::t_c5e527bff1379b 6
+  s_438ca8a6005eca::t_4ec612ef96badc 10-52,54-62,64-76,78-93,95-114
+  s_438ca8a6005eca::t_55ce999b993c1a 53,63,77,94
+  s_438ca8a6005eca::t_e3742903d5ba35 2-4
+  s_438ca8a6005eca::t_f6d6caed4a798e 5,7-9
+  s_438ca8a6005eca::t_fb3598c28845c8 1
+packages/agent-server/package.json
+  s_438ca8a6005eca::t_57659606a59e14 38,42
+  s_438ca8a6005eca::t_b74a60b2b2806e 21-22
+packages/cli/tests/unit-test/create-yaml-player.test.ts
+  s_438ca8a6005eca::t_632abf45400e89 684,720
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "a7363bad5c84e1e1038e8d6975a832522fadf670",
+  "prompts": {},
+  "sessions": {
+    "s_438ca8a6005eca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5ddfb0-c6a0-49ac-bb5a-61332ae73a33",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

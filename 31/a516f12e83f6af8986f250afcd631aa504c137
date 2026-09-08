@@ -1,0 +1,30 @@
+packages/shared/src/mPaas.ts
+  h_b23c991cbeb333 252-253,1151-1155,1160,1162,1168-1171,1180
+packages/core/src/yaml/player.ts
+  s_77d291dfc5747b::t_c95eb624a83a90 1256
+  s_77d291dfc5747b::t_019f227b1e8158 1282,1284-1286
+  h_b23c991cbeb333 1139,1283,1301
+  s_77d291dfc5747b::t_b4974434d86314 387-390
+  s_77d291dfc5747b::t_dc3a92ac63b478 1300,1302
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.26-trip",
+  "base_commit_sha": "31a516f12e83f6af8986f250afcd631aa504c137",
+  "prompts": {},
+  "humans": {
+    "h_b23c991cbeb333": {
+      "author": "resonLei <sheng.lei@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_77d291dfc5747b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "226cd462-914c-4118-bb05-0e7fcc9eef60",
+        "model": "arn:aws:bedrock:eu-central-1:133197901387:application-inference-profile/6fy9m3ca6aa5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

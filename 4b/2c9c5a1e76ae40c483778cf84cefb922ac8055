@@ -1,0 +1,68 @@
+packages/core/tests/unit-test/locate-result-codec.test.ts
+  s_438ca8a6005eca::t_6f5c19567428b8 56-59
+packages/core/tests/unit-test/action-long-press.test.ts
+  s_438ca8a6005eca::t_5d25e02809c98b 97-111
+packages/core/tests/unit-test/codex-app-server-provider.test.ts
+  s_438ca8a6005eca::t_621677e4fd406d 247
+  s_438ca8a6005eca::t_e773e7a4288a1d 281-283
+  s_438ca8a6005eca::t_952dd24647e41f 197
+packages/core/tests/unit-test/service-describe.test.ts
+  s_438ca8a6005eca::t_a3d729262b0815 87
+packages/core/tests/unit-test/agent-describe-element.test.ts
+  s_438ca8a6005eca::t_19f1de9005da72 130,135
+  s_438ca8a6005eca::t_776b433b906df3 799,804
+packages/core/tests/unit-test/yaml-player-output.test.ts
+  s_438ca8a6005eca::t_760fedd2fba8c6 75-77
+packages/core/tests/unit-test/gpt-image-detail.test.ts
+  s_438ca8a6005eca::t_96420fc5a22ca8 65,82,100,117,138,155
+packages/core/tests/unit-test/prompt/planning/action-description.test.ts
+  s_438ca8a6005eca::t_06973385d34c6b 505,508
+  s_438ca8a6005eca::t_311bd9fc75d69b 512
+packages/core/tests/unit-test/yaml-doc-usage.test.ts
+  s_438ca8a6005eca::t_5ccca68cabd964 36-37
+  s_438ca8a6005eca::t_860cc57e088e6e 371
+  s_438ca8a6005eca::t_7ddbb496f1fcfa 39-55
+  s_438ca8a6005eca::t_1d56e5cf50acb6 267-276,281-282,284
+  s_438ca8a6005eca::t_8944206788641f 35
+  s_438ca8a6005eca::t_99f5b964028469 323-364,366-370,372-374,377,379,384-385
+  s_438ca8a6005eca::t_ec0ea081f9f959 425-427
+  s_438ca8a6005eca::t_b095e2841dad7d 412-423
+packages/core/tests/unit-test/utils.test.ts
+  s_438ca8a6005eca::t_fee5dd4ab1d9c4 412
+  s_438ca8a6005eca::t_c94739ce0ef719 467
+packages/core/tests/unit-test/agent-custom-model.test.ts
+  s_438ca8a6005eca::t_b71713584fda4c 608-610
+packages/core/tests/unit-test/service-caller-reasoning-fallback.test.ts
+  s_438ca8a6005eca::t_52b503579c2963 326-331
+packages/core/tests/unit-test/report-generator-directory.test.ts
+  s_438ca8a6005eca::t_ab1be845906b61 136-139
+packages/core/tests/unit-test/report-generator.test.ts
+  s_438ca8a6005eca::t_b25fcbc91eb9c7 228-229
+packages/core/tests/unit-test/tasks-null-data.test.ts
+  s_438ca8a6005eca::t_d791c16bb96561 454
+  s_438ca8a6005eca::t_eb07455700a89d 93-99,147-153,196-202,241-247,316-322,388-391,517-523,570-576,613-619,658-664,706-712,767-773,813-819,873-876
+packages/core/tests/unit-test/prompt/describe.test.ts
+  s_438ca8a6005eca::t_442554c8303a2d 21,28,30-31,33-34
+  s_438ca8a6005eca::t_f7da9cc1f81b57 27
+packages/core/tests/unit-test/file-chooser-accept-path.test.ts
+  s_438ca8a6005eca::t_021ce18b636305 65
+packages/core/tests/unit-test/action-space.test.ts
+  s_438ca8a6005eca::t_e096d824f79f3c 77
+  s_438ca8a6005eca::t_a8d0b943fc4733 36,38-39,41,47-76,78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "4b2c9c5a1e76ae40c483778cf84cefb922ac8055",
+  "prompts": {},
+  "sessions": {
+    "s_438ca8a6005eca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5ddfb0-c6a0-49ac-bb5a-61332ae73a33",
+        "model": "kimi-k3"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

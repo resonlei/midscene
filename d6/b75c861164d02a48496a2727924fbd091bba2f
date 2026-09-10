@@ -1,0 +1,19 @@
+packages/shared/src/mPaas.ts
+  s_10d771201463f4::t_b9546b41a5a487 210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "d6b75c861164d02a48496a2727924fbd091bba2f",
+  "prompts": {},
+  "sessions": {
+    "s_10d771201463f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4661f408-9458-4b2a-a7b5-5da861506993",
+        "model": "deepseek-v4-pro-ga-260813"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

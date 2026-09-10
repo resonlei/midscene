@@ -1,0 +1,31 @@
+packages/core/src/device/index.ts
+  s_10d771201463f4::t_8e099e0fb68328 111
+packages/android/tests/unit-test/page.test.ts
+  s_10d771201463f4::t_a8c00d73308440 2339-2360
+  s_10d771201463f4::t_2336a8d0dbb76e 2499-2575
+  s_10d771201463f4::t_00d26d40cae78f 2630
+packages/core/tests/unit-test/device-options.test.ts
+  s_10d771201463f4::t_d168531f4791c6 274,283-287
+packages/android/src/device.ts
+  s_10d771201463f4::t_f8f4bd7c83f05b 57-63,1896-1901,1945-1950,1994-1999,2043-2048,2905-2912,2914-2915,2945
+packages/core/src/device/device-options.ts
+  s_10d771201463f4::t_51381467d670d3 10-12
+packages/shared/src/mPaas.ts
+  s_10d771201463f4::t_f8f4bd7c83f05b 5,7,19,21,204,219,229-230,424,434,443,514,782,968,991,1326-1327,1483,1726,1762,1786
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "ac5b628c99067faa5cd9658e9b428fd2492c3f1d",
+  "prompts": {},
+  "sessions": {
+    "s_10d771201463f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4661f408-9458-4b2a-a7b5-5da861506993",
+        "model": "deepseek-v4-pro-ga-260813"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

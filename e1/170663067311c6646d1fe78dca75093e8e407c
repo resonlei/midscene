@@ -1,0 +1,29 @@
+docs/DEVELOPMENT.md
+  s_f96cb077e77f26::t_bb28ed2d3d9ab6 63-65
+  s_f96cb077e77f26::t_589771c048fb0e 59-62,66
+packages/shared/src/appium/client.ts
+  s_f96cb077e77f26::t_9bee76045337da 108-118
+  s_f96cb077e77f26::t_e70cc922bfa204 171,190,192-197,199-205,207-236
+  s_f96cb077e77f26::t_b527e9f63d5552 39-48
+  s_f96cb077e77f26::t_882078565528d9 191,198,206
+packages/shared/tests/unit-test/appium-client.test.ts
+  s_f96cb077e77f26::t_52fa4417900629 393-394,399-400
+  s_f96cb077e77f26::t_ea8ec2b68eaa38 392,416-418
+  s_f96cb077e77f26::t_56d4ac700ded4e 343-391,395-398,401-415,419
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "e1170663067311c6646d1fe78dca75093e8e407c",
+  "prompts": {},
+  "sessions": {
+    "s_f96cb077e77f26": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_6htpjudhtsxm",
+        "model": "claude-opus-5"
+      },
+      "human_author": "zhuc <zhuc@trip.com>"
+    }
+  }
+}

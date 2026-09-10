@@ -1,0 +1,19 @@
+AGENTS.md
+  s_941f486ff23cec::t_b14ca9c45b15ef 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "f916b94848d6b1a51337b59f6e7b1e5f8000c407",
+  "prompts": {},
+  "sessions": {
+    "s_941f486ff23cec": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "37be2e33-5060-47e4-b418-3eeaa11c57e8",
+        "model": "deepseek-v4-flash-ga-260731"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

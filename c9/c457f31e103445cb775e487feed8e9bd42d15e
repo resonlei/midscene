@@ -1,0 +1,39 @@
+packages/core/src/agent/tasks.ts
+  s_e92dd4594e2c85::t_23bfdccb830400 427-428,453
+  s_e92dd4594e2c85::t_3f087d048264d4 434-440,442,446-451,454-466
+  s_e92dd4594e2c85::t_36baf92056258b 430
+  s_3cabb4897d4137::t_c616a25fb28d84 441,443-445
+  s_e92dd4594e2c85::t_f122ce232d545c 452
+packages/core/src/task-runner.ts
+  s_e92dd4594e2c85::t_6043bcb560c716 305-309
+  s_e92dd4594e2c85::t_394416443ded28 618
+  s_e92dd4594e2c85::t_a6cb7d67a29b17 175-177
+packages/core/tests/unit-test/task-executor-element-changed.test.ts
+  s_e92dd4594e2c85::t_5c6a57c8dc8cb1 98
+  s_e92dd4594e2c85::t_2ca0f6a1ea9126 1-18,20-38,40-43,46-54,57-62,64-67,77-97,99-100,104-114,118-119
+  s_e92dd4594e2c85::t_637fe4664df250 19,39,44-45,55-56,63,68-76,101-103,115-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "c9c457f31e103445cb775e487feed8e9bd42d15e",
+  "prompts": {},
+  "sessions": {
+    "s_3cabb4897d4137": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3c5b04b-be3d-43b2-9619-e787813d27ee",
+        "model": "deepseek-v4-pro-ga-260813"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_e92dd4594e2c85": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0667c3c-55d4-44db-b331-dcfb2f0d9ae1",
+        "model": "deepseek-v4-pro-ga-260813"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

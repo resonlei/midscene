@@ -1,0 +1,28 @@
+packages/shared/tests/unit-test/appium-client.test.ts
+  s_691017f5676da9::t_8d0cf5d9730581 1,8
+packages/android/tests/unit-test/scrcpy-manager.test.ts
+  s_691017f5676da9::t_7ad643fbb056d5 1435
+packages/shared/tsconfig.json
+  s_691017f5676da9::t_5a7d41c184c342 5
+packages/shared/tests/unit-test/dev-tools-mock-data.test.ts
+  s_691017f5676da9::t_03f987b116c6ed 833,836,941,944
+packages/android/tests/unit-test/input-backend.test.ts
+  s_691017f5676da9::t_1c633e1550fee7 155
+  s_691017f5676da9::t_f71929d1b72308 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "027ac19c180705a8ae9af0475f47ecd5fd191b69",
+  "prompts": {},
+  "sessions": {
+    "s_691017f5676da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7d87c043-4711-4ca1-afb9-554d95b51c8b",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

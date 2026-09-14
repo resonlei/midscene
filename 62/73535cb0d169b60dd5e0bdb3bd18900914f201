@@ -1,0 +1,290 @@
+packages/core/src/ai-model/service-caller/call.ts
+  s_691017f5676da9::t_9d6d4edcefc66d 1-249
+packages/cli/package.json
+  s_691017f5676da9::t_4e50cd3c207663 4
+packages/web-integration/tests/unit-test/static-page.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 3,56-81
+packages/core/src/ai-model/service-caller/codex/codex-app-server.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-1060
+package.json
+  s_691017f5676da9::t_4e50cd3c207663 4
+apps/site/docs/zh/midscene-test/configuration.mdx
+  s_691017f5676da9::t_4e50cd3c207663 3,7-9,19,21,23,25,27,35,75,79,81-84,86,88,90-102,118,120,122,124-128,130,132,134-144,146,148,152,163,165,167,169,171,175,181,183,188,207,211,215,217,220-221,223-224,239-240,243,246-247,249-250,267-268,271,274-275,277-278,290,292,294,296,298-312,314-318,362-363,372,374,376,378,399,401,403,407,413,415,419,421,429,441
+packages/web-integration/src/static/static-agent.ts
+  s_691017f5676da9::t_4e50cd3c207663 2,6-7,11,14-16
+packages/test/tests/create-command.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 96,103-106,334,337,366-368
+packages/ios-playground/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/test/tests/document-runtime.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 57-61,63-64,94-95,97,102-104,156-157,159-161,166-169,209,211,367-368,374,376-380
+packages/test/tests/playwright-goto-url.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-6,10,17-22,55-140,142-145,147-155,157-178,180-308
+packages/harmony/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3,30
+apps/site/docs/en/midscene-test/use.mdx
+  s_691017f5676da9::t_4e50cd3c207663 95-97,307
+packages/core/package.json
+  s_691017f5676da9::t_4e50cd3c207663 4,64,101
+packages/computer/README.md
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/test/tests/test-project.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 107,145,160-161,197,204,207,241,245,260,327,353-354,359,361,364,367,369,378-380,385,392,398,408,414,421,589,594,599,604,609,614,619,624,629
+packages/web-integration/src/playwright/test-runner/goto-url.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-100
+packages/test/src/cli/create-template.ts
+  s_691017f5676da9::t_4e50cd3c207663 201
+packages/computer-mac/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/web-integration/src/playwright/test-runner/types.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-52
+packages/web-integration/src/playwright/agent.ts
+  s_691017f5676da9::t_4e50cd3c207663 11-12
+packages/test/tests/case-runner.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 24-32,158-159,229-230,273-274
+packages/visualizer/package.json
+  s_691017f5676da9::t_4e50cd3c207663 4
+packages/computer/tests/unit-test/input-driver-scroll.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 14
+packages/core/src/ai-model/service-caller/chat-completion/non-stream.ts
+  s_691017f5676da9::t_5617605e5ab635 108-113
+  s_691017f5676da9::t_4e50cd3c207663 1-107,114-140
+packages/computer-win/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/computer/tests/unit-test/apple-script-keyboard.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-19
+packages/test/src/cli/test-project.ts
+  s_691017f5676da9::t_4e50cd3c207663 339,384,418
+packages/core/src/ai-model/service-caller/openai-client.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-167
+packages/web-integration/tests/unit-test/playwright-test-runner.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-60
+apps/site/docs/en/faq.md
+  s_691017f5676da9::t_4e50cd3c207663 16-20,25-31,33-73,81-83,90-91
+apps/site/rspress.config.ts
+  s_691017f5676da9::t_4e50cd3c207663 292-295,464-466
+packages/core/tests/unit-test/prompt/planning/action-description.test.ts
+  s_438ca8a6005eca::t_06973385d34c6b 543,545,547
+  s_438ca8a6005eca::t_311bd9fc75d69b 552
+packages/test/tests/playwright-agent-nodes.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-80
+packages/ios/src/test-runner-nodes.ts
+  s_691017f5676da9::t_4e50cd3c207663 4
+packages/test/tests/ios-nodes.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-11,15,29,38,42-43,47-57,88-89,116-119
+packages/core/src/agent/agent.ts
+  s_b73d6ae07b4a2c::t_0ff8797449507f 545,547-553
+packages/computer/tests/unit-test/input-strategy.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 133-255
+apps/report/src/components/test-runner/project-breakdown.tsx
+  s_691017f5676da9::t_4e50cd3c207663 160
+packages/test/tests/playwright-viewport.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-6,10,17-23,44-50
+packages/android/src/test-runner-nodes.ts
+  s_691017f5676da9::t_4e50cd3c207663 4
+packages/core/src/ai-model/service-caller/types.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-2,4,7-13,16-44
+  s_691017f5676da9::t_eb0fbd55fca132 14-15
+packages/shared/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/test/tests/e2e/fixtures/midscene-context-project/midscene.config.ts
+  s_691017f5676da9::t_4e50cd3c207663 2,31-32,35,42-43,46,48
+packages/harmony/src/test-runner-nodes.ts
+  s_691017f5676da9::t_4e50cd3c207663 4
+packages/test/tests/types/test-project-config.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-5,7-10,18,20-22,28,134
+packages/core/src/ai-model/service-caller/utils.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-155
+packages/recorder/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+apps/site/docs/en/midscene-test/configuration.mdx
+  s_691017f5676da9::t_4e50cd3c207663 3,7-9,19,21,23,25,27,81-84,86,88,90-115,124-127,144,227-228,254-255,283-284,296,298,300,302,304-318,320-322,380,382,384,386-403,405,407,409,413,421,439-442
+packages/test/src/cli/node-package.ts
+  s_691017f5676da9::t_4e50cd3c207663 8-10
+packages/web-integration/src/playwright/test-runner/viewport.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-51
+packages/core/src/ai-model/service-caller/chat-completion/call.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-147
+packages/computer/tests/unit-test/device-security.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 83,114,184,240-248,340-486
+packages/web-integration/src/static/static-page.ts
+  s_691017f5676da9::t_4e50cd3c207663 7,29,32-34,57-83,88,113-117,215
+packages/computer/src/agent.ts
+  s_691017f5676da9::t_4e50cd3c207663 35-36
+packages/core/src/ai-model/service-caller/codex/call-codex.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-91
+packages/playground/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/web-integration/src/playwright/test-runner/cookies.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-310
+packages/core/src/ai-model/service-caller/call-ai.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-51,54-65,67-107
+  s_691017f5676da9::t_1ef478cf00f488 52-53
+  s_691017f5676da9::t_5321de05d0ab4f 66
+packages/core/src/types.ts
+  s_691017f5676da9::t_4e50cd3c207663 945
+apps/chrome-extension/static/manifest.json
+  s_691017f5676da9::t_4e50cd3c207663 4
+packages/web-integration/src/playwright/test-runner/index.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-19
+packages/test/tests/project-nodes-cli.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 33-34,96,110
+packages/web-integration/src/playwright/test-runner/clear-cookies.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-53
+packages/web-integration/src/playwright/test-runner/utils.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-56
+packages/test/tests/playwright-clear-cookies.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-6,10,17-23
+apps/site/docs/en/model-common-config.mdx
+  s_691017f5676da9::t_4e50cd3c207663 135,139
+packages/test/src/cli/create-command.ts
+  s_691017f5676da9::t_4e50cd3c207663 60,253
+packages/core/tests/unit-test/agent-custom-model.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 14,41-47,51,55-56,259-335
+packages/android/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3,30
+packages/test/tests/test-project-runner.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 434,641,833,983-984,1089-1090,1193,1275-1276,1353,1449-1450,1556
+packages/test/tests/project-runtime.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 28
+packages/web-integration/src/playwright/page-agent.ts
+  s_691017f5676da9::t_4e50cd3c207663 7,12-13,17-20,22-31,39
+packages/test/tests/mock-midscene-agent.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-19
+packages/core/tests/unit-test/action-swipe.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-105
+packages/test/tests/platform-test-entries.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-33
+packages/test/tests/midscene-nodes.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 2,576-577,579-581
+packages/test/tests/playwright-cookies.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-6,13,35-46,79-91,93,118-128,152-161,191-197,220-235,259-269,308-324,326
+packages/core/src/device/index.ts
+  s_691017f5676da9::t_18c7454114ef67 637,641,644-646,660,766,794,800,804,806-808,812,826,853-862,864-867,869-876,879,881,886,888,892,919
+packages/test/src/midscene/index.ts
+  s_691017f5676da9::t_4e50cd3c207663 19,57,86,114,123,128,130-132,143-150,158-167,170-172,176,178,181,185,189,210-211,213-215,219,258-263,265,267-268,274,285,297,299,301,304-305
+packages/web-integration/package.json
+  s_dde224c53921ed::t_25f5cf13ec40d7 131
+apps/site/docs/zh/midscene-test/extend.mdx
+  s_691017f5676da9::t_4e50cd3c207663 303
+packages/test/src/cli/types.ts
+  s_691017f5676da9::t_4e50cd3c207663 7
+packages/computer/src/agent-tools.ts
+  s_691017f5676da9::t_4e50cd3c207663 65-78,133-139,159-164
+packages/core/src/ai-model/service-caller/chat-completion/types.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-27
+packages/test/package.json
+  s_691017f5676da9::t_4e50cd3c207663 4
+packages/computer-playground/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/core/tests/unit-test/codex-app-server-provider.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 5-6,13-14
+packages/ios/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3,31
+packages/computer/src/device.ts
+  s_691017f5676da9::t_4e50cd3c207663 37-38,724-734,736-740,948-962,1479-1483,1521,1524-1529,1540-1544,1566-1570,1588-1598
+packages/test/tests/playwright-nodes.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-6,12-13,16-17,19-34
+packages/computer-linux/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/test/src/cli/test-project-runner.ts
+  s_691017f5676da9::t_4e50cd3c207663 466
+packages/test/tsconfig.json
+  s_691017f5676da9::t_4e50cd3c207663 25-27
+packages/playground-app/package.json
+  s_691017f5676da9::t_4e50cd3c207663 4
+packages/core/tests/unit-test/action-scroll.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-46
+packages/core/src/ai-model/service-caller/chat-completion/stream.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-138
+packages/web-integration/src/playwright/browser-agent.ts
+  s_691017f5676da9::t_4e50cd3c207663 9,16-17,37,47-55,104
+packages/computer/src/input-driver.ts
+  s_691017f5676da9::t_4e50cd3c207663 12,170-218,329-343
+packages/web-integration/src/playwright/test-runner/agent-nodes.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-8
+packages/computer/src/keyboard-layout.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-49
+packages/test/tests/android-nodes.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-11,14,31,41,45-46,50-61,88-89,125-126,151,153-156
+packages/computer/src/apple-script-keyboard.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-56,58-62,64-75,77-87
+packages/computer/tests/unit-test/agent-tools.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 70-71,80-81,178-179,192-193,224-225,241-245
+packages/test/tests/harmony-nodes.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-11,15,31,41,47-48,53-64,97-100,120-123
+packages/webdriver/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/test/tests/e2e/fixtures/test-project/midscene.config.ts
+  s_691017f5676da9::t_4e50cd3c207663 25-27
+packages/core/tests/unit-test/gpt-image-detail.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 9,56-65,77-108
+packages/android-playground/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/core/tests/ai/streaming.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 92-94,285-287
+packages/test/src/node/types.ts
+  s_691017f5676da9::t_4e50cd3c207663 91
+packages/core/tests/unit-test/agent-metrics.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 265
+packages/core/src/ai-model/service-caller/proxy.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-100
+packages/computer/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/computer/src/types/libnut.d.ts
+  s_691017f5676da9::t_4e50cd3c207663 30,69
+packages/core/src/ai-model/service-caller/chat-completion/utils.ts
+  s_691017f5676da9::t_4e50cd3c207663 1-65
+packages/test/tests/run-collected-case.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 51-54,386-387,389
+apps/site/docs/zh/faq.md
+  s_691017f5676da9::t_4e50cd3c207663 16-20,33-79,93-95
+packages/harmony-playground/package.json
+  s_691017f5676da9::t_4e50cd3c207663 3
+packages/core/tests/unit-test/service-caller-streaming.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 66,69-77,86-107,126,136-155
+packages/core/tests/unit-test/service-caller-empty-content.test.ts
+  s_691017f5676da9::t_4e50cd3c207663 21,48-49,52-55,63-65,70-107
+apps/site/docs/zh/midscene-test/use.mdx
+  s_691017f5676da9::t_4e50cd3c207663 93,99-102,245-246,307
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "6273535cb0d169b60dd5e0bdb3bd18900914f201",
+  "prompts": {},
+  "sessions": {
+    "s_438ca8a6005eca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5ddfb0-c6a0-49ac-bb5a-61332ae73a33",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_691017f5676da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7d87c043-4711-4ca1-afb9-554d95b51c8b",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_b73d6ae07b4a2c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7546be58-20dc-4810-8cfe-6d1625217e2b",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_dde224c53921ed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "730110de-b8b8-40c9-9fb7-e6547d884e4e",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

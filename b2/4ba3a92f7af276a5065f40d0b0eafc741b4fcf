@@ -1,0 +1,28 @@
+packages/core/src/agent/ui-utils.ts
+  s_0fb84d0388ba04::t_7a7c5987314858 27-33
+apps/report/src/components/detail-side/index.tsx
+  s_0fb84d0388ba04::t_ccacd7d44770dc 714,720-741,744-804
+packages/core/src/agent/agent.ts
+  s_0fb84d0388ba04::t_b1c754efc048a0 3355-3361,3364,3371-3373,3380-3382,3387
+  s_0fb84d0388ba04::t_0502d30c4200a9 3467-3470,3475,3482-3492,3507-3542,3544-3550
+packages/core/src/yaml/ai-ubt-request.ts
+  s_0fb84d0388ba04::t_b718c41e5755ab 18-20,79-85,138,140-144
+packages/core/src/yaml/player.ts
+  s_0fb84d0388ba04::t_643115c7652de9 839,841-862
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "b24ba3a92f7af276a5065f40d0b0eafc741b4fcf",
+  "prompts": {},
+  "sessions": {
+    "s_0fb84d0388ba04": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "26c4af36-a4c8-4203-9071-50e30843d347",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

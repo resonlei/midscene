@@ -1,0 +1,26 @@
+packages/shared/tests/unit-test/dev-tools-mock-data.test.ts
+  s_0fb84d0388ba04::t_0ac3a684515afb 232-259
+packages/shared/src/devTools.ts
+  s_0fb84d0388ba04::t_1e99fd1ba82dde 1-2,5,11,1650-1674
+packages/core/src/agent/agent.ts
+  s_0fb84d0388ba04::t_5afd5758d74bb4 3537-3542,3548
+packages/core/src/agent/tasks.ts
+  s_0fb84d0388ba04::t_16a47ed8c2ab14 1299,1301-1308
+  s_0fb84d0388ba04::t_c9d16fd6a4c7ed 1325-1332
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "192e52c9ad49e490177e44d25b85c0b1abc280bc",
+  "prompts": {},
+  "sessions": {
+    "s_0fb84d0388ba04": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "26c4af36-a4c8-4203-9071-50e30843d347",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

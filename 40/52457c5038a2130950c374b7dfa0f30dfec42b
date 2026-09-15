@@ -1,0 +1,20 @@
+packages/android/src/device.ts
+  s_a2a0d026cfb562::t_f0f14125d79fa1 1729-1734
+  s_a2a0d026cfb562::t_f1c14a8950b26d 89-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "4052457c5038a2130950c374b7dfa0f30dfec42b",
+  "prompts": {},
+  "sessions": {
+    "s_a2a0d026cfb562": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20bbcee3-b9a9-4b6a-91c4-5f148d357286",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

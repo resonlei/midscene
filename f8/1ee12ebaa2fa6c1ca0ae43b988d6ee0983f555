@@ -1,0 +1,26 @@
+packages/agent-server/src/report-analysis/ai-client.ts
+  s_f54a8f68c466ac::t_d894ee8c434861 8-9,11,47
+packages/shared/src/mPaas.ts
+  s_f54a8f68c466ac::t_ad8783259a59fe 1517-1519,1524-1528,1530-1532,1534-1542,1545-1548
+  s_f54a8f68c466ac::t_15517ffc4758ff 1471-1472,1516,1520-1523,1529,1533,1543-1544
+  s_f54a8f68c466ac::t_317b7dc3b751d7 333,335
+packages/shared/tests/unit-test/mPaas-model-select.test.ts
+  s_f54a8f68c466ac::t_1c4a46f5ac9dfa 1-49,51,53-69
+  s_f54a8f68c466ac::t_e0a96e399c72e4 50,52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "f81ee12ebaa2fa6c1ca0ae43b988d6ee0983f555",
+  "prompts": {},
+  "sessions": {
+    "s_f54a8f68c466ac": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_gg12t0wvibrn",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

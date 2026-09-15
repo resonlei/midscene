@@ -1,0 +1,23 @@
+packages/shared/tests/unit-test/ctestCommon.test.ts
+  s_a2a0d026cfb562::t_bfc344f6b679e4 2-3,29-53,96-118
+packages/shared/src/ctestCommon.ts
+  s_a2a0d026cfb562::t_113257413a04d0 2,10,254-255,359-360,469-474
+packages/core/src/yaml/player.ts
+  s_a2a0d026cfb562::t_f55c93294108b8 2117-2120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "ddc550b82462d6fbdc95a581da903a95a16a52dc",
+  "prompts": {},
+  "sessions": {
+    "s_a2a0d026cfb562": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20bbcee3-b9a9-4b6a-91c4-5f148d357286",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

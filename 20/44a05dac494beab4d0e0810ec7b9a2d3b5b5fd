@@ -1,22 +1,43 @@
 packages/shared/src/appium/client.ts
-  s_5169fb2a65fb73::t_595c032820a56b 578-585
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-577,586-618
+  s_d96ab5da4086d7::t_7a8d00bfb1f6b0 578-585
 packages/shared/tests/unit-test/appium-client.test.ts
-  s_5169fb2a65fb73::t_dadd5ef1eaeadd 12,14,289-332,334
-  s_5169fb2a65fb73::t_4d195319162e9b 333
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-3,6,8-10,12,14-22,24,26,28,30-52,54,56-79,81,83-96,98,100-109,111,113-121,123,125-143,145,147-155,157,159-176,178,180-181,183,185-201,203,205-211,213,215-231,233,235-240,242,244-256,258,260-269,271,273-287
+  s_dde224c53921ed::t_ad76f92f067313 4
+  s_d96ab5da4086d7::t_615c1a8a9bcaef 11,13
+  s_dde224c53921ed::t_423a69f4c8b40b 23,53,97,122,156,182,212,241,270
+  s_dde224c53921ed::t_c2ab8da39118a8 27,80,110,144,177,202,232,257
+  s_d96ab5da4086d7::t_5723c3cd29e872 288-289,291-315,317-335
 ---
 {
   "schema_version": "authorship/3.0.0",
-  "git_ai_version": "1.4.43-trip",
+  "git_ai_version": "1.4.44-trip",
   "base_commit_sha": "2044a05dac494beab4d0e0810ec7b9a2d3b5b5fd",
   "prompts": {},
   "sessions": {
-    "s_5169fb2a65fb73": {
+    "s_b73d6ae07b4a2c": {
       "agent_id": {
-        "tool": "chengxiaobang",
-        "id": "s_yqjaj26wmibg",
-        "model": "gpt-5.6-sol-2026-07-09"
+        "tool": "claude",
+        "id": "7546be58-20dc-4810-8cfe-6d1625217e2b",
+        "model": "ep-5e9quh5a"
       },
-      "human_author": "zhuc <zhuc@trip.com>"
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_dde224c53921ed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "730110de-b8b8-40c9-9fb7-e6547d884e4e",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
     }
   }
 }

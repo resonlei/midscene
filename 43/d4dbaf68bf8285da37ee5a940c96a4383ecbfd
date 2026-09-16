@@ -1,0 +1,19 @@
+changelogs/develop-to-merger-d6e17e4db-merge.md
+  s_86c24b30be1364::t_2dae5dd1da68bb 1-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "43d4dbaf68bf8285da37ee5a940c96a4383ecbfd",
+  "prompts": {},
+  "sessions": {
+    "s_86c24b30be1364": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d4e06718-7cf4-4b5b-8665-34bf33b1297c",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

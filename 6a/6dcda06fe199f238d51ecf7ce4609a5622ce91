@@ -1,29 +1,38 @@
-packages/agent-server/src/report-analysis/report-paths.ts
-  s_7867afc57592be::t_cd70ca3ca8e2fb 1-5
-packages/agent-server/src/report-analysis/report-paths.test.ts
-  s_7867afc57592be::t_10c64c6d2745a3 1-26
 packages/agent-server/src/report-analysis/screenshot-cache.ts
-  s_7867afc57592be::t_07a8d9df816d71 13,21,36,39,44,49
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-12,14-20,22-35,37-38,40-43,45-48,50-78
+  s_d96ab5da4086d7::t_f490bc82be0edb 13,21,36,39,44,49
+packages/agent-server/src/report-analysis/report-paths.test.ts
+  s_d96ab5da4086d7::t_f490bc82be0edb 2-26
 packages/agent-server/src/report-analysis/mpaas-client.ts
-  s_7867afc57592be::t_0113628f3258b0 238,241,243,245
-  s_7867afc57592be::t_d87a096c59d120 2
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1,3-237,239-240,242,244,246-293
+  s_d96ab5da4086d7::t_f490bc82be0edb 2,238,241,243,245
+packages/agent-server/src/report-analysis/report-paths.ts
+  s_d96ab5da4086d7::t_f490bc82be0edb 1-5
 packages/agent-server/src/report-analysis/analyzer.ts
-  s_7867afc57592be::t_b133e34f1d464f 174
-  s_7867afc57592be::t_e1bfa22d6cef62 148,151
+  s_b73d6ae07b4a2c::t_fcdbaac932d289 1-147,149-150,152-173,175-362
+  s_d96ab5da4086d7::t_f490bc82be0edb 148,151,174
 ---
 {
   "schema_version": "authorship/3.0.0",
-  "git_ai_version": "1.4.43-trip",
+  "git_ai_version": "1.4.44-trip",
   "base_commit_sha": "6a6dcda06fe199f238d51ecf7ce4609a5622ce91",
   "prompts": {},
   "sessions": {
-    "s_7867afc57592be": {
+    "s_b73d6ae07b4a2c": {
       "agent_id": {
-        "tool": "cursor",
-        "id": "c543709f-a364-4444-b5a7-ab0fa1afa555",
-        "model": "grok-4.6"
+        "tool": "claude",
+        "id": "7546be58-20dc-4810-8cfe-6d1625217e2b",
+        "model": "ep-5e9quh5a"
       },
-      "human_author": "wang_jian <wang_jian@trip.com>"
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    },
+    "s_d96ab5da4086d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee0dd2f8-ffc1-4836-ae71-367556d692ed",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
     }
   }
 }

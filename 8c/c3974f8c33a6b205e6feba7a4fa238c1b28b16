@@ -1,0 +1,24 @@
+packages/agent-server/src/report-analysis/ai-client.ts
+  s_a2a0d026cfb562::t_c3859dc4633fed 8-11,47
+packages/shared/src/mPaas.ts
+  s_a2a0d026cfb562::t_c3859dc4633fed 1465-1466,1510-1540
+packages/shared/tests/unit-test/mPaas-model-select.test.ts
+  s_a2a0d026cfb562::t_0f813e9a80819f 1
+  s_a2a0d026cfb562::t_c3859dc4633fed 2-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "8cc3974f8c33a6b205e6feba7a4fa238c1b28b16",
+  "prompts": {},
+  "sessions": {
+    "s_a2a0d026cfb562": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20bbcee3-b9a9-4b6a-91c4-5f148d357286",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,167 @@
+apps/ctrip-chrome-extension/src/ctrip/DebugRunner.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 1-1538
+apps/ctrip-chrome-extension/src/ctrip/components/SaveModal.tsx
+  s_4e18e5eb3909b4::t_599d287bac49b2 1-211
+apps/ctrip-chrome-extension/src/ctrip/hooks/usePlayground.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 2-579
+apps/ctrip-chrome-extension/src/ctrip/service/mpass-api.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 23-316
+apps/ctrip-chrome-extension/src/ctrip/serviceWorker.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 1-188
+apps/ctrip-chrome-extension/ctrip-upload/portalService.cjs
+  s_4e18e5eb3909b4::t_68a1c388299513 2-141
+packages/web-integration/src/playwright/page-agent.ts
+  s_f23b8257ea75ba::t_84a2e12c4568b9 5-8,61-63
+apps/ctrip-chrome-extension/ctrip-upload/update-version.cjs
+  s_4e18e5eb3909b4::t_68a1c388299513 1-86
+apps/ctrip-chrome-extension/ctrip-upload/upload.cjs
+  s_4e18e5eb3909b4::t_68a1c388299513 1-118
+apps/ctrip-chrome-extension/src/ctrip/store/store.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 1-120
+apps/ctrip-chrome-extension/src/components/EnvConfigReminder/index.less
+  s_4e18e5eb3909b4::t_8d636c613fed07 21
+apps/ctrip-chrome-extension/src/ctrip/utils/index.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 1-386
+apps/ctrip-chrome-extension/src/ctrip/components/playground.less
+  s_4e18e5eb3909b4::t_8d636c613fed07 5-173
+apps/ctrip-chrome-extension/src/components/EnvConfigReminder/index.tsx
+  s_4e18e5eb3909b4::t_599d287bac49b2 18-30
+apps/ctrip-chrome-extension/src/extension/recorder/index.tsx
+  s_4e18e5eb3909b4::t_599d287bac49b2 25-261
+apps/ctrip-chrome-extension/src/ctrip/utils/aiAssert.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 1-755
+packages/core/src/yaml/player.ts
+  s_cf20964a078e99::t_7b3ab516f1e939 1451-1454,1462
+  s_4e18e5eb3909b4::t_a806385311e152 1455-1459,2504
+apps/ctrip-chrome-extension/src/ctrip/components/playground.tsx
+  s_4e18e5eb3909b4::t_1f3874407886c6 147-159
+  s_4e18e5eb3909b4::t_599d287bac49b2 5-134,172-275
+apps/ctrip-chrome-extension/src/scripts/worker.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 5-674
+apps/ctrip-chrome-extension/ctrip-upload/utils.cjs
+  s_4e18e5eb3909b4::t_68a1c388299513 4-100
+apps/ctrip-chrome-extension/package.json
+  s_4e18e5eb3909b4::t_c8b918f26ab0cf 58-62
+  s_4e18e5eb3909b4::t_68a1c388299513 75
+  s_4e18e5eb3909b4::t_336a03463db6c1 52
+  s_4e18e5eb3909b4::t_817d69cc6cc95f 66
+  s_4e18e5eb3909b4::t_cfd2d604053287 16
+  s_4e18e5eb3909b4::t_3c4f7ec7584f2f 41
+  s_4e18e5eb3909b4::t_be7bd1050f90d3 71
+apps/ctrip-chrome-extension/src/extension/popup/index.tsx
+  s_4e18e5eb3909b4::t_599d287bac49b2 3-401
+apps/ctrip-chrome-extension/src/ctrip/components/case-editor/promptInput.less
+  s_4e18e5eb3909b4::t_8d636c613fed07 80-82
+apps/ctrip-chrome-extension/src/ctrip/components/case-editor/AutomationBuilder.tsx
+  s_4e18e5eb3909b4::t_e8fdd4a4dab099 820,824-865,887,910,1073,1124,1148,1172
+  s_4e18e5eb3909b4::t_87fa7aa389ff9d 821-823,866-869,888-891,911-914,1074-1077,1125-1128,1149-1152,1173-1176
+packages/web-integration/src/common/browser-agent-utils.ts
+  s_f23b8257ea75ba::t_84a2e12c4568b9 75-91
+apps/ctrip-chrome-extension/src/ctrip/components/case-editor/styles.less
+  s_4e18e5eb3909b4::t_8d636c613fed07 2-593
+apps/ctrip-chrome-extension/src/ctrip/service-worker/network-storage.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 4-82
+packages/cli/src/create-yaml-player.ts
+  s_f23b8257ea75ba::t_84a2e12c4568b9 379,431-434
+  s_cf20964a078e99::t_7b3ab516f1e939 26
+apps/ctrip-chrome-extension/src/ctrip/utils/locationPresets.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 19-320
+apps/ctrip-chrome-extension/src/extension/recorder/components/ProgressModal.tsx
+  s_4e18e5eb3909b4::t_599d287bac49b2 538-728
+apps/ctrip-chrome-extension/scripts/pack-extension.js
+  s_4e18e5eb3909b4::t_68a1c388299513 3-63
+packages/core/src/agent/agent.ts
+  s_4e18e5eb3909b4::t_a806385311e152 1502-1503,2693,2752,2787
+  s_4e18e5eb3909b4::t_032b028c792792 3462-3465,3467-3473,3475-3478,3480-3481
+  s_cf20964a078e99::t_7b3ab516f1e939 3011
+  s_4e18e5eb3909b4::t_fda2e5cae2325d 3474,3479
+packages/web-integration/src/playwright/browser-agent.ts
+  s_f23b8257ea75ba::t_8713e56e0e45c7 3,25,42,44-46
+  s_f23b8257ea75ba::t_04974fe70e72f3 2174-2194,2196-2211,2213-2217,2234,2236-2237
+  s_f23b8257ea75ba::t_c734e7e456f38a 66-97,99-367,370-375,381-384
+  s_f23b8257ea75ba::t_a1bdeda4e898b3 15
+  s_f23b8257ea75ba::t_bd5deab9544cd0 34
+  s_f23b8257ea75ba::t_93bbea26d4d054 2085-2088,2090-2097,2109-2111,2119-2143,2242,2274,2280,2282,2324-2326,2375-2379
+  s_f23b8257ea75ba::t_3d2d8c29e767a7 2144-2172,2241
+  s_f23b8257ea75ba::t_0b2acebfe89613 2,43
+  s_f23b8257ea75ba::t_215ac72c2b7b24 2352-2370
+  s_f23b8257ea75ba::t_91410980477b1d 2341-2351
+  s_f23b8257ea75ba::t_e0fe5d8ef53795 2218-2220,2222-2223,2225-2232
+  s_f23b8257ea75ba::t_db8cb9027346d3 2078-2084,2089,2098-2108,2112-2118,2238-2240,2243-2273,2275-2279,2281,2283-2323,2327-2340,2371-2374,2380-2381
+  h_b9b296a49e0541 368-369,376-380,1739,1742,1745,2173,2195,2212,2221,2224,2233,2235
+  s_f23b8257ea75ba::t_674514df9997b8 98
+  s_f23b8257ea75ba::t_84a2e12c4568b9 1,10-13,16-24,26-27,29-33,35-40,53,64-65,385-447,488-501,546,553-656,692-1738,1740-1741,1743-1744,1746-1845,1849-1852,1859-1948,1952-2077,2383-2387,2392-2627
+  s_f23b8257ea75ba::t_2798c0b53f19b5 47-52
+apps/ctrip-chrome-extension/src/ctrip/components/common.less
+  s_4e18e5eb3909b4::t_8d636c613fed07 4-18
+apps/ctrip-chrome-extension/src/ctrip/components/webOptions.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 5-631
+apps/ctrip-chrome-extension/src/extension/popup/index.less
+  s_4e18e5eb3909b4::t_8d636c613fed07 6-172
+apps/ctrip-chrome-extension/src/ctrip/components/MockSetting.tsx
+  s_4e18e5eb3909b4::t_599d287bac49b2 1-304,306-813
+  s_4e18e5eb3909b4::t_72e84ac87935d1 305
+apps/ctrip-chrome-extension/src/components/playground.less
+  s_4e18e5eb3909b4::t_8d636c613fed07 91-311
+packages/core/src/agent/tasks.ts
+  s_cf20964a078e99::t_7b3ab516f1e939 216
+  s_4e18e5eb3909b4::t_a806385311e152 608,612-615,884,959,1014,1039
+packages/shared/src/mPaas.ts
+  s_cf20964a078e99::t_7b3ab516f1e939 602-605,608-609
+apps/ctrip-chrome-extension/src/ctrip/ChromeAgent.ts
+  s_4e18e5eb3909b4::t_599d287bac49b2 1-666
+packages/web-integration/src/playwright/agent-launcher.ts
+  s_d5bbd75b44cd30::t_31b96073430655 4-14,746-760
+  h_b9b296a49e0541 407-408,611,821,826
+  s_f23b8257ea75ba::t_a2f6988cf5b261 815-816,830-839
+  s_d5bbd75b44cd30::t_e1577f87cdbe4c 828
+  s_d5bbd75b44cd30::t_619e0d2e9be916 439
+  s_f23b8257ea75ba::t_2b9219dde3606b 15
+  s_f23b8257ea75ba::t_a24d9ce37ad4d3 590-592
+  s_f23b8257ea75ba::t_e7fa774b7e568b 420-421
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "57b68e4276274e392af82656f4f86a2977d96c35",
+  "prompts": {},
+  "humans": {
+    "h_b9b296a49e0541": {
+      "author": "msxiao <msxiao@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_4e18e5eb3909b4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5b54acbaffeZGZ39odbZOM7Lc",
+        "model": "claude-opus-4-6-v1"
+      },
+      "human_author": "msxiao <msxiao@trip.com>"
+    },
+    "s_cf20964a078e99": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5b757298ffe2kIGslolw16aCb",
+        "model": "claude-opus-4-6-v1"
+      },
+      "human_author": "msxiao <msxiao@trip.com>"
+    },
+    "s_d5bbd75b44cd30": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d0f7583-4d36-4300-a103-39a99e15d313",
+        "model": "ep-tavmzh6e"
+      },
+      "human_author": "msxiao <msxiao@trip.com>"
+    },
+    "s_f23b8257ea75ba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5d1c5731ffeT7CV3BLLxoNADX",
+        "model": "claude-opus-4-6-v1"
+      },
+      "human_author": "msxiao <msxiao@trip.com>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+packages/core/src/agent/task-builder.ts
+  s_a2a0d026cfb562::t_2c929fb414ad5d 1025-1029
+  s_a2a0d026cfb562::t_ea52411cc77eab 189-191
+  s_a2a0d026cfb562::t_c64c5770f6fbef 549-552
+  s_a2a0d026cfb562::t_8a967a4249630a 448-449
+  s_a2a0d026cfb562::t_2f9677713dbef7 514-543
+  s_a2a0d026cfb562::t_4e85cd3841c536 719,721-751
+  s_a2a0d026cfb562::t_6e7a437f07ecb6 491-504
+  s_a2a0d026cfb562::t_56a7c4e8e04b7b 157-168
+  s_a2a0d026cfb562::t_9f99b6e27f41dc 308-309,315-327,343-349
+packages/core/src/agent/index.ts
+  s_a2a0d026cfb562::t_647b0957a436f5 54-60
+packages/core/src/agent/task-cache.ts
+  s_a2a0d026cfb562::t_29054d6a32c6bd 5,9,14-17,22,215-225,236,253-254,261-262,412-414,540-620
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "1f86420f4a607edc401849248979e39e038c2758",
+  "prompts": {},
+  "sessions": {
+    "s_a2a0d026cfb562": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20bbcee3-b9a9-4b6a-91c4-5f148d357286",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "yongkunhuang <yongkunhuang@trip.com>"
+    }
+  }
+}

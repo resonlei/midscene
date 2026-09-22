@@ -1,0 +1,43 @@
+apps/ctrip-chrome-extension/src/ctrip/utils/index.ts
+  s_01332cf0507279::t_fcef55d1abe6c3 387-407,410-413,415,417-418,425-432
+  s_01332cf0507279::t_27c1bfbed3bb91 408-409,414,416,419-423
+apps/ctrip-chrome-extension/src/ctrip/DebugRunner.ts
+  s_01332cf0507279::t_1200f2872fd819 286-289,291
+  s_01332cf0507279::t_1cc282739dd5f4 1415-1418,1420-1422,1424-1431
+  s_01332cf0507279::t_fd1e7d023ce408 1419
+  s_01332cf0507279::t_f22ca2a8279eb8 11
+apps/ctrip-chrome-extension/src/ctrip/components/webOptions.ts
+  s_01332cf0507279::t_8ad6518b4d894e 458-462
+packages/core/src/yaml/player.ts
+  s_01332cf0507279::t_9ea29a8393c1ef 1556
+  s_01332cf0507279::t_dfa5d4037ec9a1 343
+  s_01332cf0507279::t_c109f72544dd2d 1554-1555
+packages/core/src/agent/agent.ts
+  s_01332cf0507279::t_36ba57a53be7ac 3233-3261
+packages/web-integration/src/playwright/browser-agent.ts
+  s_01332cf0507279::t_7a83378c857b52 138-142
+  s_01332cf0507279::t_e18d8cdfecf19f 2384-2385,2387,2389-2406,2409-2416
+  s_01332cf0507279::t_d3d80e5b9221d9 2386,2388,2407-2408
+  h_b9b296a49e0541 2350
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "d98a5a4c9907a78aceca54ef7a2a88839eec32e0",
+  "prompts": {},
+  "humans": {
+    "h_b9b296a49e0541": {
+      "author": "msxiao <msxiao@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_01332cf0507279": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f382fd20bffemfTpaGmGRPd0Lo",
+        "model": "claude-opus-4-6-v1"
+      },
+      "human_author": "msxiao <msxiao@trip.com>"
+    }
+  }
+}

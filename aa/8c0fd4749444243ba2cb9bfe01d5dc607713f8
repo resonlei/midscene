@@ -1,0 +1,39 @@
+apps/ctrip-chrome-extension/src/ctrip/DebugRunner.ts
+  s_97c883a776cc5a::t_b7683c0f5da5fb 84
+  s_97c883a776cc5a::t_5382538d62d17d 527-529
+  s_97c883a776cc5a::t_00a9095c99bfd5 12
+  s_97c883a776cc5a::t_8cf97f0d2c05b0 203
+  s_97c883a776cc5a::t_aa239b47f390a5 1092-1093
+packages/web-integration/src/playwright/browser-agent.ts
+  s_97c883a776cc5a::t_3083a2b6e344ad 230
+  s_97c883a776cc5a::t_dcda24582c67af 217
+  s_97c883a776cc5a::t_991aa3fd0adfaa 2353
+  s_97c883a776cc5a::t_76635bfec01ad9 383-385
+packages/core/src/yaml/player.ts
+  s_97c883a776cc5a::t_b59213296003e0 168-198
+  s_97c883a776cc5a::t_faa8d983f549a0 972-982
+  h_b9b296a49e0541 1032,1034
+apps/ctrip-chrome-extension/src/ctrip/utils/index.ts
+  s_97c883a776cc5a::t_6c2a551027972a 340-345,347-373
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "aa8c0fd4749444243ba2cb9bfe01d5dc607713f8",
+  "prompts": {},
+  "humans": {
+    "h_b9b296a49e0541": {
+      "author": "msxiao <msxiao@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_97c883a776cc5a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f376d9152ffeXa2urOMl7lHgIo",
+        "model": "claude-opus-4-6-v1"
+      },
+      "human_author": "msxiao <msxiao@trip.com>"
+    }
+  }
+}

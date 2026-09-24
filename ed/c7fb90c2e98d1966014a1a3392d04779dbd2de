@@ -1,0 +1,16 @@
+packages/cli/src/create-yaml-player.ts
+  h_b9b296a49e0541 286-288,290-291
+packages/web-integration/src/playwright/browser-agent.ts
+  h_b9b296a49e0541 195,208-293,2241-2243,2267,2389-2390,2399,2483-2485,2487,2623-2624
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "edc7fb90c2e98d1966014a1a3392d04779dbd2de",
+  "prompts": {},
+  "humans": {
+    "h_b9b296a49e0541": {
+      "author": "msxiao <msxiao@trip.com>"
+    }
+  }
+}

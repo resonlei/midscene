@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "e6b71affd1dbb50c6f9c7c8e4cdbab647ddfc2c3",
+  "prompts": {},
+  "humans": {
+    "h_b9b296a49e0541": {
+      "author": "msxiao <msxiao@trip.com>"
+    }
+  }
+}

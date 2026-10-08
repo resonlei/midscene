@@ -1,0 +1,14 @@
+packages/web-integration/src/playwright/agent-launcher.ts
+  h_b9b296a49e0541 407-410
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "8561df2319c8c0c40fa26eb769e3a82e81e0813d",
+  "prompts": {},
+  "humans": {
+    "h_b9b296a49e0541": {
+      "author": "msxiao <msxiao@trip.com>"
+    }
+  }
+}

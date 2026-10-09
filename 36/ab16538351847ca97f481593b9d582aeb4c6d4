@@ -1,0 +1,31 @@
+packages/core/src/agent/agent.ts
+  s_99bd1682b9f56d::t_487dcddce1c8f6 1538
+packages/core/src/task-runner.ts
+  s_99bd1682b9f56d::t_8f8476c457f882 57-105,862
+  s_99bd1682b9f56d::t_da7d8729d69bfe 54-56,106-123
+packages/core/src/yaml/player.ts
+  s_99bd1682b9f56d::t_a83e54c752e84f 744-756
+  s_99bd1682b9f56d::t_6947067826f3db 428-452,767
+  s_99bd1682b9f56d::t_608b069a1adf80 2734-2741,2744-2745
+  s_99bd1682b9f56d::t_00f7a188787845 2108,2110,2117-2119,2134
+packages/shared/src/context.ts
+  s_99bd1682b9f56d::t_2042690f6e78d8 80-91,103,105-106,188-196,209
+packages/core/src/agent/task-cache.ts
+  s_99bd1682b9f56d::t_35ffec79140452 776-796
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "36ab16538351847ca97f481593b9d582aeb4c6d4",
+  "prompts": {},
+  "sessions": {
+    "s_99bd1682b9f56d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_mk2qinmoixan",
+        "model": "DeepSeek-V4.1-Flash"
+      },
+      "human_author": "zhangyingtang <zhangyingtang@trip.com>"
+    }
+  }
+}

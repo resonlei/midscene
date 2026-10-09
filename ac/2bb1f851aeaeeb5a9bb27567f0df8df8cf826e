@@ -1,0 +1,21 @@
+package.json
+  s_d600b7fce4327a::t_f0d557006fceb6 34-36,40
+apps/ctrip-chrome-extension/static/manifest.json
+  s_d600b7fce4327a::t_3861325287f5fc 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "ac2bb1f851aeaeeb5a9bb27567f0df8df8cf826e",
+  "prompts": {},
+  "sessions": {
+    "s_d600b7fce4327a": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lopz259j9xh4",
+        "model": "kr-claude-opus-5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

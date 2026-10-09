@@ -1,0 +1,33 @@
+apps/ctrip-chrome-extension/src/ctrip/service-worker/imageUpload.ts
+  s_d600b7fce4327a::t_7fb6b6c7d79800 39-41
+  s_d600b7fce4327a::t_cdbdfe7981dbac 1-38,42
+apps/ctrip-chrome-extension/src/ctrip/build-info.ts
+  s_d600b7fce4327a::t_3b7fe5273197cb 1-7
+  s_d600b7fce4327a::t_a53dcbebcff859 8
+apps/ctrip-chrome-extension/rsbuild.config.ts
+  s_d600b7fce4327a::t_5aaadb8771305d 110-125
+apps/ctrip-chrome-extension/src/ctrip/service-worker/__tests__/reportImageUpload.test.ts
+  s_d600b7fce4327a::t_c9e70d0a4fc923 13-14
+  s_d600b7fce4327a::t_6833137dfe9e2c 84,93
+  s_d600b7fce4327a::t_f04ce76c72e75b 56-58
+  s_d600b7fce4327a::t_f1492f7bb7020d 1-12,15-55,59-83,85-92,94-110
+apps/ctrip-chrome-extension/src/ctrip/store/store.ts
+  s_d600b7fce4327a::t_7d74864ff23107 36-38
+  s_d600b7fce4327a::t_cdfc34bdbecd33 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "c4ebb4a359b05480c9a24bc752bb610075a9a0e2",
+  "prompts": {},
+  "sessions": {
+    "s_d600b7fce4327a": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lopz259j9xh4",
+        "model": "kr-claude-opus-5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

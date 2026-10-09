@@ -1,0 +1,60 @@
+apps/ctrip-chrome-extension/src/ctrip/service-worker/recordInIframe.ts
+  s_d600b7fce4327a::t_78370b0a393899 343
+  s_d600b7fce4327a::t_aca846d0c307a9 345-346,351-357
+  s_d600b7fce4327a::t_52a1ee42f58f63 373-402
+  s_d600b7fce4327a::t_27785dd9914e02 423
+  s_d600b7fce4327a::t_7309fda1f70e10 37-38
+  s_d600b7fce4327a::t_0e701680a3db6e 1-7,11-12,15-22,30-34,39-41,174,191-200,206,213-222,232,234-240,243,327-329,331,333-338,347-350,360-361,363-364,367-368,370-372,404-405,412-421
+  s_d600b7fce4327a::t_d6a4468f5f1867 201-205
+  s_d600b7fce4327a::t_7fb6b6c7d79800 275-276
+  s_d600b7fce4327a::t_1e33a22e31db41 175-177,179-187
+  s_d600b7fce4327a::t_7251eb5e22b262 207,212
+  s_d600b7fce4327a::t_767c2f4efbf274 296-303,305,307
+  s_d600b7fce4327a::t_d9fbd2faed08f8 13-14,23-29
+  s_d600b7fce4327a::t_66552cdb974775 35-36,42,48-116,134-135,137-173
+  s_d600b7fce4327a::t_31a598293c51ba 8-10,178,188-190,208-211,332,362,365-366,369,403,406-411,422
+  s_d600b7fce4327a::t_cb430c15a41e5c 358-359
+  s_d600b7fce4327a::t_7d3f082a6fd8db 223-231,233,241-242,244-274,277-279,282,292-293,295,304,306,308-326
+  s_d600b7fce4327a::t_337dbc74f22e50 117-133,136
+  s_d600b7fce4327a::t_3aa092208f7a82 330,339-342,344
+  s_d600b7fce4327a::t_c9580af9fe1787 43-47
+  s_d600b7fce4327a::t_81e147d208ed9c 280-281,283-291,294
+apps/ctrip-chrome-extension/src/scripts/event-recorder-bridge.ts
+  s_d600b7fce4327a::t_50b632833e3bac 48-49,74,84-88,450
+  s_d600b7fce4327a::t_319fdc34634401 451-452
+  s_d600b7fce4327a::t_719563386464fe 534-543
+  s_d600b7fce4327a::t_71bb941cb90d66 50-51
+  s_d600b7fce4327a::t_edf203a9b797da 75-76
+  s_d600b7fce4327a::t_5b6d074011b7af 444-446
+  s_d600b7fce4327a::t_40e3fa58f9c3f3 198-213
+  s_d600b7fce4327a::t_ce471e63049af7 41-43
+  s_d600b7fce4327a::t_7ebb4c5d596c30 447
+  s_d600b7fce4327a::t_0b3f05eb6c5f4d 434-443,448-449
+apps/ctrip-chrome-extension/src/scripts/worker.ts
+  s_d600b7fce4327a::t_5b6d074011b7af 468
+  s_d600b7fce4327a::t_79672b5a16d3be 438-467,469-485,490
+apps/ctrip-chrome-extension/src/ctrip/service-worker/__tests__/recordEventPayload.test.ts
+  s_d600b7fce4327a::t_6531937d46381b 1-16,20-95,100-123
+  s_d600b7fce4327a::t_7fb6b6c7d79800 17-19,96-99
+apps/ctrip-chrome-extension/src/ctrip/service-worker/__tests__/recordPause.test.ts
+  s_d600b7fce4327a::t_5b8a56e85d811c 1-132
+apps/ctrip-chrome-extension/src/ctrip/service-worker/__tests__/recordCropGeometry.test.ts
+  s_d600b7fce4327a::t_e355e4af2adb24 28
+  s_d600b7fce4327a::t_c38c36b3e3f568 1-27,29-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "a81dbe8f5e53ff904c8170bc735417681f6312bd",
+  "prompts": {},
+  "sessions": {
+    "s_d600b7fce4327a": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lopz259j9xh4",
+        "model": "kr-claude-opus-5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

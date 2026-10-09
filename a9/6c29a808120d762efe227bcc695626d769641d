@@ -1,0 +1,19 @@
+packages/web-integration/src/chrome-extension/index.ts
+  s_d600b7fce4327a::t_9257891611477c 3,12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "a96c29a808120d762efe227bcc695626d769641d",
+  "prompts": {},
+  "sessions": {
+    "s_d600b7fce4327a": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lopz259j9xh4",
+        "model": "kr-claude-opus-5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

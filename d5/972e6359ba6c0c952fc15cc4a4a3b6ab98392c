@@ -1,0 +1,46 @@
+packages/core/src/dump/report-action-dump.ts
+  s_d600b7fce4327a::t_7e070537628392 328-331
+  s_d600b7fce4327a::t_aab1aff81c6989 332-370,397,434-438
+  s_d600b7fce4327a::t_48a5f3e863f2c5 417-425,428
+  s_d600b7fce4327a::t_f252c2561b2e99 426-427
+  s_d600b7fce4327a::t_c2bbf7679176aa 15
+  s_d600b7fce4327a::t_8a5176f6e79510 371-396,400-416
+packages/core/src/screenshot-item.ts
+  s_d600b7fce4327a::t_eaace00580c210 2
+  s_d600b7fce4327a::t_8e6cbbed51e8da 43
+  s_d600b7fce4327a::t_59ee855b986ed2 97-126
+  s_d600b7fce4327a::t_2b64e2fb9ba38b 208-213
+  s_d600b7fce4327a::t_2ecee65b47666c 191-194
+packages/core/src/agent/agent.ts
+  s_d600b7fce4327a::t_e12594c9541596 974-977,983-985,990-998
+packages/core/tests/unit-test/dump-inline-persisted-screenshots.test.ts
+  s_d600b7fce4327a::t_465d8e99476ce4 1-53,65-81,87-90
+  s_d600b7fce4327a::t_c19745289f08af 54-64,82-86
+packages/core/tests/unit-test/dump-remote-screenshot-urls.test.ts
+  s_d600b7fce4327a::t_5856653f5f5066 1-180
+packages/core/src/task-runner.ts
+  s_d600b7fce4327a::t_dfd0b6811a2b0c 61-65
+  s_d600b7fce4327a::t_a47ec01b40cbd5 34
+  s_d600b7fce4327a::t_7b861744b295e8 594-622,625-627,629-649,651-687,833-834
+  s_d600b7fce4327a::t_fc8160e586e834 181-187
+  s_d600b7fce4327a::t_53c81395fcb76a 549-554
+  s_d600b7fce4327a::t_425b5e36c733ef 735
+  s_d600b7fce4327a::t_3c0f42b2675ad1 831,835
+  s_d600b7fce4327a::t_8217c8b18e84a2 507
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "d5972e6359ba6c0c952fc15cc4a4a3b6ab98392c",
+  "prompts": {},
+  "sessions": {
+    "s_d600b7fce4327a": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lopz259j9xh4",
+        "model": "kr-claude-opus-5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

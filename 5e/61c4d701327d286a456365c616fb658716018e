@@ -1,0 +1,21 @@
+apps/ctrip-chrome-extension/src/ctrip/build-info.ts
+  s_d600b7fce4327a::t_89ba0f2c1f4dcb 8
+apps/ctrip-chrome-extension/src/ctrip/serviceWorker.ts
+  s_d600b7fce4327a::t_9a4bf7266ee031 167-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "5e61c4d701327d286a456365c616fb658716018e",
+  "prompts": {},
+  "sessions": {
+    "s_d600b7fce4327a": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lopz259j9xh4",
+        "model": "kr-claude-opus-5"
+      },
+      "human_author": "wang_jian <wang_jian@trip.com>"
+    }
+  }
+}

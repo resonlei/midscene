@@ -1,0 +1,35 @@
+packages/android/src/device.ts
+  s_f825e8ed71ab88::t_361ede0f7d0173 2520-2522
+  s_f825e8ed71ab88::t_511943f443caf8 2468-2470
+  s_f825e8ed71ab88::t_2b8e7756eb5384 2471-2480
+packages/android/tests/unit-test/page.test.ts
+  s_f825e8ed71ab88::t_25f711b077e3fd 2885-2886
+  s_f825e8ed71ab88::t_a4e9646ba3068e 2875-2878
+  s_f825e8ed71ab88::t_7729ec4c205e29 2917
+  s_f825e8ed71ab88::t_66f93fb16a34b6 2874
+  s_f825e8ed71ab88::t_a901df0bd1e255 2918-2923,2933-2937
+  s_f825e8ed71ab88::t_8a1ed08dcc78ee 2896-2916,2924-2932,2938-2941
+  s_f825e8ed71ab88::t_c45be1979eba34 2954
+  s_f825e8ed71ab88::t_1ce2bf2d1286e3 2845-2846
+  s_f825e8ed71ab88::t_38a1e848bbcec1 2832-2833
+packages/android/tests/unit-test/input-backend.test.ts
+  s_f825e8ed71ab88::t_fb69477bbe06d4 222
+  s_f825e8ed71ab88::t_c57bc8788dcc98 190-191
+  s_f825e8ed71ab88::t_aa21927d848425 237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "766f19844d4f6d724e4fe47dcb491ed22b64ba95",
+  "prompts": {},
+  "sessions": {
+    "s_f825e8ed71ab88": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_vq3fmnmcykxa",
+        "model": "kr-claude-opus-5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

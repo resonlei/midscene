@@ -1,0 +1,23 @@
+packages/android/tests/unit-test/page.test.ts
+  s_f825e8ed71ab88::t_dba89c3e306865 2626-2627
+  s_f825e8ed71ab88::t_af85a7cabcfa3a 2657
+packages/android/src/device.ts
+  s_f825e8ed71ab88::t_b180a049b1cf83 2294-2296
+  s_f825e8ed71ab88::t_e09aadbd62f2bd 2242-2254
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "6a7c18277c3ea3a264d6226a2c3af5837e99fad6",
+  "prompts": {},
+  "sessions": {
+    "s_f825e8ed71ab88": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_vq3fmnmcykxa",
+        "model": "kr-claude-opus-5.5"
+      },
+      "human_author": "resonLei <sheng.lei@trip.com>"
+    }
+  }
+}

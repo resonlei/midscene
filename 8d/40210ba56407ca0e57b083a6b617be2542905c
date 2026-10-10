@@ -1,0 +1,14 @@
+packages/web-integration/src/playwright/browser-agent.ts
+  h_b9b296a49e0541 462
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "8d40210ba56407ca0e57b083a6b617be2542905c",
+  "prompts": {},
+  "humans": {
+    "h_b9b296a49e0541": {
+      "author": "msxiao <msxiao@trip.com>"
+    }
+  }
+}

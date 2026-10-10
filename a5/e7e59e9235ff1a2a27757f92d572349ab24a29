@@ -1,0 +1,25 @@
+packages/web-integration/src/playwright/browser-agent.ts
+  s_f23b8257ea75ba::t_215ac72c2b7b24 2567-2568,2570
+  s_f23b8257ea75ba::t_0b2acebfe89613 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "a5e7e59e9235ff1a2a27757f92d572349ab24a29",
+  "prompts": {},
+  "humans": {
+    "h_b9b296a49e0541": {
+      "author": "msxiao <msxiao@trip.com>"
+    }
+  },
+  "sessions": {
+    "s_f23b8257ea75ba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5d1c5731ffeT7CV3BLLxoNADX",
+        "model": "claude-opus-4-6-v1"
+      },
+      "human_author": null
+    }
+  }
+}
